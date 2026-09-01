@@ -316,105 +316,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 }
 
 
-/* ── PRICE MODE TOGGLE ── */
-.price-mode-toggle {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  background: var(--beige);
-  border-radius: 8px;
-  padding: 3px;
-  flex-shrink: 0;
-}
-.price-mode-toggle button {
-  background: none;
-  border: none;
-  padding: 6px 13px;
-  border-radius: 6px;
-  font-size: 12px;
-  font-weight: 500;
-  cursor: pointer;
-  color: var(--text-mid);
-  font-family: inherit;
-  transition: all 0.18s;
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  white-space: nowrap;
-}
-.price-mode-toggle button.active {
-  background: var(--taupe);
-  color: var(--white);
-}
-.lock-icon { font-size: 11px; opacity: 0.7; }
-
-/* ── PASSWORD MODAL ── */
-.pwd-overlay {
-  position: fixed; inset: 0;
-  background: rgba(30,20,15,0.45);
-  backdrop-filter: blur(4px);
-  z-index: 300;
-  display: flex; align-items: center; justify-content: center;
-  opacity: 0; pointer-events: none;
-  transition: opacity 0.2s;
-}
-.pwd-overlay.open { opacity: 1; pointer-events: all; }
-.pwd-modal {
-  background: var(--white);
-  border-radius: 14px;
-  padding: 32px 28px;
-  width: 100%;
-  max-width: 340px;
-  box-shadow: 0 16px 48px rgba(30,20,15,0.2);
-  transform: translateY(12px);
-  transition: transform 0.22s cubic-bezier(0.34,1.56,0.64,1);
-  text-align: center;
-}
-.pwd-overlay.open .pwd-modal { transform: translateY(0); }
-.pwd-modal h3 {
-  font-size: 16px;
-  font-weight: 600;
-  color: var(--taupe-xdark);
-  margin-bottom: 6px;
-}
-.pwd-modal p {
-  font-size: 12.5px;
-  color: var(--text-light);
-  margin-bottom: 20px;
-  line-height: 1.5;
-}
-.pwd-input-wrap {
-  position: relative;
-  margin-bottom: 10px;
-}
-.pwd-input-wrap input {
-  width: 100%;
-  padding: 11px 40px 11px 16px;
-  border: 1.5px solid var(--beige-mid);
-  border-radius: 8px;
-  font-size: 20px;
-  font-family: inherit;
-  letter-spacing: 6px;
-  text-align: center;
-  outline: none;
-  color: var(--text);
-  transition: border-color 0.18s;
-}
-.pwd-input-wrap input:focus { border-color: var(--taupe); }
-.pwd-input-wrap input.error { border-color: var(--badge-out); animation: shake 0.35s ease; }
-.pwd-show-btn {
-  position: absolute;
-  right: 12px; top: 50%;
-  transform: translateY(-50%);
-  background: none; border: none;
-  cursor: pointer; color: var(--text-light); font-size: 15px;
-}
-.pwd-error-msg {
-  font-size: 12px;
-  color: var(--badge-out);
-  min-height: 18px;
-  margin-bottom: 12px;
-}
+/* ── BOTONES DE MODALES (destinos / datos del cliente) ── */
 .pwd-submit {
   width: 100%;
   padding: 11px;
@@ -436,6 +338,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   cursor: pointer; font-family: inherit;
   text-decoration: underline;
 }
+
 @keyframes shake {
   0%,100% { transform: translateX(0); }
   20%,60% { transform: translateX(-6px); }
@@ -548,14 +451,11 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   header { padding: 0 14px; }
   .header-stats { display: none; }
   .header-spacer { display: none; }
-  /* Logo en la primera linea; modos + carrito en la segunda */
+  /* Logo en la primera linea; carrito en la segunda */
   .header-inner { flex-wrap: wrap; height: auto; padding: 9px 0; gap: 10px; row-gap: 9px; }
   .logo-area { width: 100%; gap: 10px; }
   .header-logo { height: 34px; }
   .brand-subtitle { font-size: 9.5px; letter-spacing: 0.06em; }
-  .price-mode-toggle { flex: 1 1 auto; min-width: 0; }
-  .price-mode-toggle button { flex: 1; justify-content: center; padding: 7px 6px; font-size: 11.5px; gap: 4px; }
-  .lock-icon { font-size: 10px; }
   .cart-btn { height: 36px; }
 }
 </style>
@@ -572,11 +472,6 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
     </div>
     <div class="header-spacer"></div>
     <div class="header-stats" id="headerStats"></div>
-    <div class="price-mode-toggle">
-      <button id="btnCatalogo" class="active" onclick="goPublico()">Catálogo</button>
-      <button id="btnDetal" onclick="requestMode('detal')">Detal <span class="lock-icon" id="lockDetal">🔒</span></button>
-      <button id="btnMayorista" onclick="requestMode('mayorista')">Mayorista <span class="lock-icon" id="lockMay">🔒</span></button>
-    </div>
     <button class="cart-btn" id="cartBtn" onclick="openCart()" title="Ver pedido">🛍️<span class="cart-label">Carrito</span><span class="cart-count" id="cartCount">0</span></button>
   </div>
 </header>
@@ -612,8 +507,6 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
         </button>
         <select class="sort-select" id="sortSelect" onchange="render()">
           <option value="default">Ordenar por defecto</option>
-          <option value="price-asc">Precio: menor a mayor</option>
-          <option value="price-desc">Precio: mayor a menor</option>
           <option value="name-asc">Nombre A→Z</option>
           <option value="brand-asc">Marca A→Z</option>
         </select>
@@ -657,7 +550,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
         <div class="order-controls" id="orderControls">
           <div class="order-note-label">Color / Nota (opcional)</div>
           <input type="text" class="order-note" id="modalNota" maxlength="140"
-                 placeholder="Ej. color turquesa, o alguna observación para tu asesora…">
+                 placeholder="Ej. color turquesa, o alguna observación sobre el producto…">
           <div class="order-row">
             <div class="qty-select">
               <button onclick="modalQtyDelta(-1)" title="Menos">−</button>
@@ -688,7 +581,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   <div class="cart-items" id="cartItems"></div>
   <div class="cart-foot" id="cartFoot" style="display:none">
     <div class="cart-total-row">
-      <span class="cart-total-label">Total</span>
+      <span class="cart-total-label">Resumen</span>
       <span class="cart-total" id="cartTotal"></span>
     </div>
     <div class="cart-total-note" id="cartTotalNote"></div>
@@ -770,105 +663,6 @@ let eagerCount   = 0;
 let sentinelObserver = null;
 let imgObserver      = null;
 
-// ── PRICE MODE ────────────────────────────────────────────────
-const PWD_DETAL = '121212';
-const PWD_MAY   = '000000';
-let pendingMode = null;
-let priceMode = 'publico';
-let detalProducts = [];
-let mayoristasProducts = [];
-let mayoristasLoaded = false;
-
-function fmtPrice(precio) {
-  if (precio === 'pendiente' || precio === undefined || precio === null) return 'Precio por definir';
-  if (typeof precio === 'string') return precio;
-  return '$ ' + Number(precio).toLocaleString('es-CO');
-}
-
-function goPublico() {
-  priceMode   = 'publico';
-  allProducts = detalProducts;
-  document.getElementById('btnCatalogo').classList.add('active');
-  document.getElementById('btnDetal').classList.remove('active');
-  document.getElementById('btnMayorista').classList.remove('active');
-  document.getElementById('lockDetal').textContent = '🔒';
-  document.getElementById('lockMay').textContent   = '🔒';
-  render();
-}
-
-function requestMode(mode) {
-  if (priceMode === mode) return;
-  pendingMode = mode;
-  const isMay = mode === 'mayorista';
-  document.getElementById('pwdTitle').textContent = isMay ? 'Catálogo Mayorista' : 'Catálogo Detal';
-  document.getElementById('pwdDesc').textContent  = isMay ? 'Ingresa la contraseña para ver precios mayoristas' : 'Ingresa la contraseña para ver precios detal';
-  document.getElementById('pwdInput').value = '';
-  document.getElementById('pwdError').textContent = '';
-  document.getElementById('pwdInput').classList.remove('error');
-  document.getElementById('pwdOverlay').classList.add('open');
-  setTimeout(() => document.getElementById('pwdInput').focus(), 50);
-}
-
-function checkPwd() {
-  const val      = document.getElementById('pwdInput').value;
-  const expected = pendingMode === 'mayorista' ? PWD_MAY : PWD_DETAL;
-  if (val === expected) {
-    closePwd();
-    if (pendingMode === 'mayorista') activateMayorista();
-    else activateDetal();
-  } else {
-    const input = document.getElementById('pwdInput');
-    input.classList.add('error');
-    document.getElementById('pwdError').textContent = 'Contraseña incorrecta';
-    setTimeout(() => input.classList.remove('error'), 400);
-    input.value = '';
-    input.focus();
-  }
-}
-
-function activateDetal() {
-  priceMode   = 'detal';
-  allProducts = detalProducts;
-  document.getElementById('btnCatalogo').classList.remove('active');
-  document.getElementById('btnDetal').classList.add('active');
-  document.getElementById('btnMayorista').classList.remove('active');
-  document.getElementById('lockDetal').textContent = '🔓';
-  document.getElementById('lockMay').textContent   = '🔒';
-  render();
-}
-
-function activateMayorista() {
-  if (mayoristasLoaded) { switchToMayorista(); return; }
-  fetch('skink_productos_mayorista.json')
-    .then(r => r.json())
-    .then(data => {
-      mayoristasProducts = data;
-      mayoristasLoaded   = true;
-      switchToMayorista();
-    })
-    .catch(() => alert('No se pudo cargar el catálogo mayorista.'));
-}
-
-function switchToMayorista() {
-  priceMode   = 'mayorista';
-  allProducts = mayoristasProducts;
-  document.getElementById('btnCatalogo').classList.remove('active');
-  document.getElementById('btnMayorista').classList.add('active');
-  document.getElementById('btnDetal').classList.remove('active');
-  document.getElementById('lockMay').textContent   = '🔓';
-  document.getElementById('lockDetal').textContent = '🔒';
-  render();
-}
-
-function closePwd() {
-  document.getElementById('pwdOverlay').classList.remove('open');
-}
-
-function togglePwdVisibility() {
-  const input = document.getElementById('pwdInput');
-  input.type = input.type === 'password' ? 'text' : 'password';
-}
-
 // Un solo listener para Escape
 document.addEventListener('keydown', e => {
   if (e.key === 'Escape') {
@@ -878,23 +672,22 @@ document.addEventListener('keydown', e => {
     if (destOv && destOv.classList.contains('open')) { closeDestinos(); return; }
     const drawer = document.getElementById('cartDrawer');
     if (drawer && drawer.classList.contains('open')) { closeCart(); return; }
-    closePwd(); closeModal();
+    closeModal();
   }
 });
 
 
 // ── LOAD ───────────────────────────────────────────────────────
-fetch('skink_productos.json')
+fetch('skink_cliente_productos.json')
   .then(r => r.json())
   .then(data => {
-    allProducts   = data;
-    detalProducts = data;
+    allProducts = data;
     document.getElementById('loading').style.display = 'none';
     document.getElementById('catalogContent').style.display = 'block';
     updateStats(); render();
   })
   .catch(() => {
-    document.getElementById('loading').innerHTML = '<p style="color:#c0392b">Error cargando skink_productos.json.</p>';
+    document.getElementById('loading').innerHTML = '<p style="color:#c0392b">Error cargando skink_cliente_productos.json.</p>';
   });
 
 // ── FILTERS ────────────────────────────────────────────────────
@@ -963,9 +756,6 @@ function filterProducts() {
 function sortProducts(arr) {
   const v = document.getElementById('sortSelect').value;
   const s = [...arr];
-  const num = p => p.precio==='pendiente' ? (v==='price-asc'?Infinity:-Infinity) : p.precio;
-  if (v==='price-asc')  s.sort((a,b)=>num(a)-num(b));
-  if (v==='price-desc') s.sort((a,b)=>num(b)-num(a));
   if (v==='name-asc')   s.sort((a,b)=>a.nombre.localeCompare(b.nombre,'es'));
   if (v==='brand-asc')  s.sort((a,b)=>a.marca.localeCompare(b.marca,'es')||a.nombre.localeCompare(b.nombre,'es'));
   return s;
@@ -1014,8 +804,7 @@ const LAZY_PH = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAA
 
 function cardHTML(p, eager) {
   const mainImg    = p.colores ? p.colores[0] : p.imagen;
-  const priceClass = p.precio==='pendiente' ? 'card-price pendiente' : 'card-price';
-  const priceHTML  = priceMode === 'publico' ? '' : '<div class="'+priceClass+'">'+fmtPrice(p.precio)+'</div>';
+  const priceHTML  = '';   // catálogo sin precios
   let badges = '';
   if (isMasVendido(p)) badges += '<span class="badge badge-vendidos">Más vendidos</span>';
   if (p.agotado) badges += '<span class="badge badge-agotado">Agotado</span>';
@@ -1135,14 +924,8 @@ function openModal(idx) {
 
   // Price
   const priceEl = document.getElementById('modalPrice');
-  if (priceMode === 'publico') {
-    priceEl.textContent = '';
-    priceEl.style.display = 'none';
-  } else {
-    priceEl.style.display = '';
-    priceEl.textContent = fmtPrice(p.precio);
-    priceEl.className   = 'modal-price' + (p.precio==='pendiente'||p.precio===undefined ? ' pendiente' : '');
-  }
+  priceEl.textContent   = '';
+  priceEl.style.display = 'none';
 
   // Pedido: resetear cantidad y nota; los agotados no se pueden pedir
   modalQtyVal = 1;
@@ -1432,32 +1215,16 @@ function updateStats() {
 }
 
 // ── CARRITO DE PEDIDOS ────────────────────────────────────────
-const CART_KEY = 'entrebell_skin_pedido';
+const CART_KEY = 'skink_cliente_pedido';
 const CATALOG_NAME = 'Entrebell Skin';
 
-const WHATSAPP_DESTINOS = {
-  sinprecios: [ { label: 'Elegir entre tus contactos', numero: null } ],
-  detal: [
-    { label: 'Elegir entre tus contactos', numero: null },
-    { label: 'Asesora', numero: '573217337623' }
-  ],
-  mayorista: [
-    { label: 'Elegir entre tus contactos', numero: null },
-    { grupo: 'Antioquia', label: 'Sur Medellín, Nordeste, Occidente y Suroeste', asesora: 'Asesora', numero: '573245402583' },
-    { grupo: 'Antioquia', label: 'Centro Medellín', asesora: 'Aide Isabel', numero: '573042343068' },
-    { grupo: 'Antioquia', label: 'Norte', asesora: 'Gloria', numero: '573013408198' },
-    { grupo: 'Antioquia', label: 'Oriente', asesora: 'Gloria', numero: '573013405737' },
-    { grupo: 'Costa y Eje Cafetero', label: 'Costa (Córdoba, Sucre y Atlántico)', asesora: 'Denise', numero: '573013405088' },
-    { grupo: 'Costa y Eje Cafetero', label: 'Eje Cafetero', asesora: 'Maria Luisa', numero: '573217337623' },
-    { grupo: 'Santanderes', label: 'Santander y Norte de Santander', asesora: 'Denise', numero: '573013405088' },
-    { grupo: 'Bogotá y Llanos', label: 'Centro Bogotá', asesora: 'Leydi', numero: '573013408038' },
-    { grupo: 'Bogotá y Llanos', label: 'Periferia Bogotá', asesora: 'Leydi', numero: '573245391366' },
-    { grupo: 'Bogotá y Llanos', label: 'Llanos Orientales (Villavicencio)', asesora: 'Leydi', numero: '573013404640' }
-  ]
-};
+// Único destino: el cliente elige el contacto en su propio WhatsApp.
+// Este catálogo NO lleva números de asesoras.
+const WHATSAPP_DESTINOS = [
+  { label: 'Elegir entre tus contactos', numero: null }
+];
 
-// Cada ítem: { ref, qty, nota }. Los precios NO se guardan: se resuelven
-// siempre según el modo activo (detal / mayorista / catálogo sin precios).
+// Cada ítem: { ref, qty, nota }. Este catálogo no maneja precios.
 let cart = loadCart();
 let modalQtyVal = 1;
 
@@ -1478,24 +1245,7 @@ function saveCart() {
   try { localStorage.setItem(CART_KEY, JSON.stringify(cart)); } catch (e) {}
 }
 
-function productByRef(ref) { return (detalProducts || []).find(p => p.referencia === ref); }
-function pricedProductByRef(ref) {
-  const list = priceMode === 'mayorista' ? mayoristasProducts : detalProducts;
-  return (list || []).find(p => p.referencia === ref);
-}
-// Precio unitario numérico según modo activo; null si no aplica (modo catálogo,
-// precio "pendiente"/"Muestra" o producto no encontrado)
-function unitPriceNum(ref) {
-  if (priceMode === 'publico') return null;
-  const p = pricedProductByRef(ref);
-  return (p && typeof p.precio === 'number') ? p.precio : null;
-}
-function unitPriceRaw(ref) {
-  if (priceMode === 'publico') return null;
-  const p = pricedProductByRef(ref);
-  return p ? p.precio : null;
-}
-function money(n) { return '$' + Number(n).toLocaleString('es-CO'); }
+function productByRef(ref) { return (allProducts || []).find(p => p.referencia === ref); }
 function cartUnits() { return cart.reduce((s, i) => s + i.qty, 0); }
 function escHTML(s) {
   return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -1567,24 +1317,10 @@ function updateCartUI() {
   }
   foot.style.display = '';
 
-  let total = 0, hasPending = false;
   wrap.innerHTML = cart.map((it, idx) => {
     const p = productByRef(it.ref);
     const nombre = p ? p.nombre : it.ref;
-    let pricesHTML;
-    if (priceMode === 'publico') {
-      pricesHTML = '<div class="cart-item-sub pendiente">Precio a confirmar</div>';
-    } else {
-      const num = unitPriceNum(it.ref);
-      if (num === null) {
-        hasPending = true;
-        pricesHTML = '<div class="cart-item-sub pendiente">' + escHTML(fmtPrice(unitPriceRaw(it.ref))) + '</div>';
-      } else {
-        total += num * it.qty;
-        pricesHTML = '<div class="cart-item-unit">' + it.qty + ' × ' + money(num) + '</div>'
-                   + '<div class="cart-item-sub">' + money(num * it.qty) + '</div>';
-      }
-    }
+    const pricesHTML = '';   // catálogo sin precios
     return '<div class="cart-item">'
       + '<div class="cart-item-top"><div>'
       +   '<div class="cart-item-name">' + escHTML(nombre) + '</div>'
@@ -1601,18 +1337,13 @@ function updateCartUI() {
       + '</div></div>';
   }).join('');
 
-  // Total
+  // Resumen (sin precios)
   const totalEl = document.getElementById('cartTotal');
   const noteEl  = document.getElementById('cartTotalNote');
-  if (priceMode === 'publico') {
-    totalEl.textContent = 'Precios a confirmar';
-    totalEl.className = 'cart-total pendiente';
-    noteEl.textContent = 'Tu asesora te confirmará los precios.';
-  } else {
-    totalEl.textContent = money(total);
-    totalEl.className = 'cart-total';
-    noteEl.textContent = hasPending ? 'Algunos precios se confirman con tu asesora.' : '';
-  }
+  const units   = cartUnits();
+  totalEl.textContent = cart.length + (cart.length === 1 ? ' producto' : ' productos') + ' · ' + units + (units === 1 ? ' unidad' : ' unidades');
+  totalEl.className   = 'cart-total pendiente';
+  noteEl.textContent  = 'Los precios se confirman al enviar el pedido.';
 }
 
 // ── Datos del cliente (obligatorios antes de enviar por WhatsApp) ──
@@ -1678,22 +1409,18 @@ function validarYContinuarFormularioCliente() {
 }
 
 // ── Menú de destinos WhatsApp ──
-function destKey() {
-  return priceMode === 'mayorista' ? 'mayorista' : (priceMode === 'detal' ? 'detal' : 'sinprecios');
-}
 function openDestinos() {
   if (!cart.length) return;
-  const dests = WHATSAPP_DESTINOS[destKey()] || [];
+  const dests = WHATSAPP_DESTINOS;
   let html = '', lastGroup = null;
   dests.forEach((d, i) => {
     if (d.grupo && d.grupo !== lastGroup) {
       html += '<div class="dest-group">' + escHTML(d.grupo) + '</div>';
       lastGroup = d.grupo;
     }
-    const sub = d.asesora
-      ? '<span class="dest-sub">' + escHTML(d.asesora) + ' · +' + escHTML(d.numero) + '</span>'
-      : (d.numero ? '<span class="dest-sub">+' + escHTML(d.numero) + '</span>'
-                  : '<span class="dest-sub">Abre WhatsApp y eliges tú el contacto</span>');
+    const sub = d.numero
+      ? '<span class="dest-sub">+' + escHTML(d.numero) + '</span>'
+      : '<span class="dest-sub">Abre WhatsApp y eliges tú el contacto</span>';
     html += '<button class="dest-item" onclick="sendOrder(' + i + ')">'
       + '<span class="dest-label">' + escHTML(d.label) + '</span>' + sub + '</button>';
   });
@@ -1705,7 +1432,7 @@ function closeDestinosIfOutside(e) {
   if (e.target === document.getElementById('destOverlay')) closeDestinos();
 }
 function sendOrder(i) {
-  const d = (WHATSAPP_DESTINOS[destKey()] || [])[i];
+  const d = WHATSAPP_DESTINOS[i];
   if (!d) return;
   const msg = encodeURIComponent(buildOrderMessage());
   const url = d.numero
@@ -1718,9 +1445,6 @@ function sendOrder(i) {
 // ── Mensaje del pedido (sin emojis) ──
 function buildOrderMessage() {
   const SEP = '━━━━━━━━━━━━━━━━━━━';
-  const modeLabel = priceMode === 'mayorista' ? 'Mayorista'
-                  : priceMode === 'detal' ? 'Detal'
-                  : 'Precios a confirmar';
   const lines = [];
   lines.push('*Datos del cliente*');
   lines.push('• Nombre: ' + (clienteData.nombre || ''));
@@ -1731,11 +1455,11 @@ function buildOrderMessage() {
   lines.push(SEP);
   lines.push('');
   lines.push('*NUEVO PEDIDO — ' + CATALOG_NAME.toUpperCase() + '*');
-  lines.push('Lista de precios: *' + modeLabel + '*');
+  lines.push('Precios: *por confirmar*');
   lines.push(SEP);
   lines.push('');
 
-  let total = 0, units = 0, hasPending = false;
+  let units = 0;
   cart.forEach((it, idx) => {
     const p = productByRef(it.ref);
     const nombre = p ? p.nombre : it.ref;
@@ -1743,32 +1467,13 @@ function buildOrderMessage() {
     lines.push('*' + (idx + 1) + '. ' + nombre + '*');
     lines.push('- Ref: ' + it.ref);
     if (it.nota) lines.push('- Nota: ' + it.nota);
-    if (priceMode === 'publico') {
-      lines.push('- Cantidad: ' + it.qty);
-    } else {
-      const num = unitPriceNum(it.ref);
-      if (num === null) {
-        hasPending = true;
-        lines.push('- Cantidad: ' + it.qty);
-        lines.push('- Precio: por confirmar');
-      } else {
-        total += num * it.qty;
-        lines.push('- Cantidad: ' + it.qty + ' × ' + money(num));
-        lines.push('- Subtotal: *' + money(num * it.qty) + '*');
-      }
-    }
+    lines.push('- Cantidad: ' + it.qty);
     lines.push('');
   });
 
   lines.push(SEP);
   lines.push('Productos: ' + cart.length + '  ·  Unidades: ' + units);
-  if (priceMode === 'publico') {
-    lines.push('*TOTAL: precios a confirmar*');
-  } else if (hasPending) {
-    lines.push('*TOTAL: ' + money(total) + '* (mas precios por confirmar)');
-  } else {
-    lines.push('*TOTAL: ' + money(total) + '*');
-  }
+  lines.push('*TOTAL: precios por confirmar*');
   lines.push('');
   lines.push('_Enviado desde el catálogo ' + CATALOG_NAME + '_');
   return lines.join('\n');
@@ -1788,23 +1493,6 @@ function buildOrderMessage() {
   window.addEventListener('load', apply);
 })();
 </script>
-
-<!-- PASSWORD MODAL -->
-<div class="pwd-overlay" id="pwdOverlay">
-  <div class="pwd-modal">
-    <h3 id="pwdTitle">Catálogo Detal</h3>
-    <p id="pwdDesc">Ingresa la contraseña para ver precios detal</p>
-    <div class="pwd-input-wrap">
-      <input type="password" id="pwdInput" maxlength="20"
-             placeholder="••••••" onkeydown="if(event.key==='Enter')checkPwd()">
-      <button class="pwd-show-btn" onclick="togglePwdVisibility()" title="Mostrar/ocultar">👁</button>
-    </div>
-    <div class="pwd-error-msg" id="pwdError"></div>
-    <button class="pwd-submit" onclick="checkPwd()">Acceder</button>
-    <br>
-    <button class="pwd-cancel" onclick="closePwd()">Cancelar</button>
-  </div>
-</div>
 
 </body>
 </html>
