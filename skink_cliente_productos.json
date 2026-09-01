@@ -24,7 +24,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "",
     "imagen": "img/skink/TOCOBO3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
@@ -1638,7 +1638,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "moisturizing gentle gel cleanser (Limpiador en gel) Ingredientes claves: Ácido hialurónico, pantenol, proteina vegetal. Limpiador facial diario suave pero eficaz para eliminar la suciedad sin maltratar la piel, hidrata la piel durante largas horas incluso después de la limpieza, mientras que ayuda a proteger la barrera cutánea. Ingredientes claves: Pantenol, ácido salicílico, ceramida, extracto hoja de corazón.",
     "imagen": "img/skink/ANUA4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -1735,7 +1735,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum formulado con un 10% de Niacinamida, 4% de Ácido Tranexámico y 2% de Arbutina, ideal para quienes desean aclarar todo tipo de manchas y unificar el tono de la piel, logrando una piel hidratada y luminosa. La Niacinamida al 10% ayuda a fortalecer la barrera de la piel y mejorar su textura.",
     "imagen": "img/skink/ANUA16.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -2279,7 +2279,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Efectivo limpiador disuelve suavemente la suciedad, los residuos y los restos de maquillaje que se acumulan en la piel. Tiene leves propiedades antiedad para darle firmeza a la piel y a prevenir la aparición prematura de líneas de expresión. ingredientes de la máxima calidad.",
     "imagen": "img/skink/BEAUTY6.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3378,7 +3378,7 @@
     "categoria": "Hidratación",
     "descripcion": "es una crema facial de tratamiento diseñada para mejorar el tono desigual, reducir la apariencia de manchas oscuras y revitalizar la piel apagada, con una combinación de ácido kójico, extracto de cúrcuma y antioxidantes estabilizados. Ingredientes claves: Cúrcuma, ácido kojico, raiz japonica, aceite de recino, extracto de fresa, ácido ascórbico, ceramida)",
     "imagen": "img/skink/MEDICUBE77.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3600,7 +3600,7 @@
     "categoria": "Bruma",
     "descripcion": "Esta innovadora bruma facial 3 en 1 integra la avanzada tecnología coreana para el cuidado de la piel con una selección de potentes ingredientes destinados a mejorar el aspecto general de la piel. Infundido con glutatión para iluminar la piel y tonificarla. Ingredientes claves: ADN de salmon, niacinamida, acido hialuronico, centella asiatica, adenosina, agua de rosa.",
     "imagen": "img/skink/MEDICUBE71.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3843,7 +3843,7 @@
     "categoria": "Sérum",
     "descripcion": "Gel potenciador está formulado con PDRN de salmón que proporciona un efecto calmante y reafirmante. El gel hidratante cuida la piel y hace que la piel exterior brille.",
     "imagen": "img/skink/MEDICUBE8.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3878,7 +3878,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Es una crema solar formulada con colágeno y filtros solares avanzados, diseñada especialmente para proteger, reafirmar y revitalizar la piel desde el primer paso de tu rutina matutina. Ofrece una protección amplia contra los rayos UVA y UVB mientras mejora la elasticidad y firmeza de la piel con el uso continuado. Ingredientes claves: Pantenol, colágeno, niacinamida, ceramida.",
     "imagen": "img/skink/MEDICUBE47.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7194,7 +7194,7 @@
     "categoria": "Vitaminas",
     "descripcion": "Suplemento de belleza para una piel firme, luminosa e intensamente hidratada desde el interior. Un suplemento oral que actúa desde adentro para mejorar la elasticidad, firmeza e hidratación de la piel, mientras combate los signos de envejecimiento y fatiga cutánea. Ingredientes claves: Zinc, colágeno hidrolizado, vitamina D, B Y E, péptidos, ceramidas.",
     "imagen": "img/skink/APLB-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
     "mas_vendido": false,
@@ -8435,7 +8435,7 @@
     "categoria": "Sérum",
     "descripcion": "",
     "imagen": "img/skink/JUMI-05.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
