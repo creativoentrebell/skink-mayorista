@@ -2587,7 +2587,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol) Mascarilla de hidrogel para hidratación profunda con ácido hialurónico, colágeno y probióticos para lograr penetrar todas las capas de la piel y así conseguir un efecto porcelana en el rostro. ingredientes de mezcla multivitamínica ayuda a mejorar el tono, la textura y la luminosidad de la piel.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3769,7 +3769,7 @@
     "categoria": "Hidratación",
     "descripcion": "Una crema enriquecida con cápsulas de colágeno rosa que mejora el tono desigual de la piel y aumenta la luminosidad para pieles apagadas y flácidas. Las cápsulas mantienen los efectos reafirmantes e hidratantes del PDRN hasta que se absorben en la piel, logrando un brillo máximo. Ingredientes claves: Extracto de colágeno, aceite de moringa, extracto de salmon, ceramida.",
     "imagen": "img/skink/MEDICUBE21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5160,7 +5160,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Sérum solar de textura ligera tipo agua con centella asiática y complejo de ácido hialurónico. Protege, hidrata y calma sin dejar sensación pegajosa ni residuo blanco.",
     "imagen": "img/skink/SKIN1004-49.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Protección Solar",
@@ -6330,7 +6330,7 @@
     "categoria": "Bruma",
     "descripcion": "Formulada con ácido hialurónico, esta bruma ultrafina hidrata profundamente la piel seca al instante, ayudándola a mantener una hidratación duradera y confort durante todo el día. Con una exclusiva fórmula 2 en 1 de crema y esencia de agua, proporciona una nutrición rica y una hidratación refrescante para una piel perfectamente equilibrada. Ingredientes claves: Agua de arroz, jugo de manzana, pantenol, ácido hialurónico, centela asiatica. 345 Relief Cream Mist (345 Crema bruma alivio)",
     "imagen": "img/skink/DR-ALTHEA22.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Brillo y Luminosidad",
