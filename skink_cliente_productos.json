@@ -4531,7 +4531,7 @@
     "categoria": "Tónico",
     "descripcion": "Madagascar centella tea-trica relief ampoule (serum alivio de té y centella) Ingredientes claves: Extracto de flor de Lavanda, extracto árbol de",
     "imagen": "img/skink/skin1004-66.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
