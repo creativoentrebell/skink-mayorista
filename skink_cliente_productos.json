@@ -2166,7 +2166,7 @@
   {
     "id": "ABIB2",
     "referencia": "ABIB2",
-    "nombre": "Collagen Gel Mask Sedum Jelly 35g",
+    "nombre": "Collagen Gel Mask Heartleaf Jelly (4 unidades)",
     "marca": "ABIB",
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla de tejido está impregnada con hidrogel y se adhiere al rostro para proporcionar ricos nutrientes y humedad, también alimentada con ceramidas. Contiene extracto de colágeno vegano, que mejora la elasticidad de la piel. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, tripéptido.",
@@ -2184,7 +2184,7 @@
   {
     "id": "ABIB3",
     "referencia": "ABIB3",
-    "nombre": "Collagen Gel Mask Jericho Rose Jelly 35g (v2)",
+    "nombre": "Collagen Gel Mask Sedum Jelly (4 unidades)",
     "marca": "ABIB",
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel restaura fácilmente el brillo y la elasticidad de la piel cansada, sin brillo o envejecida. presenta ingredientes adicionales de extracto de jalea de rosa Jericho y ceramida para aumentar los niveles de humedad, fortalecer la barrera de la piel. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, tripéptido.",
@@ -2682,7 +2682,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves: Aceite de soja, aceite de jojoba, ácido salicílico, extracto de fruta, extracto de macadamia. Marca coreana líder en cuidado de la piel con respaldo dermatológico. Sus productos están clínicamente probados para tratar imperfecciones, reducir arrugas y mejorar la hidratación. DEEP CLEANSING OIL (Aceite limpiador) Espuma limpiadora profunda con cápsulas de exosomas, lo que permite limpiar en profundidad sin resecar. Ingredientes claves: Ácido cítrico, centella asiatica, extracto de semilla decafé, ácido salicílico.",
     "imagen": "img/skink/MEDICUBE34.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -6267,7 +6267,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ingredientes claves:Niacinamida, pantenol, ácido hiaulónico, extracto de centella asiática. de alivio 345). Ingredientes claves: Extracto de flor de loto, niacinamida, ácido hialurónico, adenosina.",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
