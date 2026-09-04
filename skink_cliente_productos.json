@@ -229,7 +229,7 @@
     "categoria": "Protección Solar",
     "descripcion": "El Tocobo Cica Cooling Sun Stick ofrece protección solar mineral SPF50+ PA++++ en un formato en barra de rápida aplicación. Combina óxido de zinc y dióxido de titanio micronizados para brindar cobertura de amplio espectro, mientras un complejo de centella asiática y mentol natural proporciona efecto refrescante inmediato. Ingredientes claves: Extracto de té verde, niacinamida, extracto de centella, ácido hialurónico.",
     "imagen": "img/skink/TOCOBO32.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -249,7 +249,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Un protector solar en barra que no solo protege tu piel de los daños causados por los rayos UVA y UVB con FPS50+ PA++++, sino que también la calma y controla la producción de sebo gracias a sus complejos herbales. Su aplicación suave y fácil te permite retocar tu protección solar durante el día.",
     "imagen": "img/skink/TOCOBO39.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -2568,7 +2568,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla facial de hidratación profunda formulada con ingredientes no tóxicos y no irritantes. Está libre de alérgenos y otros 19 ingredientes agresivos y controvertidos. Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol)",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2607,7 +2607,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -4134,7 +4134,7 @@
     "categoria": "Accesorios",
     "descripcion": "MASK (Mascailla labios para dormir) Ingredientes claves: Manteca de Karité, ácido esteárico, aceite de semilla de camelia. Mascarillas labios Dispositivo de cuidado facial avanzado que mejora la absorción de productos y estimula la piel para un aspecto rejuvenecido. Mayor luminosidad, cuidado de la elasticidad, contorno facial y cuidado de los poros.",
     "imagen": "img/skink/MEDICUBE5.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
     "mas_vendido": false,
@@ -7307,7 +7307,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto diseñado para penetrar directamente los poros y mejorar la absorción, proporciona retina profundamente en la piel para atacar las arrugas y los poros dilatados, promoviendo una piel más suave y firme. Ingredientes claves: Vitamina A, péptidos, niacinamida, ácido ascórbico, pantenol.",
     "imagen": "img/skink/CELI-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
