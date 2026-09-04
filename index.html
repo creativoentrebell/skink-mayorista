@@ -189,8 +189,8 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   flex-shrink: 0; display: flex; align-items: center; justify-content: center;
 }
 .card-thumb img { width: 100%; height: 100%; object-fit: contain; padding: 2px; }
-.card-thumb.is-ficha { background: var(--beige-light); color: var(--taupe-dark); }
-.card-thumb.is-ficha svg { width: 13px; height: 13px; }
+.card-thumb.is-ficha { background: var(--white); border-color: var(--taupe); }
+.card-thumb.is-ficha img { object-fit: cover; object-position: top center; padding: 0; }
 .card-thumb.is-more {
   width: auto; min-width: 26px; padding: 0 5px;
   font-size: 10px; font-weight: 600; color: var(--taupe-dark);
@@ -199,7 +199,6 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 @media (max-width: 600px) {
   .card-thumbs { bottom: 4px; gap: 3px; }
   .card-thumb { width: 21px; height: 21px; border-radius: 4px; }
-  .card-thumb.is-ficha svg { width: 11px; height: 11px; }
   .card-thumb.is-more { min-width: 21px; font-size: 9px; }
 }
 
@@ -851,10 +850,7 @@ function cardHTML(p, eager) {
     ).join('');
     if (rest > 0) items += '<div class="card-thumb is-more">+'+rest+'</div>';
     if (hasFichaCard) items += '<div class="card-thumb is-ficha" title="Ficha tecnica">'
-      + '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">'
-      + '<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>'
-      + '<polyline points="14 2 14 8 20 8"></polyline><line x1="8" y1="13" x2="16" y2="13"></line>'
-      + '<line x1="8" y1="17" x2="13" y2="17"></line></svg></div>';
+      + '<img src="'+p.ficha+'" onerror="this.parentElement.style.display=\'none\'"></div>';
     thumbs = '<div class="card-thumbs">'+items+'</div>';
   }
   const dots = '';
