@@ -125,7 +125,8 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/TOCOBO52.png"
   },
   {
     "id": "TOCOBO43",
@@ -217,7 +218,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/TOCOBO31.jpg",
+    "ficha": "img/fichas/TOCOBO31.png",
     "mas_vendido": true,
     "preventa": true
   },
@@ -257,7 +258,8 @@
       "Protección Solar"
     ],
     "mas_vendido": true,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/TOCOBO39.png"
   },
   {
     "id": "TOCOBO38",
@@ -3642,7 +3644,7 @@
       "Brillo y Luminosidad",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/MEDICUBE18.jpg",
+    "ficha": "img/fichas/MEDICUBE18.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -3776,7 +3778,7 @@
       "Brillo y Luminosidad",
       "Hidratación Profunda"
     ],
-    "ficha": "img/fichas/MEDICUBE21.jpg",
+    "ficha": "img/fichas/MEDICUBE21.png",
     "mas_vendido": true,
     "preventa": true
   },
@@ -3797,7 +3799,8 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/MEDICUBE20.png"
   },
   {
     "id": "MEDICUBE25",
@@ -4233,7 +4236,8 @@
       "Contorno de Ojos"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/MEDICUBE85.png"
   },
   {
     "id": "MEDICUBE86",
@@ -4348,7 +4352,8 @@
       "Anti-edad"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/MEDICUBE94.png"
   },
   {
     "id": "MEDICUBE95",
@@ -4448,7 +4453,8 @@
       "Capilar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": false,
+    "ficha": "img/fichas/MEDICUBE106.png"
   },
   {
     "id": "OOTD1",
@@ -6255,7 +6261,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/DR-ALTHEA1.jpg",
+    "ficha": "img/fichas/DR-ALTHEA1.png",
     "mas_vendido": true,
     "preventa": true
   },
@@ -7317,7 +7323,8 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": true,
-    "preventa": true
+    "preventa": true,
+    "ficha": "img/fichas/CELI-01.png"
   },
   {
     "id": "CELI-02",
