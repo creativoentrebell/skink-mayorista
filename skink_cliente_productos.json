@@ -3595,6 +3595,24 @@
     "preventa": false
   },
   {
+    "id": "MEDICUBE108",
+    "referencia": "MEDICUBE108",
+    "nombre": "PDRN Pink Cica Soothing Toner 30ml",
+    "marca": "MEDICUBE",
+    "categoria": "Tónico",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE108.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "mas_vendido": false,
+    "preventa": false,
+    "ficha": "img/fichas/MEDICUBE108.jpg"
+  },
+  {
     "id": "MEDICUBE71",
     "referencia": "MEDICUBE71",
     "nombre": "PDRN Pink Glutathione Serum Mist 100ml",
