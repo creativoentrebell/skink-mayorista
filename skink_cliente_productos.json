@@ -88,6 +88,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/TOCOBO54.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -106,6 +107,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/TOCOBO53.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -143,6 +145,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/TOCOBO43.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -182,6 +185,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO42.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -199,6 +203,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO41.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -277,6 +282,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO38.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -314,6 +320,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO56.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -331,6 +338,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO33.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -388,6 +396,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO36.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -406,6 +415,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO37.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -429,6 +439,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO48.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -443,6 +454,7 @@
     "agotado": false,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/TOCOBO49.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -463,6 +475,7 @@
       "img/skink/TOCOBO50_4.webp"
     ],
     "tipos_piel": [],
+    "ficha": "img/fichas/TOCOBO50.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -513,6 +526,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO58.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -529,6 +543,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO59.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -545,6 +560,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TOCOBO25.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -561,6 +577,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TOCOBO22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -577,6 +594,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -594,6 +612,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO35.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -645,6 +664,7 @@
     "tipos_piel": [
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/TOCOBO51.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -662,6 +682,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO55.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -678,6 +699,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/TOCOBO61.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -694,6 +716,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TOCOBO62.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -710,6 +733,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/TOCOBO64.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -726,6 +750,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO65.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -742,6 +767,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO66.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -758,6 +784,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/TOCOBO67.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -792,6 +819,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON31.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -930,6 +958,7 @@
       "Brillo y Luminosidad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON41.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -947,6 +976,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1000,6 +1030,7 @@
     "tipos_piel": [
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/MIXSOON3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1164,6 +1195,7 @@
       "Brillo y Luminosidad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MIXSOON15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1278,6 +1310,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MIXSOON19.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1295,6 +1328,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MIXSOON16.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1391,6 +1425,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1408,6 +1443,7 @@
       "Anti-edad",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MIXSOON23.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1426,6 +1462,7 @@
       "Brillo y Luminosidad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MIXSOON49.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1445,6 +1482,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON47.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1463,6 +1501,7 @@
       "Capilar",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON43.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1480,6 +1519,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MIXSOON52.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1496,6 +1536,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/MIXSOON53.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1510,6 +1551,7 @@
     "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/MIXSOON54.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1647,6 +1689,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ANUA4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1666,6 +1709,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ANUA5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1822,6 +1866,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ANUA32.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1998,6 +2043,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/ANUA22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2093,6 +2139,7 @@
       "Hidratación Profunda",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/ANUA34.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2109,6 +2156,7 @@
     "tipos_piel": [
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/ANUA35.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2126,6 +2174,7 @@
       "Anti-edad",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/ANUA36.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2142,6 +2191,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/ANUA37.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2162,6 +2212,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ABIB1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2180,6 +2231,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/ABIB2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2199,6 +2251,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/ABIB3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2217,6 +2270,7 @@
       "Anti-edad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ABIB4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2234,6 +2288,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/ABIB5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2251,6 +2306,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/ABIB6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2270,6 +2326,7 @@
       "Brillo y Luminosidad",
       "Contorno de Ojos"
     ],
+    "ficha": "img/fichas/ABIB7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2288,6 +2345,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BEAUTY6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2304,6 +2362,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/BEAUTY14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2323,6 +2382,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/BEAUTY3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2342,6 +2402,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/BEAUTY5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2359,6 +2420,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BEAUTY13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2376,6 +2438,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BEAUTY10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2396,6 +2459,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2414,6 +2478,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BEAUTY17.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2435,6 +2500,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2454,6 +2520,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY16.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2474,6 +2541,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2490,6 +2558,7 @@
     "tipos_piel": [
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/BEAUTY4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2506,6 +2575,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2523,6 +2593,7 @@
       "Hidratación Profunda",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2541,6 +2612,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY9.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2559,6 +2631,7 @@
       "Brillo y Luminosidad",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BEAUTY1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2578,6 +2651,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BIODANCE1.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2598,6 +2672,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/BIODANCE2.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2616,6 +2691,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/BIODANCE3.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2656,6 +2732,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/BIODANCE5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2673,6 +2750,7 @@
       "Acné",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE45.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2692,6 +2770,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE34.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2711,6 +2790,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2729,6 +2809,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE57.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2748,6 +2829,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE58.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2767,6 +2849,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE64.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2786,6 +2869,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE73.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2806,6 +2890,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2826,6 +2911,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE46.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2847,6 +2933,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE42.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2867,6 +2954,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE43.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2888,6 +2976,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE66.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2908,6 +2997,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE67.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2927,6 +3017,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE49.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2947,6 +3038,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE52.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -2966,6 +3058,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE9.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2985,6 +3078,7 @@
       "Hidratación Profunda",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE44.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3004,6 +3098,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE55.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3024,6 +3119,7 @@
       "Piel Grasa y Poros",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE54.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3043,6 +3139,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE30.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3061,6 +3158,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE36.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3083,6 +3181,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3103,6 +3202,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3122,6 +3222,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE56.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3141,6 +3242,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE78.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3163,6 +3265,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3183,6 +3286,7 @@
       "Hidratación Profunda",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3203,6 +3307,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE69.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3221,6 +3326,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE72.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3238,6 +3344,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE62.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3257,6 +3364,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE41.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3276,6 +3384,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE23.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3295,6 +3404,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE24.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3314,6 +3424,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE76.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3332,6 +3443,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE60.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3351,6 +3463,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE19.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3369,6 +3482,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE75.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3386,6 +3500,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE77.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3404,6 +3519,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE65.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3422,6 +3538,7 @@
       "Brillo y Luminosidad",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE40.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3460,6 +3577,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE33.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -3478,6 +3596,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE39.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3496,6 +3615,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE35.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3514,6 +3634,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE68.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3533,6 +3654,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE79.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3552,6 +3674,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE17.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3571,6 +3694,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3591,6 +3715,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE59.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3627,6 +3752,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE71.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3644,6 +3770,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3682,6 +3809,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE61.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3701,6 +3829,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE63.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3721,6 +3850,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE50.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3739,6 +3869,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE31.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3758,6 +3889,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE51.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3778,6 +3910,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE32.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3835,6 +3968,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE25.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3871,6 +4005,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3888,6 +4023,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3907,6 +4043,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE47.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3923,6 +4060,7 @@
     "tipos_piel": [
       "Anti-edad"
     ],
+    "ficha": "img/fichas/MEDICUBE37.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3942,6 +4080,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3980,6 +4119,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE81.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3997,6 +4137,7 @@
       "Hidratación Profunda",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE82.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4055,6 +4196,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE70.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4074,6 +4216,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE80.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4094,6 +4237,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE28.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4113,6 +4257,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/MEDICUBE29.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4127,6 +4272,7 @@
     "agotado": false,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE53.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4144,6 +4290,7 @@
       "Brillo y Luminosidad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE38.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4158,6 +4305,7 @@
     "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4172,6 +4320,7 @@
     "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4186,6 +4335,7 @@
     "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE74.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4203,6 +4353,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4219,6 +4370,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MEDICUBE83.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4235,6 +4387,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MEDICUBE84.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4271,6 +4424,7 @@
       "Acné",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE86.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4288,6 +4442,7 @@
       "Anti-edad",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE89.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4304,6 +4459,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE90.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4320,6 +4476,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/MEDICUBE91.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4353,6 +4510,7 @@
     "tipos_piel": [
       "Acné"
     ],
+    "ficha": "img/fichas/MEDICUBE93.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4387,6 +4545,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/MEDICUBE95.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4403,6 +4562,7 @@
     "tipos_piel": [
       "Anti-edad"
     ],
+    "ficha": "img/fichas/MEDICUBE96.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4421,6 +4581,7 @@
       "Anti-edad",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE97.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -4437,6 +4598,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MEDICUBE98.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4454,6 +4616,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/MEDICUBE99.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4490,6 +4653,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/OOTD1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4508,6 +4672,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4526,6 +4691,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4544,6 +4710,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4563,6 +4730,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-66.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4582,6 +4750,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-44.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4601,6 +4770,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-36.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4620,6 +4790,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-34.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4640,6 +4811,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-61.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4659,6 +4831,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-74.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4678,6 +4851,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4698,6 +4872,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-20.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4718,6 +4893,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-53.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4736,6 +4912,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-42.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4754,6 +4931,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-51.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4772,6 +4950,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4792,6 +4971,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-37.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4810,6 +4990,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-47.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4826,6 +5007,7 @@
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-29.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4843,6 +5025,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-40.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4861,6 +5044,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4880,6 +5064,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4900,6 +5085,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-54.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4917,6 +5103,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4937,6 +5124,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-75.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4958,6 +5146,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-84.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4980,6 +5169,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-28.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5002,6 +5192,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-46.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5023,6 +5214,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-45.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5040,6 +5232,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-70.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5058,6 +5251,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-23.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5077,6 +5271,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-9.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5098,6 +5293,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-19.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5117,6 +5313,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-62.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5135,6 +5332,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-52.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5154,6 +5352,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-38.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5173,6 +5372,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-71.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5191,6 +5391,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-49.png",
     "mas_vendido": true,
     "preventa": true
   },
@@ -5210,6 +5411,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-48.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5229,6 +5431,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5266,6 +5469,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-32.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5377,6 +5581,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-35.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5395,6 +5600,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-18.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5414,6 +5620,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-59.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5452,6 +5659,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-24.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5469,6 +5677,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-50.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5488,6 +5697,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-57.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -5504,6 +5714,7 @@
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-58.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5522,6 +5733,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-31.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5540,6 +5752,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-63.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5558,6 +5771,7 @@
       "Brillo y Luminosidad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-27.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5577,6 +5791,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-41.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5597,6 +5812,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5617,6 +5833,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-30.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5634,6 +5851,7 @@
       "Brillo y Luminosidad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-82.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5653,6 +5871,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-81.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5671,6 +5890,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-26.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5689,6 +5909,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-17.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5708,6 +5929,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-60.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5728,6 +5950,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-64.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5749,6 +5972,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-67.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5771,6 +5995,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-83.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5787,6 +6012,7 @@
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-86.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5804,6 +6030,7 @@
       "Acné",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-87.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5820,6 +6047,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/SKIN1004-73.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5839,6 +6067,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/AXIS-Y1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5858,6 +6087,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/AXIS-Y2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5876,6 +6106,7 @@
       "Contorno de Ojos",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/AXIS-Y3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5969,6 +6200,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/DR-ALTHEA24.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6087,6 +6319,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/DR-ALTHEA25.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6207,6 +6440,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/DR-ALTHEA26.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6361,6 +6595,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/DR-ALTHEA22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6381,6 +6616,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/ROUND-LAB4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6397,6 +6633,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/D-ALBA3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6416,6 +6653,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/D-ALBA4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6435,6 +6673,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/D-ALBA5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6453,6 +6692,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/D-ALBA8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6469,6 +6709,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/D-ALBA1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6485,6 +6726,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/D-ALBA10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6502,6 +6744,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/D-ALBA11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6518,6 +6761,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/D-ALBA12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6535,6 +6779,7 @@
       "Anti-edad",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/D-ALBA13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6552,6 +6797,7 @@
       "Anti-edad",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/D-ALBA14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6568,6 +6814,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/D-ALBA15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6584,6 +6831,7 @@
     "tipos_piel": [
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/D-ALBA16.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6600,6 +6848,7 @@
     "tipos_piel": [
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/D-ALBA17.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6616,6 +6865,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/D-ALBA18.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6633,6 +6883,7 @@
       "Brillo y Luminosidad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/COSRX2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6649,6 +6900,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/COSRX1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6670,6 +6922,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/COSRX5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6688,6 +6941,7 @@
       "Contorno de Ojos",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/COSRX10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6706,6 +6960,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/COSRX6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6724,6 +6979,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/COSRX3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6744,6 +7000,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/COSRX8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6764,6 +7021,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/COSRX9.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6784,6 +7042,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/COSRX7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6803,6 +7062,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS1.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6820,6 +7080,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6838,6 +7099,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS2.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6857,6 +7119,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS8.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6874,6 +7137,7 @@
       "Anti-edad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS9.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6892,6 +7156,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6911,6 +7176,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6930,6 +7196,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS19.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6948,6 +7215,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS20.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6966,6 +7234,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6983,6 +7252,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7001,6 +7271,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7018,6 +7289,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS15.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7036,6 +7308,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7056,6 +7329,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS6.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7073,6 +7347,7 @@
       "Anti-edad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS21.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7092,6 +7367,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS22.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7110,6 +7386,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS17.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7131,6 +7408,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/VT-COS18.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7152,6 +7430,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/VT-COS16.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7172,6 +7451,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS7.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7191,6 +7471,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/VT-COS4.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7207,6 +7488,7 @@
     "tipos_piel": [
       "Contorno de Ojos"
     ],
+    "ficha": "img/fichas/VT-COS23.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7221,6 +7503,7 @@
     "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/APLB-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7235,6 +7518,7 @@
     "agotado": false,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/APLB-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7255,6 +7539,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/APLB-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7269,6 +7554,7 @@
     "agotado": false,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/APLB-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7283,6 +7569,7 @@
     "agotado": false,
     "nuevo": false,
     "tipos_piel": [],
+    "ficha": "img/fichas/APLB-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7301,6 +7588,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/APLB-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7320,6 +7608,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/APLB-07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7360,6 +7649,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/CELI-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7379,6 +7669,7 @@
       "Contorno de Ojos",
       "Hidratación Profunda"
     ],
+    "ficha": "img/fichas/CELI-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7397,6 +7688,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/CELI-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7416,6 +7708,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/CELI-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7436,6 +7729,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/CELI-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7456,6 +7750,7 @@
       "Piel Grasa y Poros",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/CELI-07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7472,6 +7767,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/CELI-08.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7491,6 +7787,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/CELI-09.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7508,6 +7805,7 @@
       "Anti-edad",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/CELI-10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7524,6 +7822,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/ELI-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7541,6 +7840,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7559,6 +7859,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7576,6 +7877,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7593,6 +7895,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7610,6 +7913,7 @@
       "Acné",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7626,6 +7930,7 @@
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7645,6 +7950,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-08.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7663,6 +7969,7 @@
       "Capilar",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-09.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7682,6 +7989,7 @@
       "Capilar",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7702,6 +8010,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/ELI-11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7720,6 +8029,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KSEC-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7740,6 +8050,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KSEC-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7759,6 +8070,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KSEC-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7778,6 +8090,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KSEC-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7798,6 +8111,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/KSEC-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7818,6 +8132,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/KSEC-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7835,6 +8150,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7852,6 +8168,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7870,6 +8187,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7887,6 +8205,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7905,6 +8224,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7922,6 +8242,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/AREN-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7938,6 +8259,7 @@
     "tipos_piel": [
       "Anti-edad"
     ],
+    "ficha": "img/fichas/AREN-07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7954,6 +8276,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/AREN-08.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7970,6 +8293,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/AREN-09.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7987,6 +8311,7 @@
       "Anti-edad",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/ELROEL-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8003,6 +8328,7 @@
     "tipos_piel": [
       "Anti-edad"
     ],
+    "ficha": "img/fichas/ELROEL-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8019,6 +8345,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/ELROEL-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8035,6 +8362,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/ELROEL-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8052,6 +8380,7 @@
       "Anti-edad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KAHI-01.png",
     "mas_vendido": true,
     "preventa": true
   },
@@ -8069,6 +8398,7 @@
       "Anti-edad",
       "Contorno de Ojos"
     ],
+    "ficha": "img/fichas/KAHI-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8085,6 +8415,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8101,6 +8432,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8117,6 +8449,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8133,6 +8466,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8149,6 +8483,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8165,6 +8500,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/MOEV-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8184,6 +8520,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/NINE04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8202,6 +8539,7 @@
       "Hidratación Profunda",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/NINE05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8221,6 +8559,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/NINE06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8237,6 +8576,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/NINE01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8253,6 +8593,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/NINE02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8269,6 +8610,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/NINE03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8285,6 +8627,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/NINE07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8304,6 +8647,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8324,6 +8668,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8344,6 +8689,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8363,6 +8709,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8383,6 +8730,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-08.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8399,6 +8747,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8416,6 +8765,7 @@
       "Anti-edad",
       "Contorno de Ojos"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-09.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8432,6 +8782,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/CENTELLIAN24-10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8449,6 +8800,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/JUMI-04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8465,6 +8817,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/JUMI-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8482,6 +8835,7 @@
       "Anti-edad",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/SUNGBOON-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8498,6 +8852,7 @@
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/PURI-03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8515,6 +8870,7 @@
       "Contorno de Ojos",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/PURI-05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8531,6 +8887,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR23.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8547,6 +8904,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR05.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8563,6 +8921,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR06.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8579,6 +8938,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR24.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8595,6 +8955,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR07.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8611,6 +8972,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR08.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8627,6 +8989,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR09.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8643,6 +9006,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR10.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8659,6 +9023,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR11.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8675,6 +9040,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8691,6 +9057,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR13.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8707,6 +9074,7 @@
     "tipos_piel": [
       "Universal"
     ],
+    "ficha": "img/fichas/TIRTIR14.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8723,6 +9091,7 @@
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/DR-MELAXIN02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8740,6 +9109,7 @@
       "Manchas e Hiperpigmentación",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/DR-MELAXIN03.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8757,6 +9127,7 @@
       "Manchas e Hiperpigmentación",
       "Brillo y Luminosidad"
     ],
+    "ficha": "img/fichas/DR-MELAXIN04.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8773,6 +9144,7 @@
     "tipos_piel": [
       "Capilar"
     ],
+    "ficha": "img/fichas/LILYEVE-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8790,6 +9162,7 @@
       "Hidratación Profunda",
       "Anti-edad"
     ],
+    "ficha": "img/fichas/NIDA-01.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8807,6 +9180,7 @@
       "Contorno de Ojos",
       "Anti-edad"
     ],
+    "ficha": "img/fichas/NIDA-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8823,6 +9197,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/NIDA-03.png",
     "mas_vendido": false,
     "preventa": false
   }
