@@ -5136,7 +5136,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "(Ideal grasa) Madagascar Centella Poremizing Velvet Finish Sunscreen (Protector solar) Ingredientes claves: Niacinamida, extracto de centella asíatica, extracto de semillas, sal marina, glicerina. (Poremizing) Control poros y Este kit de viaje para poros con centella de Madagascar contiene: Espuma limpiadora tamaño mini, 20 ml Tónico facial transparente 30 ml. Ampolla mini refrescante para poros con Centella de Madagascar, 30 ml Crema en gel ligera tamaño mini 30 ml. Ingredientes claves: extracto de centella, extracto de hoja de aloe, pantenol, ácido hialurónico, extracto de cúrcuma.",
     "imagen": "img/skink/SKIN1004-84.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5632,7 +5632,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Madagascar centella soothing cream (crema calmante de centella) (Centella) Línea calmante y reparadora Este kit incluye todos los productos de la más famosa línea de SKIN1004 (madagascar centella) El set incluye: Centella Light Cleansing Oil 30ml Centella Ampoule Foam 20ml Centella Toning Toner 30ml Centella Ampoule 30ml Centella Soothing Cream 30ml. Ingredientes claves: Extracto de centella, niacinamida, extracto de romero, extracto de manzanilla.",
     "imagen": "img/skink/SKIN1004-7.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -6007,7 +6007,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-86.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Sensible y Calmante"
@@ -6024,7 +6024,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-87.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
