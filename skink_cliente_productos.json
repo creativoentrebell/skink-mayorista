@@ -7,7 +7,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "",
     "imagen": "img/skink/TOCOBO7.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
@@ -521,7 +521,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Versión mini del Blur Finish Sun Cushion, protector solar en formato cushion compacto con SPF50+ PA++++, que ofrece defensa muy alta contra rayos UVA/UVB y un acabado soft-matte y blur que unifica la piel. La versión 00 Pure es translúcida/neutra, ideal para quienes buscan protección y un efecto de piel perfeccionada. Ingredientes claves: alantoína, hierba de sauce, agua de glaciar y extractos de semillas de algodón. Incluye el Mini Sun Cushion Keyring de regalo.",
     "imagen": "img/skink/TOCOBO58.png",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Protección Solar"
@@ -538,7 +538,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Versión mini del Blur Finish Sun Cushion, protector solar en formato cushion compacto con SPF50+ PA++++, que ofrece defensa muy alta contra rayos UVA/UVB y un acabado soft-matte y blur que unifica la piel. La versión 01 Cotton Blue aporta un tono azulado que ayuda a neutralizar rojeces y opacidades. Ingredientes claves: alantoína, hierba de sauce, agua de glaciar y extractos de semillas de algodón. Incluye el Mini Sun Cushion Keyring de regalo.",
     "imagen": "img/skink/TOCOBO59.png",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Protección Solar"
