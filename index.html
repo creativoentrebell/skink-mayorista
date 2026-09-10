@@ -529,7 +529,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
           <span class="dot"></span> Solo nuevos
         </button>
         <button class="nuevo-btn preventa-btn" id="preventaBtn" onclick="togglePreventa()">
-          <span class="dot"></span> Solo restock
+          <span class="dot"></span> Solo preventa
         </button>
         <select class="sort-select" id="sortSelect" onchange="render()">
           <option value="default">Ordenar por defecto</option>
@@ -835,7 +835,7 @@ function cardHTML(p, eager) {
   if (isMasVendido(p)) badges += '<span class="badge badge-vendidos">Más vendidos</span>';
   if (p.agotado) badges += '<span class="badge badge-agotado">Agotado</span>';
   if (p.nuevo)   badges += '<span class="badge badge-nuevo">Nuevo</span>';
-  if (p.preventa) badges += '<span class="badge badge-preventa">Restock</span>';
+  if (p.preventa) badges += '<span class="badge badge-preventa">Preventa</span>';
 
   // Miniaturas sobre la foto: fotos adicionales + ficha tecnica
   const hasFichaCard = !!(p.ficha && p.ficha.trim && p.ficha.trim());
@@ -941,7 +941,7 @@ function openModal(idx) {
   if (isMasVendido(p)) badges += '<span class="badge badge-vendidos">Más vendidos</span>';
   if (p.agotado) badges += '<span class="badge badge-agotado">Agotado</span>';
   if (p.nuevo)   badges += '<span class="badge badge-nuevo">Nuevo</span>';
-  if (p.preventa) badges += '<span class="badge badge-preventa">Restock</span>';
+  if (p.preventa) badges += '<span class="badge badge-preventa">Preventa</span>';
   document.getElementById('modalBadges').innerHTML = badges;
 
   // Text fields

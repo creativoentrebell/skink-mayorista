@@ -127,7 +127,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/TOCOBO52.png"
   },
   {
@@ -263,7 +263,7 @@
       "Protección Solar"
     ],
     "mas_vendido": true,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/TOCOBO39.png"
   },
   {
@@ -441,7 +441,7 @@
     ],
     "ficha": "img/fichas/TOCOBO48.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO49",
@@ -3791,7 +3791,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE18.png",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE61",
@@ -3950,7 +3950,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/MEDICUBE20.png"
   },
   {
@@ -4407,7 +4407,7 @@
       "Contorno de Ojos"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/MEDICUBE85.png"
   },
   {
@@ -4528,7 +4528,7 @@
       "Anti-edad"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/MEDICUBE94.png"
   },
   {
@@ -9200,5 +9200,163 @@
     "ficha": "img/fichas/NIDA-03.png",
     "mas_vendido": false,
     "preventa": false
+  },
+  {
+    "id": "AREN-10",
+    "referencia": "AREN-10",
+    "nombre": "(Sachet) Vitamin C Booster Shot 1.5g",
+    "marca": "ARENCIA",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/AREN-10.jpg",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Brillo y Luminosidad",
+      "Manchas e Hiperpigmentación"
+    ],
+    "ficha": "img/fichas/AREN-10.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "B.LAB-01",
+    "referencia": "B.LAB-01",
+    "nombre": "(Sample) Yuja Anti-Dark Spot Serum 2ml",
+    "marca": "B:LAB",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/B.LAB-01.webp",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Manchas e Hiperpigmentación",
+      "Brillo y Luminosidad"
+    ],
+    "ficha": "img/fichas/B.LAB-01.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA27",
+    "referencia": "DR-ALTHEA27",
+    "nombre": "345 Travel Set (Mist 60ml + Serum 15ml + Cream 15ml)",
+    "marca": "DR-ALTHEA",
+    "categoria": "Sets y Kits",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA27.webp",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA27.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "JUMI-07",
+    "referencia": "JUMI-07",
+    "nombre": "[Deluxe] Waterfull Hyaluronic Cream 20ml",
+    "marca": "JUMISO",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "img/skink/JUMI-07.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/JUMI-07.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "IM.FROM-01",
+    "referencia": "IM.FROM-01",
+    "nombre": "(Sachet) Rice Serum 1ml",
+    "marca": "IM FROM",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/IM.FROM-01.webp",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Brillo y Luminosidad",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/IM.FROM-01.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE104",
+    "referencia": "MEDICUBE104",
+    "nombre": "Fresh Glow Travel Body Kit",
+    "marca": "MEDICUBE",
+    "categoria": "Sets y Kits",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE104.png",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Universal"
+    ],
+    "ficha": "img/fichas/MEDICUBE104.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE100",
+    "referencia": "MEDICUBE100",
+    "nombre": "PDRN Collagen Gua Sha Neck Wrinkle Cream",
+    "marca": "MEDICUBE",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE100.webp",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Anti-edad"
+    ],
+    "ficha": "img/fichas/MEDICUBE100.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE107",
+    "referencia": "MEDICUBE107",
+    "nombre": "EGF NAD Firming Serum 30ml",
+    "marca": "MEDICUBE",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE107.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad"
+    ],
+    "ficha": "img/fichas/MEDICUBE107.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "ROUND-LAB19",
+    "referencia": "ROUND-LAB19",
+    "nombre": "(Sample) Mugwort Calming Serum 2ml",
+    "marca": "ROUND-LAB",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/ROUND-LAB19.jpg",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Piel Sensible y Calmante",
+      "Acné"
+    ],
+    "ficha": "img/fichas/ROUND-LAB19.png",
+    "mas_vendido": false,
+    "preventa": true
   }
 ]
