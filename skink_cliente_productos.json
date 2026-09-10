@@ -5136,7 +5136,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "(Ideal grasa) Madagascar Centella Poremizing Velvet Finish Sunscreen (Protector solar) Ingredientes claves: Niacinamida, extracto de centella asíatica, extracto de semillas, sal marina, glicerina. (Poremizing) Control poros y Este kit de viaje para poros con centella de Madagascar contiene: Espuma limpiadora tamaño mini, 20 ml Tónico facial transparente 30 ml. Ampolla mini refrescante para poros con Centella de Madagascar, 30 ml Crema en gel ligera tamaño mini 30 ml. Ingredientes claves: extracto de centella, extracto de hoja de aloe, pantenol, ácido hialurónico, extracto de cúrcuma.",
     "imagen": "img/skink/SKIN1004-84.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -6024,7 +6024,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-87.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
