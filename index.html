@@ -185,7 +185,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 
 /* Badges on card */
 .card-top-badges { position: absolute; top: 8px; right: 8px; display: flex; flex-direction: column; gap: 4px; align-items: flex-end; z-index: 1; }
-.badge { font-size: 9px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 7px; border-radius: 4px; }
+.badge { font-size: 9px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 3px 7px; border-radius: 4px; display: inline-flex; align-items: center; justify-content: center; line-height: 1; }
 .badge-agotado { background: #fdecea; color: var(--badge-out); }
 .badge-nuevo { background: #fef6e4; color: var(--badge-new); }
 .badge-vendidos { background: var(--beige); color: var(--badge-best); }
@@ -237,6 +237,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .modal-overlay.open { opacity: 1; pointer-events: all; }
 
 .modal {
+  position: relative;
   background: var(--white);
   border-radius: 16px;
   max-width: 780px; width: 100%;
@@ -258,27 +259,33 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   align-items: center; justify-content: center;
   position: relative; overflow: hidden;
 }
-.modal-img-side img { width: 100%; height: 100%; object-fit: contain; padding: 24px; }
+.modal-img-side img { width: 100%; flex: 1 1 auto; min-height: 0; height: auto; object-fit: contain; padding: 24px; }
 .modal-img-placeholder { color: var(--taupe); font-size: 11px; text-align: center; padding: 24px; text-transform: uppercase; letter-spacing: 0.06em; }
 
 /* Color dots in modal */
-.modal-dots { display: flex; gap: 8px; padding: 12px 16px; justify-content: center; flex-wrap: wrap; background: rgba(255,255,255,0.7); width: 100%; }
-.modal-dot { width: 26px; height: 26px; border-radius: 50%; border: 2px solid var(--beige-mid); cursor: pointer; overflow: hidden; flex-shrink: 0; transition: border-color 0.15s, transform 0.15s; }
-.modal-dot:hover { border-color: var(--taupe); transform: scale(1.1); }
-.modal-dot.active { border-color: var(--taupe-dark); box-shadow: 0 0 0 2px var(--taupe-dark); }
-.modal-dot img { width: 100%; height: 100%; object-fit: cover; }
+.modal-dots { display: flex; gap: 6px; padding: 8px 16px 10px; justify-content: center; align-items: center; flex-wrap: wrap; background: rgba(255,255,255,0.7); width: 100%; }
+.modal-dot {
+  width: 6px; height: 6px; padding: 0; border-radius: 50%;
+  border: none; background: var(--beige-mid); cursor: pointer;
+  flex-shrink: 0; transition: background 0.15s, width 0.15s, opacity 0.15s;
+}
+.modal-dot:hover { background: var(--taupe); }
+.modal-dot.active { background: var(--taupe-dark); width: 16px; border-radius: 3px; }
+.modal-dot.is-ficha-dot { background: transparent; border: 1.5px solid var(--beige-mid); width: 7px; height: 7px; }
+.modal-dot.is-ficha-dot.active { background: var(--taupe-dark); border-color: var(--taupe-dark); width: 16px; border-radius: 3px; }
 
 /* Modal: info derecha */
-.modal-info { flex: 1; padding: 32px 28px; overflow-y: auto; display: flex; flex-direction: column; min-width: 0; }
+.modal-info { flex: 1; padding: 32px 28px; overflow: hidden; display: flex; flex-direction: column; min-width: 0; min-height: 0; }
+#modalDescWrap { flex: 1 1 auto; min-height: 60px; overflow-y: auto; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
 .modal-close { position: absolute; top: 14px; right: 14px; background: var(--white); border: none; border-radius: 50%; width: 32px; height: 32px; font-size: 18px; cursor: pointer; display: flex; align-items: center; justify-content: center; color: var(--text-mid); box-shadow: var(--shadow); transition: background 0.15s; z-index: 10; }
 .modal-close:hover { background: var(--beige); }
-.modal-badges { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
+.modal-badges { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; align-items: center; }
 .modal-marca { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--taupe); margin-bottom: 6px; }
 .modal-nombre { font-size: 20px; font-weight: 500; color: var(--text); line-height: 1.25; margin-bottom: 4px; }
 .modal-ref { font-size: 12px; color: var(--text-light); margin-bottom: 20px; }
 .modal-desc-label { font-size: 10px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--taupe); margin-bottom: 8px; }
-.modal-desc { font-size: 13.5px; color: var(--text-mid); line-height: 1.65; font-weight: 300; flex: 1; margin-bottom: 24px; }
-.modal-footer { padding-top: 18px; border-top: 1px solid var(--beige-mid); }
+.modal-desc { font-size: 13.5px; color: var(--text-mid); line-height: 1.65; font-weight: 300; margin-bottom: 8px; }
+.modal-footer { padding-top: 18px; border-top: 1px solid var(--beige-mid); flex-shrink: 0; margin-top: auto; background: var(--white); }
 .modal-price { font-size: 24px; font-weight: 600; color: var(--taupe-dark); }
 .modal-price.pendiente { font-size: 14px; font-weight: 400; color: var(--text-light); font-style: italic; }
 
@@ -312,7 +319,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .modal-img-side img.is-ficha { cursor: zoom-in; padding: 10px; }
 .modal-img-side img.is-zoomable { cursor: zoom-in; }
 .ficha-zoom-hint {
-  position: absolute; bottom: 44px; left: 50%; transform: translateX(-50%);
+  position: static; align-self: center; flex-shrink: 0; margin: 0 0 8px;
   font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
   background: rgba(30,20,15,0.65); color: #fff;
   padding: 4px 12px; border-radius: 20px; pointer-events: none;
@@ -353,8 +360,9 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 @media (max-width: 600px) {
   .modal { flex-direction: column; max-height: 92vh; border-radius: 16px 16px 0 0; align-self: flex-end; }
   .modal-overlay { align-items: flex-end; padding: 0; }
-  .modal-img-side { width: 100%; height: 220px; }
-  .modal-img-side.showing-ficha { height: 340px; }
+  .modal-img-side { width: 100%; height: 40vh; min-height: 210px; max-height: 380px; flex-shrink: 0; }
+  .modal-img-side.showing-ficha { height: 48vh; min-height: 260px; max-height: 440px; }
+  .modal-img-side img { padding: 14px; }
   .modal-info { padding: 20px 20px 28px; }
   .modal-nombre { font-size: 17px; }
   .modal-arrow { width: 30px; height: 30px; font-size: 14px; }
@@ -625,6 +633,15 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 @media (max-width: 600px) {
   .filter-panel { display: none; padding: 11px 11px; }
   .filters-bar.filters-open .filter-panel { display: block; }
+  /* Con los filtros abiertos la barra puede superar la altura de pantalla:
+     se limita y hace scroll interno en vez de quedarse pegada. */
+  .filters-bar.filters-open {
+    max-height: calc(100vh - var(--header-h, 68px));
+    max-height: calc(100dvh - var(--header-h, 68px));
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior: contain;
+  }
   .step-grid {
     display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none;
     margin: 0 -11px; padding: 2px 11px 4px;
@@ -849,11 +866,18 @@ const SVG = {
 // Descripciones de tipo de piel. Se emparejan por palabra clave para no
 // depender del texto exacto que venga en el JSON.
 const PIEL_DESC = [
-  { k:['madura','antiedad','anti-edad','anti edad'], d:'Enfocada en firmeza, elasticidad, arrugas y manchas de la edad' },
-  { k:['deshidratada','seca'],                       d:'Siente tirantez o falta de brillo, necesita hidratación densa' },
-  { k:['sensible','rojec','reactiv'],                d:'Fórmulas hipoalergénicas y calmantes que reducen el ardor' },
-  { k:['mixta'],                                     d:'Zona T brillante y mejillas normales o secas' },
-  { k:['grasa','poro','acn'],                        d:'Texturas ligeras en gel sin sensación pegajosa' }
+  { k:['contorno','ojos','ojera'],                        d:'Ojeras, bolsas y líneas finas de la zona más delicada' },
+  { k:['solar','spf','sol'],                              d:'Filtros diarios que previenen manchas y envejecimiento' },
+  { k:['capilar','cabello','cuero'],                      d:'Cuidado del cabello y el cuero cabelludo' },
+  { k:['acn','brote','imperfec'],                         d:'Controla brotes e imperfecciones sin resecar' },
+  { k:['mancha','hiperpigment','pigment'],                d:'Unifica el tono y aclara marcas de sol, acné o edad' },
+  { k:['anti-edad','antiedad','anti edad','madura','edad'], d:'Enfocada en firmeza, elasticidad, arrugas y manchas de la edad' },
+  { k:['brillo','luminosid','glow'],                      d:'Devuelve el glow a la piel apagada o sin vida' },
+  { k:['sensible','calmante','rojec','reactiv'],          d:'Fórmulas hipoalergénicas y calmantes que reducen el ardor' },
+  { k:['hidrataci','deshidratada','seca'],                d:'Para piel con tirantez o sensación de falta de agua' },
+  { k:['grasa','poro'],                                   d:'Texturas ligeras en gel sin sensación pegajosa' },
+  { k:['mixta'],                                          d:'Zona T brillante y mejillas normales o secas' },
+  { k:['universal','todo tipo'],                          d:'Apto para todo tipo de piel' }
 ];
 function descPiel(t) {
   const n = (t||'').toLowerCase();
@@ -1261,14 +1285,19 @@ function cardHTML(p, eager) {
 
 // ── MODAL ──────────────────────────────────────────────────────
 let currentProduct = null;
-let modalSlide = 0;        // 0 = foto producto · 1 = ficha técnica
+let modalSlide = 0;        // índice dentro de modalSlides
 let modalColorSrc = null;  // foto activa cuando hay variantes de color
+let modalSlides = [];      // [fotos del producto..., ficha técnica (si existe)]
+let modalHasFicha = false; // la ficha siempre es la última slide
 
 function openModal(idx) {
   const p = allProducts[idx];
   currentProduct = p;
   modalSlide = 0;
-  modalColorSrc = p.colores ? p.colores[0] : p.imagen;
+  modalHasFicha = !!(p.ficha && p.ficha.trim && p.ficha.trim());
+  modalSlides = (p.colores && p.colores.length) ? p.colores.slice() : [p.imagen];
+  if (modalHasFicha) modalSlides.push(p.ficha);
+  modalColorSrc = modalSlides[0];
 
   // Image (slide inicial: foto del producto)
   const modalImg = document.getElementById('modalImg');
@@ -1284,35 +1313,36 @@ function openModal(idx) {
   };
 
   // Carrusel foto / ficha técnica
-  const hasFicha = !!(p.ficha && p.ficha.trim && p.ficha.trim());
+  const hasFicha = modalHasFicha;
   const arrowPrev = document.getElementById('modalArrowPrev');
   const arrowNext = document.getElementById('modalArrowNext');
   const tabsEl    = document.getElementById('modalSlideTabs');
   document.getElementById('fichaZoomHint').style.display = 'block';
   document.getElementById('modalImgSide').classList.remove('showing-ficha');
+  const multi = modalSlides.length > 1;
+  arrowPrev.style.display = multi ? 'flex' : 'none';
+  arrowNext.style.display = multi ? 'flex' : 'none';
   if (hasFicha) {
-    arrowPrev.style.display = 'flex';
-    arrowNext.style.display = 'flex';
     tabsEl.style.display = 'flex';
     tabsEl.innerHTML =
       '<div class="modal-slide-tab active" onclick="modalGoSlide(0)">Foto</div>'
-      + '<div class="modal-slide-tab" onclick="modalGoSlide(1)">Ficha técnica</div>';
+      + '<div class="modal-slide-tab" onclick="modalGoSlide(' + (modalSlides.length - 1) + ')">Ficha técnica</div>';
   } else {
-    arrowPrev.style.display = 'none';
-    arrowNext.style.display = 'none';
     tabsEl.style.display = 'none';
     tabsEl.innerHTML = '';
   }
 
   // Color dots
   const dotsEl = document.getElementById('modalDots');
-  if (p.colores && p.colores.length > 1) {
+  const fotoCount = modalSlides.length - (modalHasFicha ? 1 : 0);
+  if (fotoCount > 1) {
     dotsEl.style.display = 'flex';
-    dotsEl.innerHTML = p.colores.map((src,i)=>
-      '<div class="modal-dot'+(i===0?' active':'')+'" onclick="modalSwap(\''+src+'\',this)">'
-      +'<img src="'+src+'" onerror="this.parentElement.style.background=\'var(--beige-mid)\'">'
-      +'</div>'
-    ).join('');
+    let dotsHtml = '';
+    for (let i = 0; i < fotoCount; i++) {
+      dotsHtml += '<button class="modal-dot' + (i===0?' active':'') + '" aria-label="Foto ' + (i+1) + '" onclick="modalGoSlide(' + i + ')"></button>';
+    }
+    if (modalHasFicha) dotsHtml += '<button class="modal-dot is-ficha-dot" aria-label="Ficha técnica" onclick="modalGoSlide(' + (modalSlides.length-1) + ')"></button>';
+    dotsEl.innerHTML = dotsHtml;
   } else {
     dotsEl.style.display = 'none';
     dotsEl.innerHTML = '';
@@ -1370,55 +1400,48 @@ function closeModalIfOutside(e) {
   if (e.target === document.getElementById('modalOverlay')) closeModal();
 }
 
-function modalSwap(src, dot) {
-  modalColorSrc = src;
-  if (modalSlide !== 0) modalGoSlide(0);   // al elegir un color, volver a la foto
-  const img = document.getElementById('modalImg');
-  if (img) img.src = src;
-  document.getElementById('modalDots').querySelectorAll('.modal-dot').forEach(d=>d.classList.remove('active'));
-  dot.classList.add('active');
+function modalSwap(src) {
+  const i = modalSlides.indexOf(src);
+  if (i >= 0) modalGoSlide(i);
 }
 
-// ── CARRUSEL FOTO / FICHA TÉCNICA ──────────────────────────────
+// ── CARRUSEL: fotos del producto primero, ficha técnica al final ──
 function modalGoSlide(n) {
-  if (!currentProduct) return;
-  const p = currentProduct;
-  const hasFicha = !!(p.ficha && p.ficha.trim && p.ficha.trim());
-  if (n === 1 && !hasFicha) return;
+  if (!currentProduct || !modalSlides.length) return;
+  const p     = currentProduct;
+  const total = modalSlides.length;
+  n = ((n % total) + total) % total;
   modalSlide = n;
+  const isFicha = modalHasFicha && n === total - 1;
 
   const img     = document.getElementById('modalImg');
-  const dotsEl  = document.getElementById('modalDots');
   const hint    = document.getElementById('fichaZoomHint');
   const imgSide = document.getElementById('modalImgSide');
   const tabs    = document.getElementById('modalSlideTabs').querySelectorAll('.modal-slide-tab');
-  tabs.forEach((t,i)=>t.classList.toggle('active', i===n));
+  tabs.forEach((t,i)=>t.classList.toggle('active', i === (isFicha ? 1 : 0)));
 
-  if (n === 1) {
-    img.classList.add('is-ficha');
-    img.classList.remove('is-zoomable');
-    img.src = p.ficha;
+  const src = modalSlides[n];
+  img.src = src;
+  img.classList.toggle('is-ficha', isFicha);
+  img.classList.toggle('is-zoomable', !isFicha);
+  if (isFicha) {
     img.alt = 'Ficha técnica ' + p.referencia;
-    img.onclick = function(){ openFicha(p.ficha, 'Ficha técnica ' + p.referencia); };
-    img.onerror = function(){ this.onerror=null; modalGoSlide(0); };
-    hint.style.display = 'block';
-    imgSide.classList.add('showing-ficha');
-    if (p.colores && p.colores.length > 1) dotsEl.style.display = 'none';
+    img.onclick = function(){ openFicha(src, 'Ficha técnica ' + p.referencia); };
+    img.onerror = function(){ this.onerror = null; modalGoSlide(0); };
   } else {
-    img.classList.remove('is-ficha');
-    img.src = modalColorSrc || p.imagen;
+    modalColorSrc = src;
     img.alt = p.nombre;
-    // La foto normal también abre el lightbox, igual que la ficha técnica
-    img.classList.add('is-zoomable');
-    img.onclick = function(){ openFicha(img.src, p.nombre); };
+    img.onclick = function(){ openFicha(src, p.nombre); };
     img.onerror = null;
-    hint.style.display = 'block';
-    imgSide.classList.remove('showing-ficha');
-    if (p.colores && p.colores.length > 1) dotsEl.style.display = 'flex';
   }
+  hint.style.display = 'block';
+  imgSide.classList.toggle('showing-ficha', isFicha);
+
+  const dots = document.getElementById('modalDots').querySelectorAll('.modal-dot');
+  dots.forEach((d,i)=>d.classList.toggle('active', i === n));
 }
-function modalNextSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide === 0 ? 1 : 0); }
-function modalPrevSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide === 0 ? 1 : 0); }
+function modalNextSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide + 1); }
+function modalPrevSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide - 1); }
 
 // ── LIGHTBOX FICHA (pantalla completa) ─────────────────────────
 function openFicha(src, alt) {
