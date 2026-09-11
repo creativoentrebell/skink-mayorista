@@ -69,6 +69,8 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .pill { padding: 5px 13px; border-radius: 20px; border: 1.5px solid var(--beige-mid); background: var(--white); font-size: 12px; font-weight: 500; cursor: pointer; color: var(--text-mid); font-family: inherit; transition: all 0.18s; white-space: nowrap; }
 .pill:hover { border-color: var(--taupe); color: var(--taupe-dark); }
 .pill.active { background: var(--taupe); border-color: var(--taupe); color: var(--white); }
+.pill b { font-weight: 600; color: var(--taupe-dark); margin-left: 2px; }
+.pill.active b { color: rgba(255,255,255,0.85); }
 
 /* ── BOTÓN FILTROS COLAPSABLES (solo móvil) ── */
 .filters-toggle-btn { display: none; align-items: center; gap: 6px; padding: 6px 12px; border: 1.5px solid var(--beige-mid); border-radius: 8px; background: var(--white); font-size: 12px; font-family: inherit; color: var(--text-mid); cursor: pointer; font-weight: 500; white-space: nowrap; flex-shrink: 0; transition: all 0.18s; }
@@ -159,20 +161,26 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .card-marca { font-size: 10px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--taupe); margin-bottom: 3px; }
 .card-name { font-size: 12.5px; font-weight: 400; color: var(--text); line-height: 1.35; flex: 1; margin-bottom: 6px; }
 .card-ref { font-size: 11px; color: var(--text-light); margin-bottom: 8px; }
-.card-footer { display: flex; align-items: center; justify-content: space-between; gap: 6px; margin-top: auto; }
+.card-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 7px; margin-top: auto; }
 .card-price { font-size: 15px; font-weight: 600; color: var(--taupe-dark); }
 .card-price.pendiente { font-size: 11px; font-weight: 400; color: var(--text-light); font-style: italic; }
 .card-hint { font-size: 10px; color: var(--text-light); opacity: 0.7; }
+/* Mismo lenguaje visual que el botón "Carrito" del header: fondo blanco,
+   borde beige, icono de bolsa y texto oscuro. Así el cliente los relaciona. */
 .card-add-btn {
-  flex-shrink: 0; display: inline-flex; align-items: center; gap: 5px;
-  border: 1px solid var(--taupe); background: var(--taupe); color: var(--white);
-  font-family: inherit; font-size: 11px; font-weight: 600; letter-spacing: 0.03em;
-  padding: 6px 11px; border-radius: 6px; cursor: pointer; line-height: 1;
-  transition: background .15s, border-color .15s, opacity .15s;
+  width: 100%; display: inline-flex; align-items: center; justify-content: center;
+  gap: 7px; background: var(--white); border: 1.5px solid var(--beige-mid);
+  color: var(--text); font-family: inherit; font-size: 12px; font-weight: 500;
+  padding: 8px 10px; border-radius: 8px; cursor: pointer; line-height: 1;
+  transition: all 0.18s;
 }
-.card-add-btn:hover { background: var(--taupe-dark); border-color: var(--taupe-dark); }
-.card-add-btn.added { background: #5f8a6b; border-color: #5f8a6b; }
-.card-add-ico { font-size: 12.5px; line-height: 1; }
+.card-add-btn:hover { border-color: var(--taupe); }
+.card-add-btn.added { background: #5f8a6b; border-color: #5f8a6b; color: var(--white); }
+.card-add-ico { font-size: 14px; line-height: 1; }
+@media (max-width: 420px) {
+  .card-add-btn { font-size: 11px; gap: 5px; padding: 8px 6px; }
+  .card-add-ico { font-size: 13px; }
+}
 .card-footer .card-hint { display: none; }
 
 /* Badges on card */
@@ -302,6 +310,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .modal-slide-tab:hover:not(.active) { background: var(--beige); }
 
 .modal-img-side img.is-ficha { cursor: zoom-in; padding: 10px; }
+.modal-img-side img.is-zoomable { cursor: zoom-in; }
 .ficha-zoom-hint {
   position: absolute; bottom: 44px; left: 50%; transform: translateX(-50%);
   font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase;
@@ -496,6 +505,139 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   .brand-subtitle { font-size: 9.5px; letter-spacing: 0.06em; }
   .cart-btn { height: 36px; }
 }
+
+/* ═══════════════════════════════════════════════════════════════
+   PANEL DE FILTROS VISUAL  (pasos de rutina / marcas / tipo de piel)
+   ═══════════════════════════════════════════════════════════════ */
+
+/* Header mas compacto */
+.header-inner { height: 58px; }
+.header-logo  { height: 38px; }
+.header-stats { font-size: 11.5px; }
+.cart-btn { height: 32px; }
+
+.filter-panel {
+  background: var(--beige-light);
+  border: 1px solid var(--beige-mid);
+  border-radius: var(--radius);
+  padding: 13px 14px;
+}
+.filter-panel-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 10px; margin-bottom: 10px;
+}
+.filter-panel-title {
+  font-size: 10.5px; font-weight: 600; letter-spacing: 0.09em;
+  text-transform: uppercase; color: var(--taupe-dark);
+}
+.filter-panel-title .fp-hint {
+  font-weight: 400; letter-spacing: 0.02em; text-transform: none;
+  color: var(--text-light); font-size: 11px; margin-left: 6px;
+}
+.filter-panel-count { font-size: 11px; color: var(--text-light); white-space: nowrap; }
+
+/* ── Tarjetas de paso (Por Rutina) ── */
+.step-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; }
+.step-card {
+  position: relative; text-align: left; cursor: pointer; font-family: inherit;
+  background: var(--white); border: 1.5px solid var(--beige-mid);
+  border-radius: 10px; padding: 11px 12px 10px; transition: all 0.18s;
+  display: flex; flex-direction: column; gap: 7px; min-height: 84px;
+}
+.step-card:hover { border-color: var(--taupe); transform: translateY(-1px); box-shadow: var(--shadow); }
+.step-card .sc-icon { color: var(--taupe); display: flex; }
+.step-card .sc-icon svg { width: 18px; height: 18px; }
+.step-card .sc-name { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.2; }
+.step-card .sc-sub  { font-size: 10.5px; color: var(--text-light); margin-top: 1px; }
+.step-card .sc-count {
+  position: absolute; top: 9px; right: 10px;
+  font-size: 11px; font-weight: 600; color: var(--taupe-dark);
+}
+.step-card.active {
+  background: var(--taupe); border-color: var(--taupe);
+  box-shadow: 0 4px 14px rgba(138,115,98,0.28);
+}
+.step-card.active .sc-icon,
+.step-card.active .sc-name,
+.step-card.active .sc-count { color: var(--white); }
+.step-card.active .sc-sub { color: rgba(255,255,255,0.78); }
+.step-card:disabled { opacity: 0.4; cursor: default; }
+.step-card:disabled:hover { transform: none; box-shadow: none; border-color: var(--beige-mid); }
+
+/* ── Sub-fila de categorias ── */
+.subfilter-wrap { margin-top: 12px; border-top: 1px solid var(--beige-mid); padding-top: 11px; }
+
+/* ── Tarjetas de tipo de piel ── */
+.piel-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+.piel-card {
+  position: relative; text-align: left; cursor: pointer; font-family: inherit;
+  background: var(--white); border: 1.5px solid var(--beige-mid);
+  border-radius: 10px; padding: 12px 13px; transition: all 0.18s;
+}
+.piel-card:hover { border-color: var(--taupe); transform: translateY(-1px); box-shadow: var(--shadow); }
+.piel-card .pc-name { font-size: 13px; font-weight: 600; color: var(--text); line-height: 1.25; padding-right: 30px; }
+.piel-card .pc-desc { font-size: 11px; color: var(--text-light); line-height: 1.35; margin-top: 5px; }
+.piel-card .pc-count { position: absolute; top: 11px; right: 12px; font-size: 11px; font-weight: 600; color: var(--taupe-dark); }
+.piel-card.active { background: var(--taupe); border-color: var(--taupe); box-shadow: 0 4px 14px rgba(138,115,98,0.28); }
+.piel-card.active .pc-name, .piel-card.active .pc-count { color: var(--white); }
+.piel-card.active .pc-desc { color: rgba(255,255,255,0.8); }
+
+/* ── Chips de marca ── */
+.brand-chips { display: flex; gap: 6px; flex-wrap: wrap; }
+.show-more-btn {
+  background: none; border: none; font-family: inherit; font-size: 11.5px;
+  font-weight: 500; color: var(--taupe-dark); cursor: pointer;
+  padding: 5px 4px; text-decoration: underline; text-underline-offset: 3px;
+}
+.show-more-btn:hover { color: var(--text); }
+
+/* ── Chips de filtros activos ── */
+.active-chips { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
+.active-chips:empty { display: none; }
+.active-chips .ac-label {
+  font-size: 10.5px; font-weight: 600; letter-spacing: 0.07em;
+  text-transform: uppercase; color: var(--text-light); margin-right: 2px;
+}
+.fchip {
+  display: inline-flex; align-items: center; gap: 7px;
+  background: var(--taupe); color: var(--white); border: none;
+  border-radius: 20px; padding: 5px 8px 5px 12px;
+  font-size: 12px; font-weight: 500; font-family: inherit; cursor: pointer;
+  transition: background 0.18s;
+}
+.fchip:hover { background: var(--taupe-dark); }
+.fchip .fchip-x { font-size: 13px; line-height: 1; opacity: 0.75; }
+.fchip-clear {
+  background: none; border: none; font-family: inherit; font-size: 11.5px;
+  color: var(--text-light); cursor: pointer; padding: 5px 6px;
+  text-decoration: underline; text-underline-offset: 3px;
+}
+.fchip-clear:hover { color: var(--badge-out); }
+
+/* ── Responsive ── */
+@media (max-width: 1100px) {
+  .step-grid { grid-template-columns: repeat(3, 1fr); }
+  .piel-grid { grid-template-columns: repeat(3, 1fr); }
+}
+@media (max-width: 700px) {
+  .piel-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .filter-panel { display: none; padding: 11px 11px; }
+  .filters-bar.filters-open .filter-panel { display: block; }
+  .step-grid {
+    display: flex; gap: 8px; overflow-x: auto; scrollbar-width: none;
+    margin: 0 -11px; padding: 2px 11px 4px;
+  }
+  .step-grid::-webkit-scrollbar { display: none; }
+  .step-card { flex: 0 0 138px; min-height: 78px; }
+  .piel-grid { grid-template-columns: 1fr; gap: 7px; }
+  .piel-card { padding: 10px 12px; }
+  .piel-card .pc-desc { font-size: 10.5px; }
+  .active-chips { gap: 5px; }
+  .fchip { font-size: 11.5px; padding: 4px 7px 4px 11px; }
+  .header-inner { height: auto; }
+}
 </style>
 </head>
 <body>
@@ -550,7 +692,9 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
         </select>
       </div>
     </div>
-    <div class="pills-row" id="pillsRow"></div>
+    <div class="filter-panel" id="filterPanel"></div>
+    <div class="active-chips" id="activeChips"></div>
+    <div class="pills-row" id="pillsRow" style="display:none"></div>
   </div>
 </div>
 
@@ -679,6 +823,44 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 <script>
 const RUTINAS = ['Primera Limpieza','Segunda Limpieza','Tónico','Esencia','Sérum','Hidratación','Contorno de Ojos','Mascarillas','Protección Solar','Maquillaje','Labial','Capilar','Sets y Kits','Accesorios','Vitaminas','Parches','Exfoliante','Bruma'];
 
+// ── PASOS DE LA RUTINA COREANA ─────────────────────────────────
+// Agrupan las 18 categorías de RUTINAS en 5 macro-pasos para que el
+// usuario elija primero "en qué momento de la rutina estoy".
+const PASOS = [
+  { id:'limpieza',    nombre:'Limpieza',            paso:'Paso 1', cats:['Primera Limpieza','Segunda Limpieza','Exfoliante'] },
+  { id:'tonicos',     nombre:'Tónicos',             paso:'Paso 2', cats:['Tónico','Esencia','Bruma'] },
+  { id:'tratamiento', nombre:'Tratamiento',         paso:'Paso 3', cats:['Sérum','Contorno de Ojos','Vitaminas'] },
+  { id:'hidratar',    nombre:'Hidratar y Proteger', paso:'Paso 4', cats:['Hidratación','Protección Solar','Mascarillas','Parches'] },
+  { id:'extra',       nombre:'Cuidado Extra',       paso:'Paso 5', cats:['Maquillaje','Labial','Capilar','Sets y Kits','Accesorios'] }
+];
+// Cualquier categoría del JSON que no esté en ningún paso cae aquí
+function pasoDeCategoria(cat) {
+  const ps = PASOS.find(x => x.cats.includes(cat));
+  return ps ? ps.id : null;
+}
+const SVG = {
+  todo:        '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l1.9 4.6L18.5 9.5 13.9 11.4 12 16l-1.9-4.6L5.5 9.5l4.6-1.9z"/><path d="M18 15l.8 2L21 17.8l-2.2.8L18 21l-.8-2.4-2.2-.8 2.2-.8z"/></svg>',
+  limpieza:    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3s5.5 6.1 5.5 9.8A5.5 5.5 0 0 1 12 18.5a5.5 5.5 0 0 1-5.5-5.7C6.5 9.1 12 3 12 3z"/></svg>',
+  tonicos:     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8.5c2.2-2 4.3-2 6.5 0s4.3 2 6.5 0 4.3-2 5-1.3"/><path d="M3 13c2.2-2 4.3-2 6.5 0s4.3 2 6.5 0 4.3-2 5-1.3"/><path d="M3 17.5c2.2-2 4.3-2 6.5 0s4.3 2 6.5 0 4.3-2 5-1.3"/></svg>',
+  tratamiento: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M13.5 2.5L5 13.5h6l-.5 8L19 10.5h-6z"/></svg>',
+  hidratar:    '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.8l7 2.6v6c0 4.4-3 8.2-7 9.8-4-1.6-7-5.4-7-9.8v-6z"/></svg>',
+  extra:       '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.5S3.8 15.4 3.8 9.9A4.1 4.1 0 0 1 12 7.6a4.1 4.1 0 0 1 8.2 2.3c0 5.5-8.2 10.6-8.2 10.6z"/></svg>'
+};
+// Descripciones de tipo de piel. Se emparejan por palabra clave para no
+// depender del texto exacto que venga en el JSON.
+const PIEL_DESC = [
+  { k:['madura','antiedad','anti-edad','anti edad'], d:'Enfocada en firmeza, elasticidad, arrugas y manchas de la edad' },
+  { k:['deshidratada','seca'],                       d:'Siente tirantez o falta de brillo, necesita hidratación densa' },
+  { k:['sensible','rojec','reactiv'],                d:'Fórmulas hipoalergénicas y calmantes que reducen el ardor' },
+  { k:['mixta'],                                     d:'Zona T brillante y mejillas normales o secas' },
+  { k:['grasa','poro','acn'],                        d:'Texturas ligeras en gel sin sensación pegajosa' }
+];
+function descPiel(t) {
+  const n = (t||'').toLowerCase();
+  const m = PIEL_DESC.find(x => x.k.some(k => n.includes(k)));
+  return m ? m.d : '';
+}
+
 // "Más vendidos" ahora se controla desde el campo mas_vendido: true en el JSON
 function isMasVendido(p) { return p.mas_vendido === true; }
 
@@ -687,7 +869,14 @@ const EAGER_COUNT = 12;   // primeras N imágenes cargan de inmediato (sin lazy)
 
 let allProducts = [];
 let view = 'rutina';
-let activeFilter = 'all';
+// Filtros combinables: cada dimensión es independiente y se aplican en AND.
+let fPaso      = null;   // id de paso de rutina
+let fCategoria = null;   // categoría exacta
+let fMarca     = null;
+let fPiel      = null;
+let marcasExpandidas = false;
+function hasFilters() { return !!(fPaso || fCategoria || fMarca || fPiel); }
+function clearAllFilters() { fPaso = fCategoria = fMarca = fPiel = null; render(); }
 let searchText = '';
 let showNuevo = false;
 let showPreventa = false;
@@ -730,7 +919,9 @@ fetch('skink_cliente_productos.json')
 
 // ── FILTERS ────────────────────────────────────────────────────
 function setView(v) {
-  view = v; activeFilter = 'all';
+  // Los filtros NO se limpian al cambiar de pestaña: son combinables
+  // y el usuario espera que su selección persista.
+  view = v;
   document.getElementById('btnRutina').classList.toggle('active', v==='rutina');
   document.getElementById('btnMarca').classList.toggle('active', v==='marca');
   document.getElementById('btnPiel').classList.toggle('active', v==='tipo_piel');
@@ -743,7 +934,7 @@ function normalizeRef(str) {
 }
 
 function onSearch(val) {
-  searchText = val.toLowerCase().trim(); activeFilter = 'all';
+  searchText = val.toLowerCase().trim();
   document.getElementById('searchClear').style.display = searchText ? 'block' : 'none';
   document.getElementById('searchIcon').style.display  = searchText ? 'none'  : 'block';
   render();
@@ -753,6 +944,15 @@ function clearSearch() { document.getElementById('searchInput').value=''; onSear
 // ── FILTROS COLAPSABLES (móvil) ────────────────────────────────
 function toggleFilters() {
   document.querySelector('.filters-bar').classList.toggle('filters-open');
+}
+// Tras elegir un paso en móvil, desplaza la subfila recién aparecida
+// hasta que quede visible, sin cerrar el panel.
+function scrollSubfiltros() {
+  if (window.innerWidth > 600) return;
+  requestAnimationFrame(() => {
+    const w = document.querySelector('.subfilter-wrap');
+    if (w) w.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  });
 }
 function collapseFiltersMobile() {
   if (window.innerWidth <= 600) {
@@ -770,7 +970,10 @@ function togglePreventa() {
   render();
 }
 
-function filterProducts() {
+// Aplica todos los filtros activos. `excluir` permite ignorar una dimensión
+// ('rutina' | 'marca' | 'piel') para calcular contadores honestos: el número
+// que ve el usuario junto a "COSRX" ya tiene en cuenta los demás filtros.
+function baseFiltered(excluir) {
   const showAgot = document.getElementById('toggleAgotados').checked;
   return allProducts.filter(p => {
     if (!showAgot && p.agotado) return false;
@@ -782,14 +985,19 @@ function filterProducts() {
           || normalizeRef(p.referencia).includes(searchNorm)
           || p.marca.toLowerCase().includes(searchText))) return false;
     }
-    if (activeFilter !== 'all') {
-      if (view==='rutina'    && p.categoria!==activeFilter) return false;
-      if (view==='marca'     && p.marca!==activeFilter)     return false;
-      if (view==='tipo_piel' && !(p.tipos_piel||[]).includes(activeFilter)) return false;
+    if (excluir !== 'rutina') {
+      if (fPaso) {
+        const ps = PASOS.find(x => x.id === fPaso);
+        if (ps && !ps.cats.includes(p.categoria)) return false;
+      }
+      if (fCategoria && p.categoria !== fCategoria) return false;
     }
+    if (excluir !== 'marca' && fMarca && p.marca !== fMarca) return false;
+    if (excluir !== 'piel'  && fPiel  && !(p.tipos_piel||[]).includes(fPiel)) return false;
     return true;
   });
 }
+function filterProducts() { return baseFiltered(null); }
 
 function sortProducts(arr) {
   const v = document.getElementById('sortSelect').value;
@@ -799,41 +1007,200 @@ function sortProducts(arr) {
   return s;
 }
 
-// ── PILLS ──────────────────────────────────────────────────────
+// ── PANEL DE FILTROS ───────────────────────────────────────────
+// Sustituye la antigua fila única de pills por un panel que cambia según
+// la pestaña activa: tarjetas de paso (rutina), chips (marca) o tarjetas
+// descriptivas (tipo de piel). Cada dimensión se puede combinar.
 function buildPills() {
-  const showAgot = document.getElementById('toggleAgotados').checked;
-  const base = allProducts.filter(p => {
-    if (!showAgot && p.agotado) return false;
-    if (showNuevo && !p.nuevo) return false;
-    if (showPreventa && !p.preventa) return false;
-    if (searchText) return p.nombre.toLowerCase().includes(searchText)||normalizeRef(p.referencia).includes(normalizeRef(searchText))||p.marca.toLowerCase().includes(searchText);
-    return true;
-  });
-  let groups;
-  if (view==='rutina') {
-    groups = RUTINAS.filter(r=>base.some(p=>p.categoria===r));
-  } else if (view==='marca') {
-    groups = [...new Set(base.map(p=>p.marca))].sort((a,b)=>a.localeCompare(b,'es'));
-  } else {
-    // tipo_piel: collect all unique types, sorted by count desc
-    const typeCount = {};
-    base.forEach(p=>(p.tipos_piel||[]).forEach(t=>{ typeCount[t]=(typeCount[t]||0)+1; }));
-    groups = Object.keys(typeCount).sort((a,b)=>typeCount[b]-typeCount[a]);
-  }
-  const countForGroup = (g) => {
-    if (view==='rutina')    return base.filter(p=>p.categoria===g).length;
-    if (view==='marca')     return base.filter(p=>p.marca===g).length;
-    return base.filter(p=>(p.tipos_piel||[]).includes(g)).length;
+  buildFilterPanel();
+  buildActiveChips();
+}
+
+function el(tag, cls, html) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (html != null) e.innerHTML = html;
+  return e;
+}
+function panelHead(title, hint, count) {
+  return '<div class="filter-panel-head">'
+       +   '<div class="filter-panel-title">' + title
+       +     (hint ? '<span class="fp-hint">' + hint + '</span>' : '') + '</div>'
+       +   (count ? '<div class="filter-panel-count">' + count + '</div>' : '')
+       + '</div>';
+}
+
+function buildFilterPanel() {
+  const panel = document.getElementById('filterPanel');
+  panel.innerHTML = '';
+  if (view === 'rutina')         buildPanelRutina(panel);
+  else if (view === 'marca')     buildPanelMarca(panel);
+  else                           buildPanelPiel(panel);
+}
+
+// ── Vista POR RUTINA: 5 pasos + sub-fila de categorías ──
+function buildPanelRutina(panel) {
+  const base = baseFiltered('rutina');          // ignora paso/categoría
+  const cnt  = c => base.filter(p => p.categoria === c).length;
+
+  panel.insertAdjacentHTML('beforeend', panelHead(
+    'Pasos de la rutina coreana',
+    'selecciona un paso para enfocar tu búsqueda'
+  ));
+
+  const grid = el('div', 'step-grid');
+  const mkCard = (icon, nombre, sub, count, active, onclick, disabled) => {
+    const b = el('button', 'step-card' + (active ? ' active' : ''),
+        '<span class="sc-count">' + count + '</span>'
+      + '<span class="sc-icon">' + icon + '</span>'
+      + '<span><span class="sc-name">' + nombre + '</span>'
+      + '<span class="sc-sub" style="display:block">' + sub + '</span></span>');
+    if (disabled) b.disabled = true; else b.onclick = onclick;
+    grid.appendChild(b);
   };
-  const row = document.getElementById('pillsRow');
-  row.innerHTML = '';
-  [['all','Todos ('+base.length+')'], ...groups.map(g=>[g,g+' ('+countForGroup(g)+')'])].forEach(([val,lbl])=>{
-    const b = document.createElement('button');
-    b.className = 'pill'+(activeFilter===val?' active':'');
-    b.textContent = lbl;
-    b.onclick = ()=>{ activeFilter=val; render(); collapseFiltersMobile(); };
+
+  mkCard(SVG.todo, 'Ver Todo', 'Catálogo', base.length,
+         !fPaso && !fCategoria,
+         () => { fPaso = null; fCategoria = null; render(); });
+
+  PASOS.forEach(ps => {
+    const n = ps.cats.reduce((a, c) => a + cnt(c), 0);
+    mkCard(SVG[ps.id], ps.nombre, ps.paso, n, fPaso === ps.id,
+           // No cerramos el desplegable: el usuario necesita ver las
+           // subcategorías que acaban de aparecer debajo.
+           () => { fPaso = ps.id; fCategoria = null; render(); scrollSubfiltros(); },
+           n === 0);
+  });
+  panel.appendChild(grid);
+
+  // Sub-fila: solo aparece cuando ya se eligió un paso. Sin paso elegido no
+  // se listan las 18 categorías (sería redundante con las tarjetas de arriba).
+  const psAct = fPaso ? PASOS.find(x => x.id === fPaso) : null;
+  let cats, titulo;
+  if (psAct) {
+    cats = psAct.cats.filter(c => cnt(c) > 0);
+    titulo = psAct.nombre;
+  } else {
+    // Única excepción: categorías del JSON que no pertenezcan a ningún paso,
+    // que si no quedarían inalcanzables desde los filtros.
+    cats = [...new Set(base.map(p => p.categoria))]
+             .filter(c => c && !pasoDeCategoria(c) && cnt(c) > 0)
+             .sort((a, b) => a.localeCompare(b, 'es'));
+    titulo = 'Otras categorías';
+  }
+  if (!cats.length) return;
+
+  const wrap = el('div', 'subfilter-wrap');
+  wrap.insertAdjacentHTML('beforeend', panelHead(
+    titulo, '',
+    cats.length + ' categoría' + (cats.length !== 1 ? 's' : '') + ' en esta sección'
+  ));
+  const row = el('div', 'pills-row');
+  const all = el('button', 'pill' + (!fCategoria ? ' active' : ''),
+                 (fCategoria ? '' : '✓ ') + (psAct ? 'Todo en ' + psAct.nombre : 'Todas'));
+  all.onclick = () => { fCategoria = null; render(); collapseFiltersMobile(); };
+  row.appendChild(all);
+  cats.forEach(c => {
+    const b = el('button', 'pill' + (fCategoria === c ? ' active' : ''), c + ' <b>' + cnt(c) + '</b>');
+    b.onclick = () => {
+      fCategoria = (fCategoria === c) ? null : c;
+      if (fCategoria) fPaso = pasoDeCategoria(fCategoria);
+      render(); collapseFiltersMobile();
+    };
     row.appendChild(b);
   });
+  wrap.appendChild(row);
+  panel.appendChild(wrap);
+}
+
+// ── Vista POR MARCA ──
+const MARCAS_VISIBLES = 16;
+function buildPanelMarca(panel) {
+  const base   = baseFiltered('marca');
+  const marcas = [...new Set(base.map(p => p.marca))].filter(Boolean);
+  const cnt    = m => base.filter(p => p.marca === m).length;
+  marcas.sort((a, b) => cnt(b) - cnt(a) || a.localeCompare(b, 'es'));
+
+  panel.insertAdjacentHTML('beforeend', panelHead(
+    'Filtrar por marca coreana', 'selecciona tu marca favorita para ver sus productos'
+  ));
+
+  const row  = el('div', 'brand-chips');
+  const todas = el('button', 'pill' + (!fMarca ? ' active' : ''),
+                   (fMarca ? '' : '✓ ') + 'Todas las ' + marcas.length + ' marcas');
+  todas.onclick = () => { fMarca = null; render(); collapseFiltersMobile(); };
+  row.appendChild(todas);
+
+  const lista = (marcasExpandidas || fMarca) ? marcas : marcas.slice(0, MARCAS_VISIBLES);
+  lista.forEach(m => {
+    const b = el('button', 'pill' + (fMarca === m ? ' active' : ''), m + ' <b>' + cnt(m) + '</b>');
+    b.onclick = () => { fMarca = (fMarca === m) ? null : m; render(); collapseFiltersMobile(); };
+    row.appendChild(b);
+  });
+  panel.appendChild(row);
+
+  if (!fMarca && marcas.length > MARCAS_VISIBLES) {
+    const more = el('button', 'show-more-btn',
+      marcasExpandidas ? 'Ver menos marcas' : 'Ver las ' + (marcas.length - MARCAS_VISIBLES) + ' marcas restantes');
+    more.onclick = () => { marcasExpandidas = !marcasExpandidas; buildFilterPanel(); };
+    panel.appendChild(more);
+  }
+}
+
+// ── Vista POR TIPO DE PIEL ──
+function buildPanelPiel(panel) {
+  const base = baseFiltered('piel');
+  const cont = {};
+  base.forEach(p => (p.tipos_piel || []).forEach(t => { cont[t] = (cont[t] || 0) + 1; }));
+  const tipos = Object.keys(cont).sort((a, b) => cont[b] - cont[a]);
+
+  panel.insertAdjacentHTML('beforeend', panelHead(
+    '¿Para qué tipo de piel necesitas los productos?',
+    'elige una necesidad y verás solo lo indicado para ella'
+  ));
+
+  if (!tipos.length) {
+    panel.insertAdjacentHTML('beforeend',
+      '<div class="filter-panel-count">No hay tipos de piel disponibles con los filtros actuales.</div>');
+    return;
+  }
+
+  const grid = el('div', 'piel-grid');
+  tipos.forEach(t => {
+    const d = descPiel(t);
+    const b = el('button', 'piel-card' + (fPiel === t ? ' active' : ''),
+        '<span class="pc-count">' + cont[t] + '</span>'
+      + '<div class="pc-name">' + t + '</div>'
+      + (d ? '<div class="pc-desc">' + d + '</div>' : ''));
+    b.onclick = () => { fPiel = (fPiel === t) ? null : t; render(); collapseFiltersMobile(); };
+    grid.appendChild(b);
+  });
+  panel.appendChild(grid);
+}
+
+// ── Chips de filtros activos (transversales a las 3 pestañas) ──
+function buildActiveChips() {
+  const box = document.getElementById('activeChips');
+  box.innerHTML = '';
+  const activos = [];
+  if (fCategoria)          activos.push([fCategoria,                                  () => { fCategoria = null; }]);
+  else if (fPaso)          activos.push([(PASOS.find(x => x.id === fPaso) || {}).nombre, () => { fPaso = null; }]);
+  if (fMarca)              activos.push([fMarca,                                      () => { fMarca = null; }]);
+  if (fPiel)               activos.push([fPiel,                                       () => { fPiel = null; }]);
+  if (!activos.length) return;
+
+  box.insertAdjacentHTML('beforeend', '<span class="ac-label">Filtros activos</span>');
+  activos.forEach(([lbl, clear]) => {
+    const b = el('button', 'fchip', lbl + ' <span class="fchip-x">✕</span>');
+    b.title = 'Quitar este filtro';
+    b.onclick = () => { clear(); if (!fCategoria && !fPaso) fPaso = null; render(); };
+    box.appendChild(b);
+  });
+  if (activos.length > 1) {
+    const c = el('button', 'fchip-clear', 'Limpiar todo');
+    c.onclick = clearAllFilters;
+    box.appendChild(c);
+  }
 }
 
 // ── CARD ───────────────────────────────────────────────────────
@@ -887,7 +1254,7 @@ function cardHTML(p, eager) {
     +   '<div class="card-ref">Ref: '+p.referencia+'</div>'
     +   '<div class="card-footer">'
     +     priceHTML
-    +     (p.agotado ? '<span class="card-hint" style="display:inline">Ver más →</span>' : '<button class="card-add-btn" onclick="quickAddToCart(event, '+idx+')"><span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar</button>')
+    +     (p.agotado ? '<span class="card-hint" style="display:inline">Ver más →</span>' : '<button class="card-add-btn" onclick="quickAddToCart(event, '+idx+')"><span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar al carrito</button>')
     +   '</div>'
     + '</div></div>';
 }
@@ -906,10 +1273,13 @@ function openModal(idx) {
   // Image (slide inicial: foto del producto)
   const modalImg = document.getElementById('modalImg');
   modalImg.classList.remove('is-ficha');
-  modalImg.onclick = null;
+  // La foto del producto se amplía igual que la ficha técnica
+  modalImg.classList.add('is-zoomable');
+  modalImg.onclick = function(){ openFicha(modalImg.src, p.nombre); };
   modalImg.src = modalColorSrc;
   modalImg.alt = p.nombre;
   modalImg.onerror = function() {
+    document.getElementById('fichaZoomHint').style.display = 'none';
     this.parentElement.innerHTML = '<div class="modal-img-placeholder">'+p.referencia+'</div>';
   };
 
@@ -918,7 +1288,7 @@ function openModal(idx) {
   const arrowPrev = document.getElementById('modalArrowPrev');
   const arrowNext = document.getElementById('modalArrowNext');
   const tabsEl    = document.getElementById('modalSlideTabs');
-  document.getElementById('fichaZoomHint').style.display = 'none';
+  document.getElementById('fichaZoomHint').style.display = 'block';
   document.getElementById('modalImgSide').classList.remove('showing-ficha');
   if (hasFicha) {
     arrowPrev.style.display = 'flex';
@@ -1026,9 +1396,10 @@ function modalGoSlide(n) {
 
   if (n === 1) {
     img.classList.add('is-ficha');
+    img.classList.remove('is-zoomable');
     img.src = p.ficha;
     img.alt = 'Ficha técnica ' + p.referencia;
-    img.onclick = function(){ openFicha(p.ficha); };
+    img.onclick = function(){ openFicha(p.ficha, 'Ficha técnica ' + p.referencia); };
     img.onerror = function(){ this.onerror=null; modalGoSlide(0); };
     hint.style.display = 'block';
     imgSide.classList.add('showing-ficha');
@@ -1037,8 +1408,11 @@ function modalGoSlide(n) {
     img.classList.remove('is-ficha');
     img.src = modalColorSrc || p.imagen;
     img.alt = p.nombre;
-    img.onclick = null;
-    hint.style.display = 'none';
+    // La foto normal también abre el lightbox, igual que la ficha técnica
+    img.classList.add('is-zoomable');
+    img.onclick = function(){ openFicha(img.src, p.nombre); };
+    img.onerror = null;
+    hint.style.display = 'block';
     imgSide.classList.remove('showing-ficha');
     if (p.colores && p.colores.length > 1) dotsEl.style.display = 'flex';
   }
@@ -1047,8 +1421,10 @@ function modalNextSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide
 function modalPrevSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide === 0 ? 1 : 0); }
 
 // ── LIGHTBOX FICHA (pantalla completa) ─────────────────────────
-function openFicha(src) {
-  document.getElementById('fichaFullImg').src = src;
+function openFicha(src, alt) {
+  const im = document.getElementById('fichaFullImg');
+  im.src = src;
+  im.alt = alt || 'Imagen ampliada';
   document.getElementById('fichaOverlay').classList.add('open');
 }
 function closeFicha(e) {
@@ -1086,7 +1462,8 @@ function buildRenderList() {
   const sorted = sortProducts(filterProducts());
   const items  = [];
 
-  if (activeFilter === 'all' && !searchText && sorted.length > 0) {
+  // Agrupa por secciones solo cuando no hay filtros ni búsqueda activa.
+  if (!hasFilters() && !searchText && sorted.length > 0) {
     if (view === 'rutina') {
       RUTINAS.forEach(g => {
         const gp = sorted.filter(p => p.categoria === g);
@@ -1129,7 +1506,7 @@ function buildRenderList() {
 // Sección independiente del scroll infinito: se muestra completa (no paginada)
 // con flechas para navegar. Solo aparece con filtro "Todos" y sin búsqueda activa.
 function renderBestsellerCarousel(el) {
-  if (!(activeFilter === 'all' && !searchText)) return;
+  if (hasFilters() || searchText) return;
   const bestsellers = filterProducts().filter(p => isMasVendido(p));
   if (!bestsellers.length) return;
 
@@ -1166,7 +1543,7 @@ function scrollBestsellers(dir) {
 // ── CARRUSEL "PREVENTA" ────────────────────────────────────────
 // Misma mecánica que "Más vendidos": sección independiente, no paginada.
 function renderPreventaCarousel(el) {
-  if (!(activeFilter === 'all' && !searchText)) return;
+  if (hasFilters() || searchText) return;
   const preventas = filterProducts().filter(p => p.preventa === true);
   if (!preventas.length) return;
 
@@ -1368,7 +1745,7 @@ function quickAddToCart(ev, idx) {
   const btn = ev.currentTarget;
   btn.innerHTML = '<span class="card-add-ico">\u2713</span>Agregado';
   btn.classList.add('added');
-  setTimeout(() => { btn.innerHTML = '<span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar'; btn.classList.remove('added'); }, 1200);
+  setTimeout(() => { btn.innerHTML = '<span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar al carrito'; btn.classList.remove('added'); }, 1200);
 }
 
 // ── Drawer ──
