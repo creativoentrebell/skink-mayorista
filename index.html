@@ -216,6 +216,10 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
   font-size: 10px; font-weight: 600; color: var(--taupe-dark);
   background: var(--beige-light);
 }
+.card-thumb.is-video {
+  background: var(--taupe-dark); border-color: var(--taupe-dark);
+  color: var(--white); font-size: 9px; padding-left: 2px;
+}
 @media (max-width: 600px) {
   .card-thumbs { bottom: 4px; gap: 3px; }
   .card-thumb { width: 21px; height: 21px; border-radius: 4px; }
@@ -315,6 +319,25 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 }
 .modal-slide-tab.active { background: var(--taupe-dark); color: var(--white); border-color: var(--taupe-dark); }
 .modal-slide-tab:hover:not(.active) { background: var(--beige); }
+
+/* ── VIDEO DEL PRODUCTO (última slide del carrusel) ── */
+.modal-video {
+  display: none;
+  width: 100%; height: 100%;
+  object-fit: contain; background: var(--beige-light);
+}
+.modal-video.show { display: block; }
+.modal-play-btn {
+  position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+  width: 58px; height: 58px; border-radius: 50%; border: none;
+  background: rgba(255,255,255,0.92); color: var(--taupe-dark);
+  font-size: 20px; padding-left: 4px; cursor: pointer;
+  display: none; align-items: center; justify-content: center;
+  box-shadow: 0 4px 18px rgba(30,20,15,0.28); z-index: 4;
+  transition: transform 0.15s, background 0.15s;
+}
+.modal-play-btn.show { display: flex; }
+.modal-play-btn:hover { transform: translate(-50%,-50%) scale(1.08); background: #fff; }
 
 .modal-img-side img.is-ficha { cursor: zoom-in; padding: 10px; }
 .modal-img-side img.is-zoomable { cursor: zoom-in; }
@@ -729,6 +752,8 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
     <div class="modal-img-side" id="modalImgSide">
       <button class="modal-arrow prev" id="modalArrowPrev" style="display:none" onclick="modalPrevSlide(event)" title="Anterior">‹</button>
       <img id="modalImg" src="" alt="">
+      <video id="modalVideo" class="modal-video" muted loop playsinline preload="metadata" onclick="toggleModalVideo()"></video>
+      <button class="modal-play-btn" id="modalPlayBtn" onclick="toggleModalVideo(event)" title="Reproducir">▶</button>
       <button class="modal-arrow next" id="modalArrowNext" style="display:none" onclick="modalNextSlide(event)" title="Siguiente">›</button>
       <div class="ficha-zoom-hint" id="fichaZoomHint" style="display:none">Toca para ampliar</div>
       <div class="modal-slide-tabs" id="modalSlideTabs" style="display:none"></div>
@@ -1242,10 +1267,11 @@ function cardHTML(p, eager) {
 
   // Miniaturas sobre la foto: fotos adicionales + ficha tecnica
   const hasFichaCard = !!(p.ficha && p.ficha.trim && p.ficha.trim());
+  const hasVideoCard = !!(p.video && p.video.trim && p.video.trim());
   const extraImgs = (p.colores && p.colores.length > 1) ? p.colores : [];
   let thumbs = '';
-  if (extraImgs.length > 1 || hasFichaCard) {
-    const MAX_TH = hasFichaCard ? 3 : 4;
+  if (extraImgs.length > 1 || hasFichaCard || hasVideoCard) {
+    const MAX_TH = 4 - (hasFichaCard ? 1 : 0) - (hasVideoCard ? 1 : 0);
     const shown  = extraImgs.slice(0, MAX_TH);
     const rest   = extraImgs.length - shown.length;
     let items = shown.map(src =>
@@ -1254,6 +1280,7 @@ function cardHTML(p, eager) {
     if (rest > 0) items += '<div class="card-thumb is-more">+'+rest+'</div>';
     if (hasFichaCard) items += '<div class="card-thumb is-ficha" title="Ficha tecnica">'
       + '<img src="'+p.ficha+'" onerror="this.parentElement.style.display=\'none\'"></div>';
+    if (hasVideoCard) items += '<div class="card-thumb is-video" title="Tiene video">\u25B6</div>';
     thumbs = '<div class="card-thumbs">'+items+'</div>';
   }
   const dots = '';
@@ -1287,20 +1314,28 @@ function cardHTML(p, eager) {
 let currentProduct = null;
 let modalSlide = 0;        // índice dentro de modalSlides
 let modalColorSrc = null;  // foto activa cuando hay variantes de color
-let modalSlides = [];      // [fotos del producto..., ficha técnica (si existe)]
-let modalHasFicha = false; // la ficha siempre es la última slide
+let modalSlides = [];      // [fotos del producto..., ficha técnica, video]
+let modalHasFicha = false;
+let modalFichaIndex = -1;  // la ficha va después de las fotos
+let modalHasVideo = false; // el video va siempre al final, después de la ficha
+let modalVideoIndex = -1;
 
 function openModal(idx) {
   const p = allProducts[idx];
   currentProduct = p;
   modalSlide = 0;
   modalHasFicha = !!(p.ficha && p.ficha.trim && p.ficha.trim());
+  modalHasVideo = !!(p.video && p.video.trim && p.video.trim());
   modalSlides = (p.colores && p.colores.length) ? p.colores.slice() : [p.imagen];
-  if (modalHasFicha) modalSlides.push(p.ficha);
+  modalFichaIndex = -1; modalVideoIndex = -1;
+  if (modalHasFicha) { modalFichaIndex = modalSlides.length; modalSlides.push(p.ficha); }
+  if (modalHasVideo) { modalVideoIndex = modalSlides.length; modalSlides.push(p.video); }
+  stopModalVideo();
   modalColorSrc = modalSlides[0];
 
   // Image (slide inicial: foto del producto)
   const modalImg = document.getElementById('modalImg');
+  modalImg.style.display = '';   // por si el producto anterior terminó en la slide de video
   modalImg.classList.remove('is-ficha');
   // La foto del producto se amplía igual que la ficha técnica
   modalImg.classList.add('is-zoomable');
@@ -1322,11 +1357,12 @@ function openModal(idx) {
   const multi = modalSlides.length > 1;
   arrowPrev.style.display = multi ? 'flex' : 'none';
   arrowNext.style.display = multi ? 'flex' : 'none';
-  if (hasFicha) {
+  if (hasFicha || modalHasVideo) {
     tabsEl.style.display = 'flex';
-    tabsEl.innerHTML =
-      '<div class="modal-slide-tab active" onclick="modalGoSlide(0)">Foto</div>'
-      + '<div class="modal-slide-tab" onclick="modalGoSlide(' + (modalSlides.length - 1) + ')">Ficha técnica</div>';
+    let tabsHtml = '<div class="modal-slide-tab active" onclick="modalGoSlide(0)">Foto</div>';
+    if (hasFicha) tabsHtml += '<div class="modal-slide-tab" onclick="modalGoSlide(' + modalFichaIndex + ')">Ficha técnica</div>';
+    if (modalHasVideo) tabsHtml += '<div class="modal-slide-tab" onclick="modalGoSlide(' + modalVideoIndex + ')">Video</div>';
+    tabsEl.innerHTML = tabsHtml;
   } else {
     tabsEl.style.display = 'none';
     tabsEl.innerHTML = '';
@@ -1334,14 +1370,15 @@ function openModal(idx) {
 
   // Color dots
   const dotsEl = document.getElementById('modalDots');
-  const fotoCount = modalSlides.length - (modalHasFicha ? 1 : 0);
+  const fotoCount = modalSlides.length - (modalHasFicha ? 1 : 0) - (modalHasVideo ? 1 : 0);
   if (fotoCount > 1) {
     dotsEl.style.display = 'flex';
     let dotsHtml = '';
     for (let i = 0; i < fotoCount; i++) {
       dotsHtml += '<button class="modal-dot' + (i===0?' active':'') + '" aria-label="Foto ' + (i+1) + '" onclick="modalGoSlide(' + i + ')"></button>';
     }
-    if (modalHasFicha) dotsHtml += '<button class="modal-dot is-ficha-dot" aria-label="Ficha técnica" onclick="modalGoSlide(' + (modalSlides.length-1) + ')"></button>';
+    if (modalHasFicha) dotsHtml += '<button class="modal-dot is-ficha-dot" aria-label="Ficha técnica" onclick="modalGoSlide(' + modalFichaIndex + ')"></button>';
+    if (modalHasVideo) dotsHtml += '<button class="modal-dot is-ficha-dot" aria-label="Video" onclick="modalGoSlide(' + modalVideoIndex + ')"></button>';
     dotsEl.innerHTML = dotsHtml;
   } else {
     dotsEl.style.display = 'none';
@@ -1391,6 +1428,7 @@ function openModal(idx) {
 }
 
 function closeModal() {
+  stopModalVideo();
   document.getElementById('modalOverlay').classList.remove('open');
   document.body.style.overflow = '';
   currentProduct = null;
@@ -1412,15 +1450,39 @@ function modalGoSlide(n) {
   const total = modalSlides.length;
   n = ((n % total) + total) % total;
   modalSlide = n;
-  const isFicha = modalHasFicha && n === total - 1;
+  const isFicha = modalHasFicha && n === modalFichaIndex;
+  const isVideo = modalHasVideo && n === modalVideoIndex;
 
   const img     = document.getElementById('modalImg');
   const hint    = document.getElementById('fichaZoomHint');
   const imgSide = document.getElementById('modalImgSide');
   const tabs    = document.getElementById('modalSlideTabs').querySelectorAll('.modal-slide-tab');
-  tabs.forEach((t,i)=>t.classList.toggle('active', i === (isFicha ? 1 : 0)));
+  // Pestaña activa: Foto | Ficha técnica | Video (las dos últimas son opcionales)
+  let tabIdx = 0;
+  if (isFicha) tabIdx = 1;
+  else if (isVideo) tabIdx = modalHasFicha ? 2 : 1;
+  tabs.forEach((t,i)=>t.classList.toggle('active', i === tabIdx));
 
   const src = modalSlides[n];
+
+  // Slide de video: se muestra el <video> en lugar de la imagen
+  const vid  = document.getElementById('modalVideo');
+  const play = document.getElementById('modalPlayBtn');
+  if (isVideo) {
+    img.style.display = 'none';
+    vid.classList.add('show');
+    play.classList.add('show');
+    if (vid.dataset.src !== src) { vid.dataset.src = src; vid.src = src; }
+    vid.pause();
+    vid.onerror = function(){ stopModalVideo(); modalGoSlide(0); };
+    hint.style.display = 'none';
+    imgSide.classList.remove('showing-ficha');
+    const dotsV = document.getElementById('modalDots').querySelectorAll('.modal-dot');
+    dotsV.forEach((d,i)=>d.classList.toggle('active', i === n));
+    return;
+  }
+  stopModalVideo();
+  img.style.display = '';
   img.src = src;
   img.classList.toggle('is-ficha', isFicha);
   img.classList.toggle('is-zoomable', !isFicha);
@@ -1442,6 +1504,31 @@ function modalGoSlide(n) {
 }
 function modalNextSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide + 1); }
 function modalPrevSlide(e) { if (e) e.stopPropagation(); modalGoSlide(modalSlide - 1); }
+
+// ── VIDEO DEL PRODUCTO ─────────────────────────────────────────
+function toggleModalVideo(e) {
+  if (e) e.stopPropagation();
+  const vid  = document.getElementById('modalVideo');
+  const play = document.getElementById('modalPlayBtn');
+  if (!vid || !vid.src) return;
+  if (vid.paused) {
+    vid.muted = true;               // sin sonido: requisito para autoplay en móvil
+    const pr = vid.play();
+    if (pr && pr.catch) pr.catch(function(){ play.classList.add('show'); });
+    play.classList.remove('show');
+  } else {
+    vid.pause();
+    play.classList.add('show');
+  }
+}
+function stopModalVideo() {
+  const vid  = document.getElementById('modalVideo');
+  const play = document.getElementById('modalPlayBtn');
+  if (!vid) return;
+  vid.pause();
+  vid.classList.remove('show');
+  if (play) play.classList.remove('show');
+}
 
 // ── LIGHTBOX FICHA (pantalla completa) ─────────────────────────
 function openFicha(src, alt) {

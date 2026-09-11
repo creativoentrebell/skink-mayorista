@@ -128,7 +128,8 @@
     ],
     "mas_vendido": false,
     "preventa": true,
-    "ficha": "img/fichas/TOCOBO52.png"
+    "ficha": "img/fichas/TOCOBO52.png",
+    "video": "img/videos/TOCOBO52.mp4"
   },
   {
     "id": "TOCOBO43",
@@ -224,6 +225,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO31.png",
+    "video": "img/videos/TOCOBO31.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -244,6 +246,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO32.jpg",
+    "video": "img/videos/TOCOBO32.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -264,7 +267,8 @@
     ],
     "mas_vendido": true,
     "preventa": true,
-    "ficha": "img/fichas/TOCOBO39.png"
+    "ficha": "img/fichas/TOCOBO39.png",
+    "video": "img/videos/TOCOBO39.mp4"
   },
   {
     "id": "TOCOBO38",
@@ -440,6 +444,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO48.png",
+    "video": "img/videos/TOCOBO48.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2673,6 +2678,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/BIODANCE2.png",
+    "video": "img/videos/BIODANCE2.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -2771,6 +2777,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE34.png",
+    "video": "img/videos/MEDICUBE34.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -3059,6 +3066,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE9.png",
+    "video": "img/videos/MEDICUBE9.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -3790,6 +3798,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE18.png",
+    "video": "img/videos/MEDICUBE18.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -3930,6 +3939,7 @@
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/MEDICUBE21.png",
+    "video": "img/videos/MEDICUBE21.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -3951,7 +3961,8 @@
     ],
     "mas_vendido": false,
     "preventa": true,
-    "ficha": "img/fichas/MEDICUBE20.png"
+    "ficha": "img/fichas/MEDICUBE20.png",
+    "video": "img/videos/MEDICUBE20.mp4"
   },
   {
     "id": "MEDICUBE25",
@@ -4408,7 +4419,8 @@
     ],
     "mas_vendido": false,
     "preventa": true,
-    "ficha": "img/fichas/MEDICUBE85.png"
+    "ficha": "img/fichas/MEDICUBE85.png",
+    "video": "img/videos/MEDICUBE85.mp4"
   },
   {
     "id": "MEDICUBE86",
@@ -4529,7 +4541,8 @@
     ],
     "mas_vendido": false,
     "preventa": true,
-    "ficha": "img/fichas/MEDICUBE94.png"
+    "ficha": "img/fichas/MEDICUBE94.png",
+    "video": "img/videos/MEDICUBE94.mp4"
   },
   {
     "id": "MEDICUBE95",
@@ -4582,6 +4595,7 @@
       "Piel Grasa y Poros"
     ],
     "ficha": "img/fichas/MEDICUBE97.png",
+    "video": "img/videos/MEDICUBE97.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -5392,6 +5406,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/SKIN1004-49.png",
+    "video": "img/videos/SKIN1004-49.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -6421,6 +6436,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/DR-ALTHEA4.jpg",
+    "video": "img/videos/DR-ALTHEA4.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -6514,6 +6530,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA1.png",
+    "video": "img/videos/DR-ALTHEA1.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -6596,6 +6613,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA22.png",
+    "video": "img/videos/DR-ALTHEA22.mp4",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7631,7 +7649,8 @@
     ],
     "mas_vendido": true,
     "preventa": true,
-    "ficha": "img/fichas/CELI-01.png"
+    "ficha": "img/fichas/CELI-01.png",
+    "video": "img/videos/CELI-01.mp4"
   },
   {
     "id": "CELI-02",
@@ -8381,6 +8400,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/KAHI-01.png",
+    "video": "img/videos/KAHI-01.mp4",
     "mas_vendido": true,
     "preventa": true
   },
@@ -9252,6 +9272,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA27.png",
+    "video": "img/videos/DR-ALTHEA27.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -9304,6 +9325,7 @@
       "Universal"
     ],
     "ficha": "img/fichas/MEDICUBE104.png",
+    "video": "img/videos/MEDICUBE104.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -9321,6 +9343,7 @@
       "Anti-edad"
     ],
     "ficha": "img/fichas/MEDICUBE100.png",
+    "video": "img/videos/MEDICUBE100.mp4",
     "mas_vendido": false,
     "preventa": true
   },
@@ -9338,6 +9361,7 @@
       "Anti-edad"
     ],
     "ficha": "img/fichas/MEDICUBE107.png",
+    "video": "img/videos/MEDICUBE107.mp4",
     "mas_vendido": false,
     "preventa": true
   },
