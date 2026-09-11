@@ -1058,6 +1058,10 @@ function sortProducts(arr) {
   const s = [...arr];
   if (v==='name-asc')   s.sort((a,b)=>a.nombre.localeCompare(b.nombre,'es'));
   if (v==='brand-asc')  s.sort((a,b)=>a.marca.localeCompare(b.marca,'es')||a.nombre.localeCompare(b.nombre,'es'));
+  // Los agotados siempre van al final, conservando el orden anterior entre ellos
+  // (Array.sort es estable). Al aplicarse despues de filtrar, funciona dentro de
+  // cada filtro y de cada grupo de la vista (rutina, marca, tipo de piel).
+  s.sort((a,b) => (a.agotado?1:0) - (b.agotado?1:0));
   return s;
 }
 
