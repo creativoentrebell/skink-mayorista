@@ -107,6 +107,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 
 /* ── CARRUSEL MÁS VENDIDOS ── */
 .bestseller-wrap { margin-bottom: 6px; }
+.section-label.preventa-label { color: var(--badge-preventa); font-size: 13px; border-bottom: 2px solid var(--badge-preventa); padding-top: 4px; }
 .bestseller-carousel { position: relative; display: flex; align-items: center; gap: 8px; }
 .bestseller-track {
   display: flex; gap: 14px; flex: 1;
@@ -162,6 +163,17 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .card-price { font-size: 15px; font-weight: 600; color: var(--taupe-dark); }
 .card-price.pendiente { font-size: 11px; font-weight: 400; color: var(--text-light); font-style: italic; }
 .card-hint { font-size: 10px; color: var(--text-light); opacity: 0.7; }
+.card-add-btn {
+  flex-shrink: 0; display: inline-flex; align-items: center; gap: 5px;
+  border: 1px solid var(--taupe); background: var(--taupe); color: var(--white);
+  font-family: inherit; font-size: 11px; font-weight: 600; letter-spacing: 0.03em;
+  padding: 6px 11px; border-radius: 6px; cursor: pointer; line-height: 1;
+  transition: background .15s, border-color .15s, opacity .15s;
+}
+.card-add-btn:hover { background: var(--taupe-dark); border-color: var(--taupe-dark); }
+.card-add-btn.added { background: #5f8a6b; border-color: #5f8a6b; }
+.card-add-ico { font-size: 12.5px; line-height: 1; }
+.card-footer .card-hint { display: none; }
 
 /* Badges on card */
 .card-top-badges { position: absolute; top: 8px; right: 8px; display: flex; flex-direction: column; gap: 4px; align-items: flex-end; z-index: 1; }
@@ -169,7 +181,7 @@ header { background: var(--white); border-bottom: 1px solid var(--beige-mid); pa
 .badge-agotado { background: #fdecea; color: var(--badge-out); }
 .badge-nuevo { background: #fef6e4; color: var(--badge-new); }
 .badge-vendidos { background: var(--beige); color: var(--badge-best); }
-.badge-preventa { background: #eaf3ec; color: var(--badge-preventa); }
+.badge-preventa { background: #eaf3ec; color: var(--badge-preventa); font-size: 11.5px; padding: 5px 10px; letter-spacing: 0.07em; }
 
 /* Color dots on card (small) */
 .card-color-dots { display: flex; gap: 4px; padding: 6px 13px 0; flex-wrap: wrap; }
@@ -875,7 +887,7 @@ function cardHTML(p, eager) {
     +   '<div class="card-ref">Ref: '+p.referencia+'</div>'
     +   '<div class="card-footer">'
     +     priceHTML
-    +     '<span class="card-hint">Ver más →</span>'
+    +     (p.agotado ? '<span class="card-hint" style="display:inline">Ver más →</span>' : '<button class="card-add-btn" onclick="quickAddToCart(event, '+idx+')"><span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar</button>')
     +   '</div>'
     + '</div></div>';
 }
@@ -1151,6 +1163,43 @@ function scrollBestsellers(dir) {
   track.scrollBy({ left: track.clientWidth * 0.9 * dir, behavior: 'smooth' });
 }
 
+// ── CARRUSEL "PREVENTA" ────────────────────────────────────────
+// Misma mecánica que "Más vendidos": sección independiente, no paginada.
+function renderPreventaCarousel(el) {
+  if (!(activeFilter === 'all' && !searchText)) return;
+  const preventas = filterProducts().filter(p => p.preventa === true);
+  if (!preventas.length) return;
+
+  const wrap = document.createElement('div');
+  wrap.className = 'bestseller-wrap';
+  wrap.innerHTML =
+      '<div class="section-label preventa-label">\u2728 Preventa <span>' + preventas.length + ' productos</span></div>'
+    + '<div class="bestseller-carousel">'
+    +   '<button class="carousel-arrow carousel-arrow-left" onclick="scrollPreventa(-1)" aria-label="Anterior">&#8249;</button>'
+    +   '<div class="bestseller-track" id="preventaTrack"></div>'
+    +   '<button class="carousel-arrow carousel-arrow-right" onclick="scrollPreventa(1)" aria-label="Siguiente">&#8250;</button>'
+    + '</div>';
+  el.appendChild(wrap);
+
+  const track = wrap.querySelector('#preventaTrack');
+  preventas.forEach((p, i) => {
+    const item = document.createElement('div');
+    item.className = 'bestseller-item';
+    const tmp = document.createElement('div');
+    tmp.innerHTML = cardHTML(p, false);
+    item.appendChild(tmp.firstChild);
+    track.appendChild(item);
+  });
+
+  observeNewImages();
+}
+
+function scrollPreventa(dir) {
+  const track = document.getElementById('preventaTrack');
+  if (!track) return;
+  track.scrollBy({ left: track.clientWidth * 0.9 * dir, behavior: 'smooth' });
+}
+
 
 // ── APPEND PAGE ────────────────────────────────────────────────
 // Renderiza hasta PAGE_SIZE tarjetas desde renderOffset.
@@ -1212,6 +1261,7 @@ function render() {
   el.innerHTML = '';
 
   renderBestsellerCarousel(el);
+  renderPreventaCarousel(el);
 
   if (!renderList.length) {
     el.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>No se encontraron productos.</p></div>';
@@ -1304,6 +1354,21 @@ function addCurrentToCart() {
   btn.textContent = 'Agregado ✓';
   btn.classList.add('added');
   setTimeout(() => { btn.textContent = 'Agregar al pedido'; btn.classList.remove('added'); }, 1200);
+}
+
+// Agregar al pedido directamente desde la tarjeta (sin abrir el producto)
+function quickAddToCart(ev, idx) {
+  ev.stopPropagation();
+  const p = allProducts[idx];
+  if (!p || p.agotado) return;
+  const found = cart.find(i => i.ref === p.referencia && i.nota === '');
+  if (found) found.qty = Math.min(999, found.qty + 1);
+  else cart.push({ ref: p.referencia, qty: 1, nota: '' });
+  saveCart(); updateCartUI();
+  const btn = ev.currentTarget;
+  btn.innerHTML = '<span class="card-add-ico">\u2713</span>Agregado';
+  btn.classList.add('added');
+  setTimeout(() => { btn.innerHTML = '<span class="card-add-ico">\uD83D\uDECD\uFE0F</span>Agregar'; btn.classList.remove('added'); }, 1200);
 }
 
 // ── Drawer ──
