@@ -240,7 +240,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/TOCOBO32.jpg",
+    "ficha": "img/fichas/TOCOBO32.png",
     "video": "img/videos/TOCOBO32.mp4",
     "mas_vendido": true,
     "preventa": true
@@ -5450,7 +5450,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/SKIN1004-7.jpg",
+    "ficha": "img/fichas/SKIN1004-7.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -6205,7 +6205,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/DR-ALTHEA4.jpg",
+    "ficha": "img/fichas/DR-ALTHEA4.png",
     "video": "img/videos/DR-ALTHEA4.mp4",
     "mas_vendido": true,
     "preventa": true
