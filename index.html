@@ -1837,6 +1837,8 @@ function renderBestsellerCarousel(el) {
   if (hasFilters() || searchText) return;
   const bestsellers = filterProducts().filter(p => isMasVendido(p));
   if (!bestsellers.length) return;
+  // Disponibles primero, agotados al final del carrusel (sort estable)
+  bestsellers.sort((a, b) => (a.agotado?1:0) - (b.agotado?1:0));
 
   const wrap = document.createElement('div');
   wrap.className = 'bestseller-wrap';
@@ -1874,6 +1876,8 @@ function renderPreventaCarousel(el) {
   if (hasFilters() || searchText) return;
   const preventas = filterProducts().filter(p => p.preventa === true);
   if (!preventas.length) return;
+  // Disponibles primero, agotados al final del carrusel (sort estable)
+  preventas.sort((a, b) => (a.agotado?1:0) - (b.agotado?1:0));
 
   const wrap = document.createElement('div');
   wrap.className = 'bestseller-wrap';
