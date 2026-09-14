@@ -3663,7 +3663,7 @@
     "categoria": "Sérum",
     "descripcion": "Ampolla antienvejecimiento enriquecida con PDRN de salmón, complejo de colágeno de salmón y péptidos mejora la elasticidad de la piel, atenúa las imperfecciones y reduce la pigmentación de melanina. La ampolla es hipoalergénica y segura para usar en pieles sensibles. Ingredientes claves: Ácido acrílico, extracto de curcuma, colágeno hidrolizado, péptidos.",
     "imagen": "img/skink/MEDICUBE18.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3798,7 +3798,7 @@
     "categoria": "Hidratación",
     "descripcion": "Una crema enriquecida con cápsulas de colágeno rosa que mejora el tono desigual de la piel y aumenta la luminosidad para pieles apagadas y flácidas. Las cápsulas mantienen los efectos reafirmantes e hidratantes del PDRN hasta que se absorben en la piel, logrando un brillo máximo. Ingredientes claves: Extracto de colágeno, aceite de moringa, extracto de salmon, ceramida.",
     "imagen": "img/skink/MEDICUBE21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3818,7 +3818,7 @@
     "categoria": "Hidratación",
     "descripcion": "Esta crema facial de Triple Colágeno está enriquecida con elastina premium de Francia, formulada para mejorar la elasticidad y restaurar la juventud de tu piel. Gracias al colágeno y a los extractos naturales, esta hidratante promueve una piel más firme, radiante y libre de signos de envejecimiento. Ingredientes claves: Niacinamida, colágeno,",
     "imagen": "img/skink/MEDICUBE20.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4257,7 +4257,7 @@
     "categoria": "Parches",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE85.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4376,7 +4376,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE94.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -8891,7 +8891,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/DR-ALTHEA27.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -8944,7 +8944,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE104.png",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Universal"
@@ -8962,7 +8962,7 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
