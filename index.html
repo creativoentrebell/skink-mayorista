@@ -1030,6 +1030,24 @@ function setView(v) {
 function normalizeRef(str) {
   return (str || '').toLowerCase().replace(/[\s\-_]+/g, '');
 }
+// Normaliza nombre/marca para buscar: quita acentos, trata guion/guion_bajo
+// como espacio y colapsa espacios repetidos, para que "Hyalu Cica" encuentre
+// "Hyalu-Cica" y "Cica Cooling" encuentre "Cooling Cica".
+function normalizeTexto(str) {
+  return (str || '')
+    .toLowerCase()
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .replace(/[\-_]+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+// Coincide si cada palabra escrita aparece en el nombre+marca del producto,
+// sin importar el orden en que se escribieron.
+function coincideBusqueda(p, texto) {
+  const palabras = normalizeTexto(texto).split(' ').filter(Boolean);
+  const campo = normalizeTexto(p.nombre + ' ' + p.marca);
+  return palabras.every(palabra => campo.includes(palabra));
+}
 
 function onSearch(val) {
   searchText = val.toLowerCase().trim();
@@ -1079,9 +1097,8 @@ function baseFiltered(excluir) {
     if (showPreventa && !p.preventa) return false;
     if (searchText) {
       const searchNorm = normalizeRef(searchText);
-      if (!( p.nombre.toLowerCase().includes(searchText)
-          || normalizeRef(p.referencia).includes(searchNorm)
-          || p.marca.toLowerCase().includes(searchText))) return false;
+      if (!( coincideBusqueda(p, searchText)
+          || normalizeRef(p.referencia).includes(searchNorm))) return false;
     }
     if (excluir !== 'rutina') {
       if (fPaso) {
