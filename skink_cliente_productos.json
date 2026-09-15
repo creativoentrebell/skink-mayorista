@@ -2072,7 +2072,7 @@
     "categoria": "Parches",
     "descripcion": "Parches antiacné ultrafinos que ocultan y curan las imperfecciones, una vez aplicado, el parche protege las heridas de las bacterias mientras absorbe el exceso de sebo. También contiene Ceramida NP y extracto de centella para minimizar la irritación y ayudar a mantener la función de barrera de la piel. Contiene 75 parches. Ingredientes claves:Extracto de hoja de aloe, extracto de centella asiática, ceramida.",
     "imagen": "img/skink/ANUA9.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2506,7 +2506,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Ofrece una protección SPF50+ PA++++ contra los rayos UVA y UVB. Enriquecido con extracto de arroz y probióticos que apoyan la apariencia saludable y radiante de la piel. Textura ligera, rapida absorción, sin efecto borrador ni sensación grasosa. Ingredientes claves: Extracto de arroz,",
     "imagen": "img/skink/BEAUTY7.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Protección Solar"
@@ -2906,7 +2906,7 @@
     "categoria": "Sérum",
     "descripcion": "Es un suero avanzado y altamente concentrado diseñado para refinar los poros y mejorar la textura general de la piel. esta fórmula ayuda a minimizar la apariencia de los poros dilatados, controlar el exceso de sebo y revitalizar la piel cansada y estresada para una tez más suave y clara. Ingredientes claves: Extracto de flor, berenjena, ácido cítrico, calageno, centella asiatica, ceramida.",
     "imagen": "img/skink/MEDICUBE67.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3893,7 +3893,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla nocturna hipoalergénica que esta formulada para mejorar la elasticidad e hidratación de la piel, favoreciendo su regeneración durante el sueño. Enriquecida con colágeno, ofrece una hidratación profunda y fortalece la firmeza cutánea. Ingredientes claves: Extracto de colágeno, extracto de flor de Althaea rosea Ceramida.",
     "imagen": "img/skink/MEDICUBE15.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4797,7 +4797,7 @@
     "categoria": "Sérum",
     "descripcion": "Madagascar Centella tone brightening sunscreen (protector solar con tono iluminador) (Brightening) Línea iluminadora y aclaradora Es un protector solar con color que ayuda a iluminar y tonificar la piel opaca y arrugada que ha perdido su vitalidad y elasticidad. Con una alta protección contra los rayos UVA y UVB, este protector solar revitaliza la piel. Ingredientes claves: Extracto de centella, niacinamida, extracto de flor de alba.",
     "imagen": "img/skink/SKIN1004-37.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4851,7 +4851,7 @@
     "categoria": "Hidratación",
     "descripcion": "(Poremizing) Un tónico especialmente diseñado para pieles grasas y para minimizar la apariencia de poros dilatados debido a la secreción excesiva de sebo. La sal rosada con ricos minerales ayuda a eliminar las células muertas de la piel y los desechos de los poros mientras revitaliza la piel. Ingredientes claves: extracto de centella, extracto de lavanda, ácido glicolico.",
     "imagen": "img/skink/SKIN1004-40.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -6291,7 +6291,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiatica Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves:Niacinamida, pantenol, ácido hiaulónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -6311,7 +6311,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ingredientes claves:Niacinamida, pantenol, ácido hiaulónico, extracto de centella asiática. de alivio 345). Ingredientes claves: Extracto de flor de loto, niacinamida, ácido hialurónico, adenosina.",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6816,7 +6816,7 @@
     "categoria": "Sérum",
     "descripcion": "VT Cosmetics Reedle Shot 100 es una ampolla de cuidado de la piel de última generación con pequeñas microagujas que penetran profundamente en la piel para exfoliar suavemente, minimizar los poros y mejorar la textura de la piel para una tez más suave y saludable. Ingredientes claves: Niacinamida, semilla de macadamia, ácido madecásico, extracto de centella.",
     "imagen": "img/skink/VT-COS1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -7352,7 +7352,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto diseñado para penetrar directamente los poros y mejorar la absorción, proporciona retina profundamente en la piel para atacar las arrugas y los poros dilatados, promoviendo una piel más suave y firme. Ingredientes claves: Vitamina A, péptidos, niacinamida, ácido ascórbico, pantenol.",
     "imagen": "img/skink/CELI-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8338,7 +8338,7 @@
     "categoria": "Hidratación",
     "descripcion": "Madeca Cream Time Reverse Zero Ingredientes claves: ácido esteárico, ceramida, niacinamida, pantenol, ácido madecásico, lavanda, romero, centella asiatica. Hidratante antienvejecimiento para todo tipo de piel, crema facial de grado dermatológico impulsada por tecnología TECA-PDRN para reafirmar y levantar visiblemente la piel. Ayuda a reducir la flacidez y mejorar la elasticidad para un aspecto más suave y juvenil. Ingredientes claves: ceramida, niacinamida, acido hialuronico, lavanda, colageno, aminoacidos.",
     "imagen": "img/skink/CENTELLIAN24-05.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
