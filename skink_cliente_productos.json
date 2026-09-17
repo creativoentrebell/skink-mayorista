@@ -3673,7 +3673,7 @@
     "ficha": "img/fichas/MEDICUBE18.png",
     "video": "img/videos/MEDICUBE18.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE61",
@@ -3808,7 +3808,7 @@
     "ficha": "img/fichas/MEDICUBE21.png",
     "video": "img/videos/MEDICUBE21.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE20",
@@ -3827,7 +3827,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/MEDICUBE20.png",
     "video": "img/videos/MEDICUBE20.mp4"
   },
@@ -4265,7 +4265,7 @@
       "Contorno de Ojos"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/MEDICUBE85.png",
     "video": "img/videos/MEDICUBE85.mp4"
   },
@@ -4382,7 +4382,7 @@
       "Anti-edad"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/MEDICUBE94.png",
     "video": "img/videos/MEDICUBE94.mp4"
   },
@@ -7352,7 +7352,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto diseñado para penetrar directamente los poros y mejorar la absorción, proporciona retina profundamente en la piel para atacar las arrugas y los poros dilatados, promoviendo una piel más suave y firme. Ingredientes claves: Vitamina A, péptidos, niacinamida, ácido ascórbico, pantenol.",
     "imagen": "img/skink/CELI-01.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8900,7 +8900,7 @@
     "ficha": "img/fichas/DR-ALTHEA27.png",
     "video": "img/videos/DR-ALTHEA27.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "JUMI-07",
@@ -8952,7 +8952,7 @@
     "ficha": "img/fichas/MEDICUBE104.png",
     "video": "img/videos/MEDICUBE104.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE100",
@@ -8970,7 +8970,7 @@
     "ficha": "img/fichas/MEDICUBE100.png",
     "video": "img/videos/MEDICUBE100.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE107",
