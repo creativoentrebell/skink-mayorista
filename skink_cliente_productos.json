@@ -335,7 +335,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -354,7 +354,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO34.jpg",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -667,7 +667,7 @@
       "Manchas e Hiperpigmentación",
       "Protección Solar"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -699,7 +699,7 @@
     "tipos_piel": [
       "Universal"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -763,7 +763,7 @@
     "tipos_piel": [
       "Protección Solar"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": true
   },
   {
@@ -1022,7 +1022,7 @@
       "Brillo y Luminosidad"
     ],
     "ficha": "img/fichas/MIXSOON13.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -1056,7 +1056,7 @@
       "Brillo y Luminosidad"
     ],
     "ficha": "img/fichas/MIXSOON12.jpg",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -1749,7 +1749,7 @@
       "Manchas e Hiperpigmentación"
     ],
     "ficha": "img/fichas/ANUA16.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -2974,7 +2974,7 @@
       "Piel Sensible y Calmante"
     ],
     "video": "img/videos/MEDICUBE9.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": true
   },
   {
@@ -3450,7 +3450,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE10.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -3468,7 +3468,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -3672,7 +3672,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE18.png",
     "video": "img/videos/MEDICUBE18.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": true
   },
   {
@@ -3807,7 +3807,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE21.png",
     "video": "img/videos/MEDICUBE21.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": true
   },
   {
@@ -3973,7 +3973,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE16.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -4028,7 +4028,7 @@
       "Piel Grasa y Poros"
     ],
     "ficha": "img/fichas/MEDICUBE26.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -4048,7 +4048,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/MEDICUBE27.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -5207,7 +5207,7 @@
       "Piel Sensible y Calmante"
     ],
     "video": "img/videos/SKIN1004-49.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": true
   },
   {
@@ -5504,7 +5504,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -5538,7 +5538,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -6065,7 +6065,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA15.jpg",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": true
   },
   {
@@ -6320,7 +6320,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA21.jpg",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": true
   },
   {
@@ -6382,7 +6382,7 @@
       "Piel Sensible y Calmante"
     ],
     "video": "img/videos/DR-ALTHEA22.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -7361,7 +7361,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": true,
     "ficha": "img/fichas/CELI-01.png",
     "video": "img/videos/CELI-01.mp4"
@@ -8813,7 +8813,7 @@
       "Hidratación Profunda",
       "Anti-edad"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -8830,7 +8830,7 @@
       "Contorno de Ojos",
       "Anti-edad"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -8846,7 +8846,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
