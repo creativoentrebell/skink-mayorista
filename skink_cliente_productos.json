@@ -7352,7 +7352,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto diseñado para penetrar directamente los poros y mejorar la absorción, proporciona retina profundamente en la piel para atacar las arrugas y los poros dilatados, promoviendo una piel más suave y firme. Ingredientes claves: Vitamina A, péptidos, niacinamida, ácido ascórbico, pantenol.",
     "imagen": "img/skink/CELI-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
