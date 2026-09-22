@@ -7362,7 +7362,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/CELI-01.png",
     "video": "img/videos/CELI-01.mp4"
   },
