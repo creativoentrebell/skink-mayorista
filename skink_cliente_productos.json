@@ -60,7 +60,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Contorno de ojos en gel para aumentar la vitalidad y la elasticidad gracias a u a formulación con un 81 % de agua de flor de lavanda. Cuenta con un sistema de red dual de colageno y 1000 ppm de D-pantenol para formar una barrera rica en humedad, la cual garantiza la mejor absorción de los demás ingredientes. ingredientes que suavizan, hidratan y mejoran la textura de la piel, Cica Calming Aqua Toner proporciona una sensación refrescante sin dejar sensación pesada.",
     "imagen": "img/skink/TOCOBO12.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2633,7 +2633,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Ground Rice and Honey Glow Mask (Mascarilla iluminadora de arroz y miel) Bio-collagen real deep mask (mascarilla profunda bio-colágeno) Mascarilla enriquecida con algas marinas revitalizantes. Este tratamiento intensivo purifica e hidrata profundamente, restaurando el brillo y la elasticidad de la piel. Ideal para un cutis fresco y rejuvenecido. Ingredientes claves: extracto de cólageno, algas marinas, péptidos, niacinamida, fermento de levadura.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2653,7 +2653,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Refreshing Sea Kelp Real Deep Mask (Mascarilla refrescante algas marinas) Poderosa combinación de extracto de caviar y PDRN revitaliza la piel y fortalece la barrera cutánea. Rico en proteínas y nutrientes esenciales, el caviar ayuda a fortalecer la barrera cutánea, dejando la piel más rellena y radiante. Ingredientes claves: Niacinamida, caviar, extracto de PDRN, extracto de jojoba, extracto de cúrcuma.",
     "imagen": "img/skink/BIODANCE5.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3461,7 +3461,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla de gel será tu aliado ideal para disminuir visiblemente la apariencia de manchas oscuras e hiperpigmentación, incluyendo las que se encuentran en las capas más profundas de la piel. Ingredientes claves: Niacinamida, curcuma, retinol, ceramida, colágeno.",
     "imagen": "img/skink/MEDICUBE33.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3571,7 +3571,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Esta crema para ojos está formulada con niacinamida, péptidos, retinol y PDRN de salmón que ayudan a reducir la apariencia de las áreas oscurecidas y mejoran las áreas opacas de los ojos con una hidratación intensiva. Ingredientes claves: Niacinamida, retinol, extracto de café, ácido hialurónico, péptidos.",
     "imagen": "img/skink/MEDICUBE22.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3964,7 +3964,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Enriquecido con ADN de salmón PDRN y colágeno de bajo peso molecular para una tez jugosa y brillante. PDRN aumenta la hidratación y apoya la producción de colágeno. El colágeno hidrolizado penetra profundamente para hacer que tu piel se vea suave. Ingredientes claves: Pantenol, colágeno, aminoacidos de trigo, ácido hialurónico. Ingredientes claves: Niacinamida, péptidos, colageno, ADN de salmón.",
     "imagen": "img/skink/MEDICUBE16.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8962,7 +8962,7 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -9004,6 +9004,110 @@
       "Piel Sensible y Calmante",
       "Acné"
     ],
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "MEDICUBE112",
+    "referencia": "MEDICUBE112",
+    "nombre": "AGE-R Booster Pro X2 Pink",
+    "marca": "MEDICUBE",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE112.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE112.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "DR-ALTHEA29",
+    "referencia": "DR-ALTHEA29",
+    "nombre": "345 Cream Mask 1 unidad",
+    "marca": "DR-ALTHEA",
+    "categoria": "Mascarillas",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA29.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Piel Sensible y Calmante",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA29.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "MEDICUBE114",
+    "referencia": "MEDICUBE114",
+    "nombre": "PDRN Pink Tension Up Mask",
+    "marca": "MEDICUBE",
+    "categoria": "Mascarillas",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE114.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/MEDICUBE114.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "DR-ALTHEA30",
+    "referencia": "DR-ALTHEA30",
+    "nombre": "Jelly Seal Dewy Mask 1 unidad",
+    "marca": "DR-ALTHEA",
+    "categoria": "Mascarillas",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA30.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Brillo y Luminosidad"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA30.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "MEDICUBE115",
+    "referencia": "MEDICUBE115",
+    "nombre": "Collagen Glow Sunscreen SPF50",
+    "marca": "MEDICUBE",
+    "categoria": "Protección Solar",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE115.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Protección Solar",
+      "Brillo y Luminosidad"
+    ],
+    "ficha": "img/fichas/MEDICUBE115.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "MEDICUBE116",
+    "referencia": "MEDICUBE116",
+    "nombre": "3H Drying Lotion 20ml",
+    "marca": "MEDICUBE",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE116.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné"
+    ],
+    "ficha": "img/fichas/MEDICUBE116.png",
     "mas_vendido": false,
     "preventa": false
   }
