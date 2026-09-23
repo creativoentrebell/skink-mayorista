@@ -273,7 +273,7 @@
     "categoria": "Protección Solar",
     "descripcion": "El Tocobo Cica Cooling Sun Stick ofrece protección solar mineral SPF50+ PA++++ en un formato en barra de rápida aplicación. Combina óxido de zinc y dióxido de titanio micronizados para brindar cobertura de amplio espectro, mientras un complejo de centella asiática y mentol natural proporciona efecto refrescante inmediato. Ingredientes claves: Extracto de té verde, niacinamida, extracto de centella, ácido hialurónico. CICA COOLING SUN STICK MINI (Barra solar refrescante mini)",
     "imagen": "img/skink/TOCOBO38.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -346,7 +346,7 @@
     "categoria": "Protección Solar",
     "descripcion": "está formulado con multivitaminas y Niancinamida. Nutre, protege, e ilumina. Vita Tone Up Sun es un Protector solar extra ligero que protege de los rayos UV y se absorbe suavemente en el momento de su aplicación. Puede usarse como pre-base para corregir el tono y la textura de la piel. Ingredientes claves: Ácido esteárico, niacinamida, extracto de fruto, vitamina B12 y B3. vita tone up sun cream spf50++++ (crema solar vita tone up spf50+)",
     "imagen": "img/skink/TOCOBO34.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -2375,7 +2375,7 @@
     "categoria": "Sérum",
     "descripcion": "Este serum ligero es ideal para calmar la piel irritada y restaurar su barrera cutánea. Su fórmula suave y enriquecida con ingredientes de la medicina tradicional coreana \"hanbang\" se enfoca en reducir el enrojecimiento y la sensibilidad de la piel. Ingredientes claves: Camelia, artemisa, ginseng, pantenol, extracto té verde.",
     "imagen": "img/skink/BEAUTY10.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -2945,7 +2945,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ingredientes claves: Niacinamida, pantenol, aceite de fruto, semilla de jojoba, colágeno, peptidos, ácido hialuronico. Es una crema hidratante que repone la piel con humedad esencial utilizando tecnología avanzada de ácido hialurónico. Diseñado para ofrecer una hidratación profunda, esta crema presenta cápsulas de humedad encapsuladas que se liberan tras la aplicación, asegurando un acabado fresco y húmedo. Ingredientes claves: pantenol, Niacinamida, acido hialurónico, centella, ceramidas.",
     "imagen": "img/skink/MEDICUBE52.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2965,7 +2965,7 @@
     "categoria": "Hidratación",
     "descripcion": "CAPSULE CREAM (Crema capsulas) (Piel seca) Tratamiento profundamente hidratante que exfolia suavemente y afina los poros con el poder del ácido glicólico. Enriquecida con extracto de flor de camelia calmante, actúa para regular la producción de sebo.",
     "imagen": "img/skink/MEDICUBE9.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3702,7 +3702,7 @@
     "categoria": "Sérum",
     "descripcion": "(Suero iluminador) Ingredientes claves: Niacinamida, glutation, ceramida, ácido hialuronico. Suero de burbujas de colágeno rosa PDRN, una fórmula liviana de microburbujas que estalla instantáneamente después de la aplicación. Infundido con PDRN 99% de pureza, niacinamida 5% y colágeno de alta pureza, este suero brinda hidratación profunda, luminosidad y beneficios reafirmantes de la piel. Ingredientes claves:Niacinamida, extracto girasol, colageno, aceite de recino, pantenol.",
     "imagen": "img/skink/MEDICUBE63.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5386,7 +5386,7 @@
     "categoria": "Tónico",
     "descripcion": "Disponible en 3 tamaños: Ref: SKIN1004-5 Ref: SKIN1004-16 Ref: SKIN1004-21 (Centella) Línea calmante y reparadora Este protector solar físico con SPF 30 y PA++++ ofrece una excelente superior contra los rayos solares dañinos, gracias a su fórmula mineral . Su textura ultraligera y con mínima tonalidad blanca lo hacen perfecto para uso diario, sin la pesadez de otros protectores solares. Ingredientes claves: Extracto de centella, niacinamida, ácido asiático.",
     "imagen": "img/skink/SKIN1004-35.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -5531,7 +5531,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Primera limpieza Ingredientes claves: Extracto de centella, semilla de girasol, aceite de (Centella) Línea calmante y reparadora contorno de ojos formulado con centella fermentada vegana, que no solo calma la piel y fortalece la barrera cutánea, sino que también ofrece una solución completa para los signos tempranos de envejecimiento alrededor de los ojos y la. Ingredientes claves: Extracto de centella asiatica, extracto de macadamia, pantenol.",
     "imagen": "img/skink/SKIN1004-31.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Contorno de Ojos",
@@ -6057,7 +6057,7 @@
     "categoria": "Bruma",
     "descripcion": "Formulada con ácido hialurónico, esta bruma ultrafina hidrata profundamente la piel seca al instante, ayudándola a mantener una hidratación duradera y confort durante todo el día. Con una exclusiva fórmula 2 en 1 de crema y esencia de agua, proporciona una nutrición rica y una hidratación refrescante para una piel perfectamente equilibrada. Ingredientes claves: Agua de arroz, jugo de manzana, pantenol, ácido hialurónico, centela asiatica. 345 Relief Cream Mist (345 Crema bruma alivio)",
     "imagen": "img/skink/DR-ALTHEA15.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -6197,7 +6197,7 @@
     "categoria": "Hidratación",
     "descripcion": "La Crema 147 Barrier es un tratamiento avanzado de cuidado de la piel diseñado para fortalecer la barrera cutánea, proporcionar nutrición y garantizar una hidratación profunda. Su formulación está enriquecida con ingredientes que refuerza la función protectora de la piel. Ingredientes claves:Niacinamida, ceramidas, centella asiatica, aceite de macadamia, ácido hialuronico. 147 Barrier Cream (Crema protectora 147)",
     "imagen": "img/skink/DR-ALTHEA4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -8532,7 +8532,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "",
     "imagen": "img/skink/PURI-05.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Contorno de Ojos",
@@ -8661,7 +8661,7 @@
     "categoria": "Maquillaje",
     "descripcion": "",
     "imagen": "img/skink/TIRTIR10.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
