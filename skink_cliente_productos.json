@@ -7851,7 +7851,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Un limpiador todo en uno para pieles sensibles que proporciona tres efectos en una sola aplicación: puede ser un limpiador diario, un exfoliante facial y un desmaquillador. Ingredientes claves: Carbón vegetal, almendra dulce, caolín, aceite de limón, ácido de coco.",
     "imagen": "img/skink/AREN-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -7920,7 +7920,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador con extracto de rosa mosqueta (rico en vitamina C), aloe rosa calmante y manzanilla azul, con propiedades antioxidantes y calmante. Pensado para piel seca o madura que busca brillo, nutrición y reparación del tono. Ingredientes claves: Extracto de rosa mosqueta, aloe rosa, manzanilla, polvo de arroz, glicerina.",
     "imagen": "img/skink/AREN-05.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -7955,7 +7955,7 @@
     "categoria": "Sérum",
     "descripcion": "",
     "imagen": "img/skink/AREN-07.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
