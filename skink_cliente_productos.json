@@ -2590,7 +2590,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla facial de hidratación profunda formulada con ingredientes no tóxicos y no irritantes. Está libre de alérgenos y otros 19 ingredientes agresivos y controvertidos. Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol)",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2610,7 +2610,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol) Mascarilla de hidrogel para hidratación profunda con ácido hialurónico, colágeno y probióticos para lograr penetrar todas las capas de la piel y así conseguir un efecto porcelana en el rostro. ingredientes de mezcla multivitamínica ayuda a mejorar el tono, la textura y la luminosidad de la piel.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2632,7 +2632,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2651,7 +2651,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Ground Rice and Honey Glow Mask (Mascarilla iluminadora de arroz y miel) Bio-collagen real deep mask (mascarilla profunda bio-colágeno) Mascarilla enriquecida con algas marinas revitalizantes. Este tratamiento intensivo purifica e hidrata profundamente, restaurando el brillo y la elasticidad de la piel. Ideal para un cutis fresco y rejuvenecido. Ingredientes claves: extracto de cólageno, algas marinas, péptidos, niacinamida, fermento de levadura.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3274,7 +3274,7 @@
     "categoria": "Bruma",
     "descripcion": "RESURFACING TONER (Tónico renovador de cúrcuma) es un serum en bruma tipo jelly formulado para iluminar, unificar el tono y ayudar a reducir manchas, mientras hidrata y protege la piel del estrés oxidativo. Su formato permite uso diario y reaplicación durante el día, incluso sobre maquillaje. Ingredientes claves: ácido ascórbico, ácido ascórbico, pantenol, aceite de oliva, extracto de curcuma, cafeina.",
     "imagen": "img/skink/MEDICUBE62.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -4011,7 +4011,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Enriquecido con ADN de salmón PDRN y colágeno de bajo peso molecular para una tez jugosa y brillante. PDRN aumenta la hidratación y apoya la producción de colágeno. El colágeno hidrolizado penetra profundamente para hacer que tu piel se vea suave. Ingredientes claves: Pantenol, colágeno, aminoacidos de trigo, ácido hialurónico. Ingredientes claves: Niacinamida, péptidos, colageno, ADN de salmón.",
     "imagen": "img/skink/MEDICUBE16.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5495,7 +5495,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Madagascar centella soothing cream (crema calmante de centella) (Centella) Línea calmante y reparadora Este kit incluye todos los productos de la más famosa línea de SKIN1004 (madagascar centella) El set incluye: Centella Light Cleansing Oil 30ml Centella Ampoule Foam 20ml Centella Toning Toner 30ml Centella Ampoule 30ml Centella Soothing Cream 30ml. Ingredientes claves: Extracto de centella, niacinamida, extracto de romero, extracto de manzanilla.",
     "imagen": "img/skink/SKIN1004-7.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -8102,7 +8102,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Ingredientes claves: Aceites florales, Vitamina C, PDRN de salmón, complejo de joyas.",
     "imagen": "img/skink/ELROEL-03.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
@@ -8118,7 +8118,7 @@
     "categoria": "Maquillaje",
     "descripcion": "",
     "imagen": "img/skink/ELROEL-04.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -9034,7 +9034,7 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
