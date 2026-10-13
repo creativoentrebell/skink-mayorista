@@ -24,14 +24,14 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "",
     "imagen": "img/skink/TOCOBO3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
     "ficha": "img/fichas/TOCOBO3.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO8",
@@ -222,7 +222,7 @@
     "ficha": "img/fichas/TOCOBO31.png",
     "video": "img/videos/TOCOBO31.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO32",
@@ -243,7 +243,7 @@
     "ficha": "img/fichas/TOCOBO32.png",
     "video": "img/videos/TOCOBO32.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO39",
@@ -261,7 +261,7 @@
       "Protección Solar"
     ],
     "mas_vendido": true,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/TOCOBO39.png",
     "video": "img/videos/TOCOBO39.mp4"
   },
@@ -273,7 +273,7 @@
     "categoria": "Protección Solar",
     "descripcion": "El Tocobo Cica Cooling Sun Stick ofrece protección solar mineral SPF50+ PA++++ en un formato en barra de rápida aplicación. Combina óxido de zinc y dióxido de titanio micronizados para brindar cobertura de amplio espectro, mientras un complejo de centella asiática y mentol natural proporciona efecto refrescante inmediato. Ingredientes claves: Extracto de té verde, niacinamida, extracto de centella, ácido hialurónico. CICA COOLING SUN STICK MINI (Barra solar refrescante mini)",
     "imagen": "img/skink/TOCOBO38.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -283,7 +283,7 @@
     ],
     "ficha": "img/fichas/TOCOBO38.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO40",
@@ -293,7 +293,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Protección solar de textura ligera, resistente al agua, a la humedad, al sudor y al sebo durante mucho tiempo y con una potente protección UV. Tiene una maravillosa textura ligera que no resulta pegajosa ni pesada, pero que ofrece una potente protección frente a los rayos UV. Ingredientes claves: zinc, ácido madecásico, asiaticósido, ácido asiático, centella asiatica. VITA WATERPROOF SUN STICK MINI (Vita barra solar)",
     "imagen": "img/skink/TOCOBO40.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -302,7 +302,7 @@
     ],
     "ficha": "img/fichas/TOCOBO40.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO56",
@@ -330,7 +330,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Ultra ligero y cómodo, este protector solar con textura refrescante de suero hidrata tu piel y la protege de los rayos UVA y UVB con FPS50+ PA++++. Es indetectable sobre la piel y se absorbe fácilmente, así que no debes preocuparte por residuos blancos o grasosos. Ingredientes claves: Niacinamida, extracto de algodón, extracto de flor y corteza.",
     "imagen": "img/skink/TOCOBO33.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -338,7 +338,7 @@
     ],
     "ficha": "img/fichas/TOCOBO33.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO34",
@@ -385,7 +385,7 @@
     "categoria": "Protección Solar",
     "descripcion": "(Loción solar diaria VITA SOFT) es el aliado perfecto para proteger y cuidar tu piel sensible y propensa al acné. Este antisolar en formato de sérum ha sido especialmente desarrollado para ofrecer una defensa efectiva contra los rayos UV, mientras calma y cuida tu piel. este sérum solar es la elección ideal para las pieles más delicadas. Ingredientes claves: Niacinamida, ácido hialurónico, extracto de centella, extracto de aloe, ácido madecásico.",
     "imagen": "img/skink/TOCOBO36.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -396,7 +396,7 @@
     ],
     "ficha": "img/fichas/TOCOBO36.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO37",
@@ -439,7 +439,7 @@
     "ficha": "img/fichas/TOCOBO48.png",
     "video": "img/videos/TOCOBO48.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO49",
@@ -597,7 +597,7 @@
     "categoria": "Protección Solar",
     "descripcion": "",
     "imagen": "img/skink/TOCOBO35.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Sensible y Calmante",
@@ -605,7 +605,7 @@
     ],
     "ficha": "img/fichas/TOCOBO35.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO46",
@@ -674,7 +674,7 @@
     ],
     "ficha": "img/fichas/TOCOBO55.png",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO61",
@@ -771,7 +771,7 @@
     ],
     "ficha": "img/fichas/TOCOBO67.png",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MIXSOON1",
@@ -1550,7 +1550,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Rica en niacinamida y melocotón, esta espuma limpiadora purifica los poros e ilumina la piel. Contiene glucósido de glicerilo y ceramida para una limpieza sin sensación de tirantez. Su formulación ligeramente ácida ofrece una limpieza suave pero profunda y es adecuada para pieles grasas y propensas al acné. Ingredientes claves: Niacinamida, extracto de fruta, melocotón, ceramida, Centella asiatica.",
     "imagen": "img/skink/ANUA31.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1561,7 +1561,7 @@
     ],
     "ficha": "img/fichas/ANUA31.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA7",
@@ -1571,7 +1571,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Ingredientes claves: Niacinamida, extracto de fruta, melocotón, ceramida, Centella asiatica. CLEANSING FOAM (Espuma limpiadora) Limpiador o aceite que ataca de forma no agresiva las pieles grasas y propensas a acné y ayuda a prevenir los puntos negros. Es un limpiador en aceite suave y efectivo adecuado para todo tipo de pieles. Ingredientes claves: Semilla de macadamia, aceite de jojoba, aceite de oliva, aceite de uva.",
     "imagen": "img/skink/ANUA7.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1583,7 +1583,7 @@
     ],
     "ficha": "img/fichas/ANUA7.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA18",
@@ -1593,7 +1593,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Un aceite limpiador exfoliante que ayuda a combatir los signos del envejecimiento, mientras mejora la textura de la piel, haciendo que se vea radiante y tersa. Su fórmula contiene 7% de Ácido Glicólico y Pimienta de Tasmania de origen vegetal, que aportan nutrición profunda a la piel. Ingredientes claves:Extracto de romero, aceite de girasol, extracto hoja de corazón. Heartleaf pore control cleansing oil mild (aceite limpiador control suave)",
     "imagen": "img/skink/ANUA18.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1602,7 +1602,7 @@
     ],
     "ficha": "img/fichas/ANUA18.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA3",
@@ -1612,7 +1612,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves:Extracto de romero, aceite de girasol, extracto hoja de corazón. Heartleaf pore control cleansing oil mild (aceite limpiador control suave) Limpiador en espuma ideal para quienes buscan una limpieza profunda y eficaz sin irritaciones. Esta espuma exfolia suavemente las células muertas y elimina las impurezas de los poros, dejando la piel fresca y renovada. Ingredientes claves: Ácido hialurónico,",
     "imagen": "img/skink/ANUA3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1622,7 +1622,7 @@
     ],
     "ficha": "img/fichas/ANUA3.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA19",
@@ -1632,7 +1632,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Heartleaf quercetinol pore cleansing foam (espuma limpiadora hoja de corazón) de crueldad animal Un limpiador facial suave en gel, formulado con 8 tipos de ácido hialurónico y pantenol para hidratar instantáneamente la piel y reponer la barrera cutánea, mientras limpia profundamente los poros sin dañar la piel. Ingredientes claves: Ácido hialurónico, pantenol, proteina vegetal.",
     "imagen": "img/skink/ANUA19.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1642,7 +1642,7 @@
     ],
     "ficha": "img/fichas/ANUA19.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA4",
@@ -1652,7 +1652,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "moisturizing gentle gel cleanser (Limpiador en gel) Ingredientes claves: Ácido hialurónico, pantenol, proteina vegetal. Limpiador facial diario suave pero eficaz para eliminar la suciedad sin maltratar la piel, hidrata la piel durante largas horas incluso después de la limpieza, mientras que ayuda a proteger la barrera cutánea. Ingredientes claves: Pantenol, ácido salicílico, ceramida, extracto hoja de corazón.",
     "imagen": "img/skink/ANUA4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -1661,7 +1661,7 @@
     ],
     "ficha": "img/fichas/ANUA4.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA5",
@@ -1732,7 +1732,7 @@
     "categoria": "Sérum",
     "descripcion": "PDRN Hyaluronic Acid Capsule hialurónico) Suero que contiene PDRN, ácido hialurónico y colágeno para mejorar instantáneamente la hidratación y proporcionar un efecto rellenador. Los ingredientes de PDRN, derivados del ADN del salmón, ayudan a mantener una piel saludable y luminosa.",
     "imagen": "img/skink/ANUA15.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -1740,7 +1740,7 @@
     ],
     "ficha": "img/fichas/ANUA15.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA16",
@@ -1750,7 +1750,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum formulado con un 10% de Niacinamida, 4% de Ácido Tranexámico y 2% de Arbutina, ideal para quienes desean aclarar todo tipo de manchas y unificar el tono de la piel, logrando una piel hidratada y luminosa. La Niacinamida al 10% ayuda a fortalecer la barrera de la piel y mejorar su textura.",
     "imagen": "img/skink/ANUA16.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -1758,7 +1758,7 @@
     ],
     "ficha": "img/fichas/ANUA16.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA2",
@@ -1768,7 +1768,7 @@
     "categoria": "Sérum",
     "descripcion": "(Mixtas, pieles maduras) Niacinamide 10% + TXA 4% serum (serum de niacinamida de crueldad animal Suero calmante de enrojecimiento para pieles sensibles, ácido hialurónico, niacinamida, cuidado de las manchas, color natural, vegano, cuidado de la piel. Ingredientes claves: proteína de arroz hidrolizada, ceramida, ácido láctico. Este sérum subácido, formulado con un 70% de agua de abedul blanco japonés, equilibra el pH de la piel y previene la pérdida de hidratación. Su textura ligera penetra rápidamente, proporcionando una base ideal para una piel fresca y equilibrada.",
     "imagen": "img/skink/ANUA2.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -1777,7 +1777,7 @@
     ],
     "ficha": "img/fichas/ANUA2.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA26",
@@ -1924,7 +1924,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Todo tipo de piel Ingredientes claves: Extracto de corbata, pantenol, extracto de flor, ácido hialurónico. Mascarilla de arcilla que contiene bentonita y caolín destapa los poros y exfolia suavemente la piel para un acabado suave. La adición de extractos de hoja de corazón y de cica a la fórmula ofrece efectos antiinflamatorios. Ingredientes claves: Pantenol, ácido hialurónico, ceramida, calamina.",
     "imagen": "img/skink/ANUA17.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1934,7 +1934,7 @@
     ],
     "ficha": "img/fichas/ANUA17.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA1",
@@ -1965,7 +1965,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Una mascarilla hidratante en lámina con infusión de PDRN y 11 tipos de ácidos hialurónicos para revitalizar la piel acondicionándola, aumentando la luminosidad y reponiendo la humedad esencial. Ingredientes claves: Colágeno hidrolizado, ácido hialurónico, pantenol, curcuma, ácido cítrico. Mascarillas Una mascarilla en hoja hidratante que ayuda a calmar la piel sensible y protegerla de irritaciones externas. Contiene una hoja de microfibra natural producida con extractos de plantas que se adhiere suavemente al rostro.",
     "imagen": "img/skink/ANUA20.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -1975,7 +1975,7 @@
     ],
     "ficha": "img/fichas/ANUA20.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA21",
@@ -1985,7 +1985,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Ideal piel seca) SERUM MASK (Mascarilla de PDRN) Ingredientes claves: Colágeno hidrolizado, ácido hialurónico, pantenol, curcuma, ácido cítrico. Mascarillas Una mascarilla en hoja hidratante que ayuda a calmar la piel sensible y protegerla de irritaciones externas. Contiene una hoja de microfibra natural producida con extractos de plantas que se adhiere suavemente al rostro. Ingredientes claves: Extracto de cordata, extracto de fruta, centella asiatica, extracto de flores.",
     "imagen": "img/skink/ANUA21.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1995,7 +1995,7 @@
     ],
     "ficha": "img/fichas/ANUA21.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA22",
@@ -2041,7 +2041,7 @@
     "categoria": "Mascarillas",
     "descripcion": "La Mascarilla Calmante de Colágeno Anua Heartleaf 70 está formulada para calmar y aliviar la piel irritada, a la vez que refuerza la barrera de hidratación cutánea. Es una mascarilla hidratante enriquecida con 2000 ppm de extracto de colágeno. Ingredientes claves: agua de flor, hoja y tallo de Houttuynia Cordata y extracto de hoja de Aloe, acido hialuronico.",
     "imagen": "img/skink/ANUA29.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2051,7 +2051,7 @@
     ],
     "ficha": "img/fichas/ANUA29.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA30",
@@ -2117,14 +2117,14 @@
     "categoria": "Bruma",
     "descripcion": "",
     "imagen": "img/skink/ANUA35.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/ANUA35.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA36",
@@ -2224,7 +2224,7 @@
     "categoria": "Parches",
     "descripcion": "Collagen Gel Mask Jericho Rose Jelly (Mascarilla colageno) Ingredientes claves: Extracto de Rosa de Jericó, jalea de Sedum, aceite de macadamia. son parches ultrafinos y transparentes diseñados para tratar imperfecciones específicas como espinillas, granitos y áreas irritadas. Inspirados en los beneficios calmantes de la centella asiática, ayudan a acelerar el proceso de curación mientras reducen la inflamación y el enrojecimiento. Ingredientes claves: Centella asiatica, hoja de corazón, ácido asiatico, hoja de té.",
     "imagen": "img/skink/ABIB4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2233,7 +2233,7 @@
     ],
     "ficha": "img/fichas/ABIB4.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ABIB5",
@@ -2277,7 +2277,7 @@
     "categoria": "Parches",
     "descripcion": "",
     "imagen": "img/skink/ABIB7.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2287,7 +2287,7 @@
     ],
     "ficha": "img/fichas/ABIB7.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BEAUTY6",
@@ -2297,7 +2297,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Efectivo limpiador disuelve suavemente la suciedad, los residuos y los restos de maquillaje que se acumulan en la piel. Tiene leves propiedades antiedad para darle firmeza a la piel y a prevenir la aparición prematura de líneas de expresión. ingredientes de la máxima calidad.",
     "imagen": "img/skink/BEAUTY6.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2306,7 +2306,7 @@
     ],
     "ficha": "img/fichas/BEAUTY6.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BEAUTY14",
@@ -2316,14 +2316,14 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "(Mixta +15) Beauty of Joseon es una marca de belleza de gama alta especializada en el cuidado natural de la piel. Su misión es ofrecer productos naturales, eficaces e innovadores con ingredientes de la máxima calidad. Ginseng Cleansing Oil (Aceite limpiador de ginseng) Contiene extracto de frijol mungo que crea un efecto sinérgico, ayuda a eliminar las células muertas de la piel y el sebo, es un limpiador hipoalergénico de tipo gel ligero, ligeramente ácido que no reseca la piel fácilmente y ayuda a retener la humedad. Ingredientes claves: Agua de fruta, extracto de corbata, extracto de arroz, ácido cítrico.",
     "imagen": "img/skink/BEAUTY14.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
     "ficha": "img/fichas/BEAUTY14.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BEAUTY3",
@@ -2352,7 +2352,7 @@
     "categoria": "Sérum",
     "descripcion": "Green Plum Refreshing Cleanser Limpiador refrescante) Tónico ligero y nutritivo, rico en antioxidantes, diseñado para revitalizar e hidratar la piel. Su fórmula contiene extractos de arroz y ceramidas, que apoyan la barrera natural de la piel. Ingredientes claves: Extracto de cetella, pantenol, aminoácidos de arroz. BEAUTY OF JOSEON Serum especialmente diseñado para reparar e iluminar el cutis. Enriquecido con ingredientes herbales tradicionales coreanos como el ginseng, la raíz de regaliz y el hongo matsutake, promueve la circulación de la sangre y ayuda a rellenar lineas finas de expresión.",
     "imagen": "img/skink/BEAUTY5.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2362,7 +2362,7 @@
     ],
     "ficha": "img/fichas/BEAUTY5.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BEAUTY13",
@@ -2504,14 +2504,14 @@
     "categoria": "Hidratación",
     "descripcion": "(Mixta +15) Dynasty Cream (crema hidratante dynasty) 100ml Dynasty Cream (crema hidratante dynasty) 50ml",
     "imagen": "img/skink/BEAUTY4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/BEAUTY4.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BEAUTY7",
@@ -2590,7 +2590,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla facial de hidratación profunda formulada con ingredientes no tóxicos y no irritantes. Está libre de alérgenos y otros 19 ingredientes agresivos y controvertidos. Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol)",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2600,7 +2600,7 @@
     ],
     "ficha": "img/fichas/BIODANCE1.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BIODANCE2",
@@ -2610,7 +2610,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol) Mascarilla de hidrogel para hidratación profunda con ácido hialurónico, colágeno y probióticos para lograr penetrar todas las capas de la piel y así conseguir un efecto porcelana en el rostro. ingredientes de mezcla multivitamínica ayuda a mejorar el tono, la textura y la luminosidad de la piel.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2622,7 +2622,7 @@
     "ficha": "img/fichas/BIODANCE2.png",
     "video": "img/videos/BIODANCE2.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BIODANCE3",
@@ -2632,7 +2632,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2641,7 +2641,7 @@
     ],
     "ficha": "img/fichas/BIODANCE3.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BIODANCE4",
@@ -2651,7 +2651,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Ground Rice and Honey Glow Mask (Mascarilla iluminadora de arroz y miel) Bio-collagen real deep mask (mascarilla profunda bio-colágeno) Mascarilla enriquecida con algas marinas revitalizantes. Este tratamiento intensivo purifica e hidrata profundamente, restaurando el brillo y la elasticidad de la piel. Ideal para un cutis fresco y rejuvenecido. Ingredientes claves: extracto de cólageno, algas marinas, péptidos, niacinamida, fermento de levadura.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2661,7 +2661,7 @@
     ],
     "ficha": "img/fichas/BIODANCE4.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "BIODANCE5",
@@ -2691,7 +2691,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Aceite Limpiador Profundo Todo en Uno: Disuelve el sebo, los puntos negros y el maquillaje en un solo paso. Ingredientes especializados actúan sobre el sebo y ayudan a eliminar las impurezas endurecidas dentro de los poros. Ingredientes claves: Aceite de soja, aceite de jojoba, ácido salicílico, extracto de fruta, extracto de macadamia.",
     "imagen": "img/skink/MEDICUBE45.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2699,7 +2699,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE45.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE34",
@@ -2720,7 +2720,7 @@
     "ficha": "img/fichas/MEDICUBE34.png",
     "video": "img/videos/MEDICUBE34.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE2",
@@ -2730,7 +2730,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador facial especialmente diseñado para pieles sensibles y delicadas. Su fórmula de espuma y enriquecida con ingredientes hidratantes asegura una limpieza profunda sin comprometer la barrera protectora de la piel. Ingredientes claves: Extracto de hoja de Aspalathus linearis, extracto de acerola, ácido láurico, . Piel grasa (sensible)",
     "imagen": "img/skink/MEDICUBE2.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -2740,7 +2740,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE2.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE57",
@@ -2750,7 +2750,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves: Extracto de hoja de Aspalathus linearis, extracto de acerola, ácido láurico, . Piel grasa (sensible) Zero foam cleanser (limpiador en espuma) Esta espuma limpiadora de limpieza profunda combina ácido azelaico puro al la apariencia de los poros, suavizar la textura y equilibrar la hidratación.La glicerina promueve una tez equilibrada y más refinada. Ingredientes claves: Áglicerina, ácido mirístico, ácido esteárico, extracto de romero, extracto de frutas, cacao.",
     "imagen": "img/skink/MEDICUBE57.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -2759,7 +2759,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE57.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE58",
@@ -2769,7 +2769,7 @@
     "categoria": "Tónico",
     "descripcion": "Un tónico compuesto por Ácido Hialurónico y AHA, BHA, PHA que ofrece una hidratación profunda con exfoliación y cuidado de los poros. Fórmula 2 en 1 para controlar el exceso de grasa y cuidar los poros. Ingredientes claves:Niacinamida, ácido citrico, aceite de romero, pantenol, berenjena.",
     "imagen": "img/skink/MEDICUBE58.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2779,7 +2779,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE58.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE64",
@@ -2789,7 +2789,7 @@
     "categoria": "Tónico",
     "descripcion": "Ingredientes claves:Niacinamida, ácido citrico, aceite de romero, pantenol, berenjena. (Tonico zero poros) Tónico transparente con ácido azelaico y niacinamida, efecto calmante, El tónico también contiene ácido hialurónico y extracto de aloe vera para dejar tu piel fresca e hidratada. Úsalo como primer paso de tu rutina de cuidado facial para eliminar la inflamación y las imperfecciones. Ingredientes claves: Niacinamida, curcuma, centella asiatica, ceramida, extracto de manzana, ácido asiático.",
     "imagen": "img/skink/MEDICUBE64.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -2799,7 +2799,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE64.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE73",
@@ -2828,7 +2828,7 @@
     "categoria": "Sérum",
     "descripcion": "SERUM (Serum calmante de ácido azelaico) Ingredientes claves: Ácido azelaico, niacinamida, ácido pantoténico, curcuma, ácido cítrico. Sérum Suero para calmar y disminuir visiblemente la apariencia de los poros. Este suero esta formulado con BHA, AHA y extractos herbales que ayudan a mejorar la apariencia de la piel, dejándola con una textura suave y libre de brotes de acné. Ingredientes claves: Niacinamida, ácido cítrico, acido salicílico, ácido glicólico, ácido hialurónico, centella.",
     "imagen": "img/skink/MEDICUBE1.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2839,7 +2839,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE1.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE46",
@@ -2951,7 +2951,7 @@
     "categoria": "Sérum",
     "descripcion": "SHOT 7500 (inyeccion exosomas azelaico) Ingredientes claves: Extracto de flor, berenjena, ácido cítrico, calageno, centella asiatica, ceramida. Sérum Piel grasa Ingredientes claves: Extracto de flor, berenjena, ácido cítrico, calageno, centella asiatica, ceramida (mayor cantidad de agujas). es una fórmula revolucionaria diseñada para transformar tu piel. Este sérum premium combina ácido hialurónico de alta pureza al 99 % con potentes péptidos para brindar una hidratación intensa y beneficios antiedad. Ingredientes claves: Niacinamida, pantenol, aceite de fruto, semilla de jojoba, colágeno, peptidos, ácido hialuronico.",
     "imagen": "img/skink/MEDICUBE49.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2961,7 +2961,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE49.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE52",
@@ -2971,7 +2971,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ingredientes claves: Niacinamida, pantenol, aceite de fruto, semilla de jojoba, colágeno, peptidos, ácido hialuronico. Es una crema hidratante que repone la piel con humedad esencial utilizando tecnología avanzada de ácido hialurónico. Diseñado para ofrecer una hidratación profunda, esta crema presenta cápsulas de humedad encapsuladas que se liberan tras la aplicación, asegurando un acabado fresco y húmedo. Ingredientes claves: pantenol, Niacinamida, acido hialurónico, centella, ceramidas.",
     "imagen": "img/skink/MEDICUBE52.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2982,7 +2982,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE52.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE9",
@@ -2992,7 +2992,7 @@
     "categoria": "Hidratación",
     "descripcion": "CAPSULE CREAM (Crema capsulas) (Piel seca) Tratamiento profundamente hidratante que exfolia suavemente y afina los poros con el poder del ácido glicólico. Enriquecida con extracto de flor de camelia calmante, actúa para regular la producción de sebo.",
     "imagen": "img/skink/MEDICUBE9.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3003,7 +3003,7 @@
     "ficha": "img/fichas/MEDICUBE9.png",
     "video": "img/videos/MEDICUBE9.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE44",
@@ -3013,7 +3013,7 @@
     "categoria": "Hidratación",
     "descripcion": "0 (crema cero poros) hidratante refinadora diseñada para minimizar visiblemente la apariencia de los poros, mejorar la elasticidad de la piel y controlar el exceso de sebo, reduce el tamaño de los poros hasta en un 52.6% desde la primera aplicación.",
     "imagen": "img/skink/MEDICUBE44.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3023,7 +3023,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE44.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE55",
@@ -3033,7 +3033,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Con un factor de protección FPS 50+ PA++++, esta fórmula avanzada defiende la piel de los rayos UVA y UVB sin dejar residuos blancos ni sensación grasosa. Enriquecido con un 99% de PDRN, revitaliza la piel desde el interior, mejorando su firmeza, elasticidad y luminosidad natural. Ingredientes claves: Niacinamida, ácido hialuronico, Ácido esteárico, extracto de colágeno.",
     "imagen": "img/skink/MEDICUBE55.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3043,7 +3043,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE55.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE54",
@@ -3053,7 +3053,7 @@
     "categoria": "Protección Solar",
     "descripcion": "El Zero Pore Moisture Sun Serum de Medicube combina lo mejor de un protector solar y un sérum hidratante en una fórmula ultraligera y no pegajosa. Proporciona hidratación intensa y calma inmediata, mientras regula el exceso de sebo y protege eficazmente contra los rayos UV. Ingredientes claves: Niacinamida, extracto hoja de Melia, pantenol, extracto de berenjena, semilla de jojoba, curcuma.",
     "imagen": "img/skink/MEDICUBE54.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3064,7 +3064,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE54.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE30",
@@ -3093,7 +3093,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ofrece un enfoque innovador para el cuidado de los poros, combinando efectos refrescantes y tensores en una potente fórmula. Esta avanzada mascarilla de barro está específicamente diseñada para combatir los puntos negros y el exceso de sebo de forma eficaz y suave. Ingredientes claves: Ácido glicólico, ácido salicílico, arcilla, extracto de caolín.",
     "imagen": "img/skink/MEDICUBE36.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3102,7 +3102,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE36.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE4",
@@ -3234,7 +3234,7 @@
     "categoria": "Tónico",
     "descripcion": "(contorno ojos péptidos) Es un tónico facial formulado con glutatión y otros ingredientes iluminadores diseñados para revitalizar, uniformar y proteger la piel desde el primer paso de tu rutina. Este producto ayuda a combatir la opacidad, mejorar el tono desigual y preparar la piel para recibir los siguientes pasos con mayor eficacia. Ingredientes claves: Niacinamida, alantoína, perejil, glutation, lavanda, manzanilla, curcuma, peptidos, ácido tióctico.",
     "imagen": "img/skink/MEDICUBE69.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3245,7 +3245,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE69.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE72",
@@ -3255,7 +3255,7 @@
     "categoria": "Tónico",
     "descripcion": "TONER (Tonico iluminador) Ingredientes claves: Niacinamida, alantoína, perejil, glutation, lavanda, manzanilla, curcuma, peptidos, ácido tióctico. Este tónico está enriquecido con ácido kójico, cúrcuma y ácido glicólico, que deja la piel suave, tonificada y luminosa. El ácido kójico difumina las imperfecciones, la cúrcuma alivia la irritación y el ácido glicólico exfolia para refinar la piel. Clínicamente probado mejora en 2 semanas para una apariencia más clara y radiante. Ingredientes claves: Niacinamida, Ácido Kójico, aceite de recino, pantenol, Ácido Cítrico, acido glicolico.",
     "imagen": "img/skink/MEDICUBE72.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3264,7 +3264,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE72.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE62",
@@ -3385,7 +3385,7 @@
     "categoria": "Sérum",
     "descripcion": "Un sérum de lujo formulado con una alta concentración de glutathione que ilumina tu piel durante 24 horas. Ayuda a reducir manchas, líneas de expresión y signos de la edad para un rostro más firme y brillante. Ingredientes claves: Fermento de bífida, pantenol, ceramida, ácido hialurónico. DEEP VITA C CAPSULE SERUM (Serum en capsula Vita C)",
     "imagen": "img/skink/MEDICUBE19.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3395,7 +3395,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE19.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE75",
@@ -3423,7 +3423,7 @@
     "categoria": "Hidratación",
     "descripcion": "es una crema facial de tratamiento diseñada para mejorar el tono desigual, reducir la apariencia de manchas oscuras y revitalizar la piel apagada, con una combinación de ácido kójico, extracto de cúrcuma y antioxidantes estabilizados. Ingredientes claves: Cúrcuma, ácido kojico, raiz japonica, aceite de recino, extracto de fresa, ácido ascórbico, ceramida)",
     "imagen": "img/skink/MEDICUBE77.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3431,7 +3431,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE77.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE65",
@@ -3477,7 +3477,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con cápsulas de vitamina C, brinda un brillo importante al mismo tiempo que reafirma, hidrata y refina la piel. La fórmula suave pero potente está dermatológicamente probada para ser adecuada para pieles sensibles. Ideal para pieles apagadas, con tez desigual o con manchas pigmentarias, aporta una luminosidad natural. Ingredientes claves: Niacinamida, aceite de soja, Vitamina C.",
     "imagen": "img/skink/MEDICUBE10.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3487,7 +3487,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE10.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE33",
@@ -3506,7 +3506,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE33.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE39",
@@ -3534,7 +3534,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Gel limpiador con fórmula que limpia profundamente, apoya la regeneración y repara la barrera de la piel, mientras hidrata intensamente, mejora textura y tono, promueve regeneración celular. Ingredientes claves: Extracto de fruta, ácido hialurónico, PDRN de salmón, niacinamida, pantenol.",
     "imagen": "img/skink/MEDICUBE35.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3543,7 +3543,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE35.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE68",
@@ -3553,7 +3553,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Es un limpiador en espuma que combina las propiedades regeneradoras del PDRN con los beneficios unificadores de tono de la niacinamida. Su textura única, permite usarlo como limpiador diario o como una mascarilla purificante. Ingredientes claves: Extracto de fruta, ácido hialurónico, PDRN de salmón, niacinamida, pantenol.",
     "imagen": "img/skink/MEDICUBE68.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3562,7 +3562,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE68.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE79",
@@ -3572,7 +3572,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves: Extracto de fruta, ácido hialurónico, PDRN de salmón, niacinamida, pantenol. Sérum Ingredientes claves: Pantenol, ácido hialurónico, ceramidas, colágeno, vitamina B12, ácido desoxirribonucleico) (Limpiador PDRN) espuma limpiadora facial iluminadora y reafirmante diseñada para eliminar impurezas, poros obstruidos y células muertas mientras hidrata. Su formato en cápsulas dobles, ofrece una piel radiante, elástica y un tono uniforme sin sensación de tirantez. Ingredientes claves: Niacinamida, PDRN de salmón, ácido hialuronico, ceramidas, glutathione.",
     "imagen": "img/skink/MEDICUBE79.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3582,7 +3582,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE79.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE17",
@@ -3621,7 +3621,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE22.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE59",
@@ -3631,7 +3631,7 @@
     "categoria": "Tónico",
     "descripcion": "Un tónico lechoso enriquecido con PDRN que ayuda a que la piel hidratada y húmeda adquiera un brillo rosado. Hace que brille la piel y se enfoca en el tono desigual, el péptido ayuda a mejorar la elasticidad de la piel, logra una piel suave con una tez saludable, mejora el brillo y la firmeza de la piel. Ingredientes claves: Niacinamida, extracto de arroz, pantenol, centella asiatica, extracto de fruta, ceramida.",
     "imagen": "img/skink/MEDICUBE59.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3642,7 +3642,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE59.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE108",
@@ -3670,7 +3670,7 @@
     "categoria": "Bruma",
     "descripcion": "Esta innovadora bruma facial 3 en 1 integra la avanzada tecnología coreana para el cuidado de la piel con una selección de potentes ingredientes destinados a mejorar el aspecto general de la piel. Infundido con glutatión para iluminar la piel y tonificarla. Ingredientes claves: ADN de salmon, niacinamida, acido hialuronico, centella asiatica, adenosina, agua de rosa.",
     "imagen": "img/skink/MEDICUBE71.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3679,7 +3679,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE71.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE11",
@@ -3706,7 +3706,7 @@
     "categoria": "Sérum",
     "descripcion": "Ampolla antienvejecimiento enriquecida con PDRN de salmón, complejo de colágeno de salmón y péptidos mejora la elasticidad de la piel, atenúa las imperfecciones y reduce la pigmentación de melanina. La ampolla es hipoalergénica y segura para usar en pieles sensibles. Ingredientes claves: Ácido acrílico, extracto de curcuma, colágeno hidrolizado, péptidos.",
     "imagen": "img/skink/MEDICUBE18.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3716,7 +3716,7 @@
     "ficha": "img/fichas/MEDICUBE18.png",
     "video": "img/videos/MEDICUBE18.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE61",
@@ -3726,7 +3726,7 @@
     "categoria": "Bruma",
     "descripcion": "PDRN Pink peptide serum (serum de PDRN y péptidos) una fórmula única de gelatina que combina el poder de un suero con la comodidad de una niebla. Hidratación rápida, brillo duradero: enriquecida con 99% de pureza de salmón PDRN y colágeno, esta fórmula de doble textura ofrece una hidratación rápida y un brillo húmedo duradero. Ingredientes claves: Niacinamida, glutation, ceramida, ácido hialuronico. Suero de burbujas de colágeno rosa PDRN, una fórmula liviana de microburbujas que estalla instantáneamente después de la aplicación. Infundido con PDRN 99% de pureza, niacinamida 5% y colágeno de alta pureza, este suero brinda hidratación profunda, luminosidad y beneficios reafirmantes de la piel.",
     "imagen": "img/skink/MEDICUBE61.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3736,7 +3736,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE61.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE63",
@@ -3842,7 +3842,7 @@
     "categoria": "Hidratación",
     "descripcion": "Una crema enriquecida con cápsulas de colágeno rosa que mejora el tono desigual de la piel y aumenta la luminosidad para pieles apagadas y flácidas. Las cápsulas mantienen los efectos reafirmantes e hidratantes del PDRN hasta que se absorben en la piel, logrando un brillo máximo. Ingredientes claves: Extracto de colágeno, aceite de moringa, extracto de salmon, ceramida.",
     "imagen": "img/skink/MEDICUBE21.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3852,7 +3852,7 @@
     "ficha": "img/fichas/MEDICUBE21.png",
     "video": "img/videos/MEDICUBE21.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE20",
@@ -3883,7 +3883,7 @@
     "categoria": "Hidratación",
     "descripcion": "Triple Collagen Cream (Crema triple colágeno) Ingredientes claves: Niacinamida, colágeno, Hidratación ácido hialurónico, manteca de kárite. Esta crema está formulada con niacinamida y salmón PDRN que ayudan a borrar la imperfección y reponer la humedad después de dos semanas, previene la aparición de imperfecciones futuras. Ingredientes claves: Ceramida, niacinamida, ácido cítrico, péptido, ácido hialurónico.",
     "imagen": "img/skink/MEDICUBE25.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3892,7 +3892,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE25.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE48",
@@ -3920,7 +3920,7 @@
     "categoria": "Sérum",
     "descripcion": "Gel potenciador está formulado con PDRN de salmón que proporciona un efecto calmante y reafirmante. El gel hidratante cuida la piel y hace que la piel exterior brille.",
     "imagen": "img/skink/MEDICUBE8.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3929,7 +3929,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE8.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE15",
@@ -3975,14 +3975,14 @@
     "categoria": "Mascarillas",
     "descripcion": "Es una mascarilla nocturna de skincare coreano diseñada para transformar tu piel mientras duermes. Su innovadora textura perlada rosa crea una película ligera que envuelve el rostro, sellando la hidratación y potenciando la reparación cutánea durante toda la noche. Ingredientes claves: Aceite de flor de rosa, ácido ascórbico, cafeina, ácido hialuronico, peptidos.",
     "imagen": "img/skink/MEDICUBE37.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
     ],
     "ficha": "img/fichas/MEDICUBE37.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE14",
@@ -4011,7 +4011,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Enriquecido con ADN de salmón PDRN y colágeno de bajo peso molecular para una tez jugosa y brillante. PDRN aumenta la hidratación y apoya la producción de colágeno. El colágeno hidrolizado penetra profundamente para hacer que tu piel se vea suave. Ingredientes claves: Pantenol, colágeno, aminoacidos de trigo, ácido hialurónico. Ingredientes claves: Niacinamida, péptidos, colageno, ADN de salmón.",
     "imagen": "img/skink/MEDICUBE16.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4021,7 +4021,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE16.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE81",
@@ -4066,7 +4066,7 @@
     "categoria": "Sérum",
     "descripcion": "Hypochlorous Acid Rice Peel Shot (Serum en shot ácido hipocloroso y arroz) Ingredientes claves: Salvado de arroz, cafeina, ácido hipocloroso, ceramida, ácido hialurónico. Formulado con ácido tranexámico, niacinamida y arbutina, este sérum aclara el tono desigual de la piel y las manchas oscuras, a la vez que refina su textura. Su fórmula ligera y no pegajosa se absorbe rápidamente para un acabado limpio y. Ingredientes claves: Niacinamida, tranexamico, extracto de flor, pantenol, ácido hialurónico, péptido.",
     "imagen": "img/skink/MEDICUBE26.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4076,7 +4076,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE26.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE27",
@@ -4086,7 +4086,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con ácido tranexámico, niacinamida, alpha-arbutina y glutatión. Unifica el tono, hidrata y mejora la textura desde el primer uso. No comedogénica y apta para piel sensible o con tendencia acneica. Ingredientes claves: Niacinamida, ácido tranexámico, pantenol, extracto de fresa, ceramida.",
     "imagen": "img/skink/MEDICUBE27.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4096,7 +4096,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE27.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE70",
@@ -4106,7 +4106,7 @@
     "categoria": "Sérum",
     "descripcion": "SERUM (Suero refuerzo de retinol) Es un suero facial antiedad diseñado para mejorar la firmeza y elasticidad de la piel, reducir líneas de expresión y unificar el tono. Combina retinol encapsulado y NMN de alta pureza para minimizar la irritación y potenciar los resultados. Ingredientes claves: Retinol, retinal, ceramidas, patenol, niacinamida, acido hialuronico, peptidos, vitamina C.",
     "imagen": "img/skink/MEDICUBE70.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4115,7 +4115,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE70.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE80",
@@ -4125,7 +4125,7 @@
     "categoria": "Sérum",
     "descripcion": "(Cantidad tolerable) Enriquecido con un 99 % de PDRN y un rosa en gel se funde en la piel para una reparación profunda: piel firme y elástica sin sensación pegajosa. Clínicamente probado para resultados visibles. Ingredientes claves: Extracto de PDRN, colágeno, Niacinamida, acido hialurónico, ceramidas.",
     "imagen": "img/skink/MEDICUBE80.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4135,7 +4135,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE80.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE28",
@@ -4257,7 +4257,7 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4265,7 +4265,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE3.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE83",
@@ -4307,7 +4307,7 @@
     "categoria": "Parches",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE85.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4315,7 +4315,7 @@
       "Contorno de Ojos"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/MEDICUBE85.png",
     "video": "img/videos/MEDICUBE85.mp4"
   },
@@ -4344,7 +4344,7 @@
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE89.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4352,7 +4352,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE89.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE90",
@@ -4394,14 +4394,14 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE92.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/MEDICUBE92.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE93",
@@ -4488,7 +4488,7 @@
     "ficha": "img/fichas/MEDICUBE97.png",
     "video": "img/videos/MEDICUBE97.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE98",
@@ -4514,7 +4514,7 @@
     "categoria": "Sérum",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE99.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4522,7 +4522,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE99.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE106",
@@ -4549,7 +4549,7 @@
     "categoria": "Parches",
     "descripcion": "Azul : cuidado de los poros y control del sebo Naranja : iluminador Verde : voluminizador Rojo : elasticidad Púrpura : potencia el cuidado de la Los colores de LED para cada modo están preestablecidos y los cambios de color de LED solo se pueden realizar a través de la aplicación AGE-R. Beauty device- age booster pro ex yellow (dispositivo) REF: MEDICUBE74 Parches hidrocoloides para espinillas en forma de estrella, vienen en cinco colores.",
     "imagen": "img/skink/OOTD1.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4559,7 +4559,7 @@
     ],
     "ficha": "img/fichas/OOTD1.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-2",
@@ -5959,7 +5959,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Un aceite limpiador vegano proporciona una limpieza suave y profunda del maquillaje, las impurezas de la piel y los contaminantes externos como el polvo fino. La textura ligera proporciona una limpieza sin dejar sensación grasosa ni pegajosa. Ingredientes claves: Semilla de cartamo, agua de romero, aceite de naranja, extracto de curcuma, semilla de jojoba ceramida. Gentle Pore Cleansing Oil (Aceite limpiador suave de poros)",
     "imagen": "img/skink/DR-ALTHEA8.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5968,7 +5968,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA8.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA9",
@@ -6072,7 +6072,7 @@
     "categoria": "Bruma",
     "descripcion": "Ingredientes claves: Niacinamida, aceite de aguacate, lavanda, ácido hialurónico. To Be Yothfull Eye Serum (Contorno de ojos) Una bruma ligera y multiusos que mantiene la piel hidratada durante todo el día con un acabado refrescante. Contiene un complejo de triple ácido hialurónico para una hidratación profunda y una textura de piel más suave, garantizando una aplicación de maquillaje impecable sin que se cuartee. Ingredientes claves: Acido hialuronico, agua de mar, ADN de sodio, extracto de malaquita.",
     "imagen": "img/skink/DR-ALTHEA14.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Contorno de Ojos",
@@ -6082,7 +6082,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA14.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA20",
@@ -6150,7 +6150,7 @@
     "categoria": "Sérum",
     "descripcion": "Ingredientes claves: Pantenol, aceite de soja, jugo de alba, retinol, extracto de flor, lavanda. 15% Niacinamide Purity Serum (Serum de niacinamida) uso diario diseñado para aliviar la irritación, hidratar profundamente y fortalecer la barrera cutánea en un solo paso. Es ideal para pieles sensibles y con tendencia al acné, proporciona hidratación duradera y una sensación de confort. Ingredientes claves: Niacinamida, pantenol, Arbol de té, ácido hialuronico,",
     "imagen": "img/skink/DR-ALTHEA25.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -6161,7 +6161,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA25.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA2",
@@ -6252,7 +6252,7 @@
     "categoria": "Hidratación",
     "descripcion": "La Crema 147 Barrier es un tratamiento avanzado de cuidado de la piel diseñado para fortalecer la barrera cutánea, proporcionar nutrición y garantizar una hidratación profunda. Su formulación está enriquecida con ingredientes que refuerza la función protectora de la piel. Ingredientes claves:Niacinamida, ceramidas, centella asiatica, aceite de macadamia, ácido hialuronico. 147 Barrier Cream (Crema protectora 147)",
     "imagen": "img/skink/DR-ALTHEA4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -6263,7 +6263,7 @@
     "ficha": "img/fichas/DR-ALTHEA4.png",
     "video": "img/videos/DR-ALTHEA4.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA26",
@@ -6292,14 +6292,14 @@
     "categoria": "Hidratación",
     "descripcion": "Es una crema gel hidratante coreana con una fórmula rica en extractos marinos, complejo avanzado de ácido hialurónico y agua de bambú. Su textura ligera tipo “water-cream” aporta hidratación profunda, calma la piel y fortalece la barrera sin dejar sensación grasosa. Ingredientes claves:Acido hialurónico, pantenol, agua de bambusa, extracto de fruta. Aqua Marine Watery Cream (Crema acuosa)",
     "imagen": "img/skink/DR-ALTHEA17.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda"
     ],
     "ficha": "img/fichas/DR-ALTHEA17.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA18",
@@ -6356,7 +6356,7 @@
     "ficha": "img/fichas/DR-ALTHEA1.png",
     "video": "img/videos/DR-ALTHEA1.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA21",
@@ -6366,7 +6366,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ingredientes claves:Niacinamida, pantenol, ácido hiaulónico, extracto de centella asiática. de alivio 345). Ingredientes claves: Extracto de flor de loto, niacinamida, ácido hialurónico, adenosina.",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6376,7 +6376,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA21.jpg",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA11",
@@ -6468,14 +6468,14 @@
     "categoria": "Bruma",
     "descripcion": "Serum en spray desarrollado para ofrecer un tratamiento multifuncional en un solo paso, funcionando como tónico, sérum y fijador de maquillaje. Su aplicación es rápida y versátil, lo que lo convierte en un must-have para cualquier rutina de belleza, especialmente para aquellas mujeres que buscan un piel radiante, saludable y protegida en todo momento. Ingredientes claves: Niacinamida, extracto de avena, semilla de girasol, extracto de soja. Marca vegana italiana en auge en el mercado coreano del cuidado de la piel. Todos sus productos utilizan trufa blanca, recolectada cada diez años en Piamonte, Italia. Alcanzó recientemente un hito importante como la marca independiente de cuidado de la piel con mayor generación de ingresos en Corea.",
     "imagen": "img/skink/D-ALBA3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación"
     ],
     "ficha": "img/fichas/D-ALBA3.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "D-ALBA4",
@@ -6541,14 +6541,14 @@
     "categoria": "Bruma",
     "descripcion": "",
     "imagen": "img/skink/D-ALBA1.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
     ],
     "ficha": "img/fichas/D-ALBA1.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "D-ALBA10",
@@ -7409,7 +7409,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto diseñado para penetrar directamente los poros y mejorar la absorción, proporciona retina profundamente en la piel para atacar las arrugas y los poros dilatados, promoviendo una piel más suave y firme. Ingredientes claves: Vitamina A, péptidos, niacinamida, ácido ascórbico, pantenol.",
     "imagen": "img/skink/CELI-01.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7419,7 +7419,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/CELI-01.png",
     "video": "img/videos/CELI-01.mp4"
   },
@@ -7572,7 +7572,7 @@
     ],
     "ficha": "img/fichas/CELI-09.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "CELI-10",
@@ -7717,7 +7717,7 @@
     "categoria": "Capilar",
     "descripcion": "Collagen Coating Hair Muscle Shampoo Tratamiento para el cabello seco, con ingredientes que son excelentes para las puntas abiertas. Logra transformar un cabello dañado y partido, en uno suave y sedoso. Ayuda a reconstruir el cabello para que se vea suave, brillante y sin frizz. Ingredientes claves: Colágeno, queratina, proteina de trigo, extracto de arroz.",
     "imagen": "img/skink/ELI-08.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7727,7 +7727,7 @@
     ],
     "ficha": "img/fichas/ELI-08.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ELI-09",
@@ -7756,7 +7756,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto capilar (Tratamiento) Producto capilar (Shampoo) Elizavecca la esencia capilar formulada con colágeno, queratina y proteínas de origen vegetal especialmente recomendada para nutrir y suavizar el cabello seco, débil y/o dañado. Con su uso continuado, ayudarás a prevenir el daño, dejando tu pelito más, terso, brillante y lleno de vitalidad. No necesita enjuague. Ingredientes claves: Colágeno, proteina de maiz, extracto de apío.",
     "imagen": "img/skink/ELI-10.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7766,7 +7766,7 @@
     ],
     "ficha": "img/fichas/ELI-10.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ELI-11",
@@ -7814,7 +7814,7 @@
     "categoria": "Labial",
     "descripcion": "SEOUL 1988 Cream : Snail Mucin 93% + Rice (Crema caracol + arroz) Ingredientes claves: Filtrado de arroz, filtrado de baba de caracol, pantenol. (Piel seca) Esta crema para ojos enriquecida con un 4% de liposoma de retina y extracto de fermento de soja/Lactobacillus proporciona efectos antienvejecimiento e iluminadores, ayuda a mejorar la textura de la piel y a reducir la aparición de arrugas con una irritación mínima. Ingredientes claves: vitamina C, E, péptidos, niacinamida, semilla macadamia, extracto de soja. sérum cuidadosamente formulado para brindar cuidado intensivo a la piel. Enriquecido con un 2% de retinal encapsulado en liposomas y extracto de ginseng negro, este sérum ayuda a mejorar la apariencia de la piel, dejándola con un aspecto más suave y revitalizado.",
     "imagen": "img/skink/KSEC-02.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7825,7 +7825,7 @@
     ],
     "ficha": "img/fichas/KSEC-02.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "KSEC-03",
@@ -7835,7 +7835,7 @@
     "categoria": "Labial",
     "descripcion": "SEOUL 1988 Eye Cream : Retinal Liposome 4% + Fermented Bean (Contorno) Ingredientes claves: vitamina C, E, péptidos, niacinamida, semilla macadamia, extracto de soja. sérum cuidadosamente formulado para brindar cuidado intensivo a la piel. Enriquecido con un 2% de retinal encapsulado en liposomas y extracto de ginseng negro, este sérum ayuda a mejorar la apariencia de la piel, dejándola con un aspecto más suave y revitalizado. Ingredientes claves: Niacinamida, retinal, ginseng negro, centella asiatica.",
     "imagen": "img/skink/KSEC-03.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7845,7 +7845,7 @@
     ],
     "ficha": "img/fichas/KSEC-03.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "KSEC-04",
@@ -7914,7 +7914,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Un limpiador todo en uno para pieles sensibles que proporciona tres efectos en una sola aplicación: puede ser un limpiador diario, un exfoliante facial y un desmaquillador. Ingredientes claves: Carbón vegetal, almendra dulce, caolín, aceite de limón, ácido de coco.",
     "imagen": "img/skink/AREN-01.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -7922,7 +7922,7 @@
     ],
     "ficha": "img/fichas/AREN-01.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "AREN-02",
@@ -7932,7 +7932,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves: Carbón vegetal, almendra dulce, caolín, aceite de limón, ácido de coco. Limpiador con extracto de caléndula, polvo de arroz y bentonita. Textura densa y elástica, formulado para piel seca o apagada, ilumina y calma mientras limpia profundamente. Ingredientes claves: Extracto de caléndula, polvo de arroz, bentonita, glicerina, surfactantes suaves sin sulfatos.",
     "imagen": "img/skink/AREN-02.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -7940,7 +7940,7 @@
     ],
     "ficha": "img/fichas/AREN-02.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "AREN-03",
@@ -8404,7 +8404,7 @@
     "categoria": "Hidratación",
     "descripcion": "Madeca Cream Time Reverse Zero Ingredientes claves: ácido esteárico, ceramida, niacinamida, pantenol, ácido madecásico, lavanda, romero, centella asiatica. Hidratante antienvejecimiento para todo tipo de piel, crema facial de grado dermatológico impulsada por tecnología TECA-PDRN para reafirmar y levantar visiblemente la piel. Ayuda a reducir la flacidez y mejorar la elasticidad para un aspecto más suave y juvenil. Ingredientes claves: ceramida, niacinamida, acido hialuronico, lavanda, colageno, aminoacidos.",
     "imagen": "img/skink/CENTELLIAN24-05.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8415,7 +8415,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-05.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "CENTELLIAN24-06",
@@ -8425,7 +8425,7 @@
     "categoria": "Hidratación",
     "descripcion": "Madeca Mela Capture Ampoule Capsule Cream (Crema en capsulas Madeca) (No piel sensible) Desarrollada a partir de la exitosa crema Madeca Cream Time Reverse, esta crema edición Zero se centra en la hidratación y elasticidad de la piel. La textura en crema ligera proporciona un acabado hidratado y refrescante. Ingredientes claves: ácido esteárico, ceramida, niacinamida, pantenol, ácido madecásico, lavanda, romero, centella asiatica.",
     "imagen": "img/skink/CENTELLIAN24-06.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8436,7 +8436,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-06.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "CENTELLIAN24-07",
@@ -8501,7 +8501,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "",
     "imagen": "img/skink/CENTELLIAN24-09.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8509,7 +8509,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-09.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "CENTELLIAN24-10",
@@ -8519,14 +8519,14 @@
     "categoria": "Mascarillas",
     "descripcion": "",
     "imagen": "img/skink/CENTELLIAN24-10.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
     ],
     "ficha": "img/fichas/CENTELLIAN24-10.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "JUMI-04",
@@ -8827,7 +8827,7 @@
     "categoria": "Exfoliante",
     "descripcion": "",
     "imagen": "img/skink/DR-MELAXIN03.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -8835,7 +8835,7 @@
     ],
     "ficha": "img/fichas/DR-MELAXIN03.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-MELAXIN04",
@@ -8845,7 +8845,7 @@
     "categoria": "Exfoliante",
     "descripcion": "",
     "imagen": "img/skink/DR-MELAXIN04.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -8853,7 +8853,7 @@
     ],
     "ficha": "img/fichas/DR-MELAXIN04.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "LILYEVE-01",
@@ -8963,7 +8963,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/DR-ALTHEA27.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -8972,7 +8972,7 @@
     "ficha": "img/fichas/DR-ALTHEA27.png",
     "video": "img/videos/DR-ALTHEA27.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "JUMI-07",
@@ -8989,7 +8989,7 @@
     ],
     "ficha": "img/fichas/JUMI-07.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "IM.FROM-01",
@@ -9034,7 +9034,7 @@
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -9042,7 +9042,7 @@
     "ficha": "img/fichas/MEDICUBE100.png",
     "video": "img/videos/MEDICUBE100.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE107",
@@ -9092,7 +9092,7 @@
     "tipos_piel": [],
     "ficha": "img/fichas/MEDICUBE112.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA29",
@@ -9180,6 +9180,147 @@
       "Acné"
     ],
     "ficha": "img/fichas/MEDICUBE87.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "CENTELLIAN24-11",
+    "referencia": "CENTELLIAN24-11",
+    "nombre": "Madeca Cream Time Reverse S7 1ml (Muestra)",
+    "marca": "CENTELLIAN24",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "img/skink/CENTELLIAN24-11.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad",
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/CENTELLIAN24-11.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "CENTELLIAN24-12",
+    "referencia": "CENTELLIAN24-12",
+    "nombre": "360° Shot PDRN Active Serum V2 1ml (Muestra)",
+    "marca": "CENTELLIAN24",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad",
+      "Brillo y Luminosidad"
+    ],
+    "ficha": "img/fichas/CENTELLIAN24-12.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA28",
+    "referencia": "DR-ALTHEA28",
+    "nombre": "345 Relief Serum 15ml",
+    "marca": "DR-ALTHEA",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA28.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné",
+      "Manchas e Hiperpigmentación",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA28.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-MELAXIN01",
+    "referencia": "DR-MELAXIN01",
+    "nombre": "Peel Shot Exfoliating Kojic Acid Turmeric Spray 200ml",
+    "marca": "DR. MELAXIN",
+    "categoria": "Exfoliante",
+    "descripcion": "",
+    "imagen": "img/skink/DR-MELAXIN01.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Manchas e Hiperpigmentación",
+      "Brillo y Luminosidad"
+    ],
+    "ficha": "img/fichas/DR-MELAXIN01.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE111",
+    "referencia": "MEDICUBE111",
+    "nombre": "AGE-R Booster Pro Mini Plus Pink",
+    "marca": "MEDICUBE",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE111.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE111.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE113",
+    "referencia": "MEDICUBE113",
+    "nombre": "AGE-R Booster Pro X2 White",
+    "marca": "MEDICUBE",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE113.webp",
+    "agotado": true,
+    "nuevo": true,
+    "tipos_piel": [],
+    "ficha": "img/fichas/MEDICUBE113.png",
+    "mas_vendido": false,
+    "preventa": false
+  },
+  {
+    "id": "MEDICUBE105",
+    "referencia": "MEDICUBE105",
+    "nombre": "PDRN Pink Collagen Jelly Eye Mask (6 sobres)",
+    "marca": "MEDICUBE",
+    "categoria": "Parches",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE105.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad",
+      "Contorno de Ojos",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/MEDICUBE105.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE109",
+    "referencia": "MEDICUBE109",
+    "nombre": "PDRN Glow Essentials Kit Mini Skincare Travel Set",
+    "marca": "MEDICUBE",
+    "categoria": "Sets y Kits",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE109.jpg",
+    "agotado": true,
+    "nuevo": true,
+    "tipos_piel": [
+      "Brillo y Luminosidad",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/MEDICUBE109.png",
     "mas_vendido": false,
     "preventa": false
   }
