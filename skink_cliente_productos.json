@@ -2671,7 +2671,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Refreshing Sea Kelp Real Deep Mask (Mascarilla refrescante algas marinas) Poderosa combinación de extracto de caviar y PDRN revitaliza la piel y fortalece la barrera cutánea. Rico en proteínas y nutrientes esenciales, el caviar ayuda a fortalecer la barrera cutánea, dejando la piel más rellena y radiante. Ingredientes claves: Niacinamida, caviar, extracto de PDRN, extracto de jojoba, extracto de cúrcuma.",
     "imagen": "img/skink/BIODANCE5.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6346,7 +6346,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiatica Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves:Niacinamida, pantenol, ácido hiaulónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -6356,7 +6356,7 @@
     "ficha": "img/fichas/DR-ALTHEA1.png",
     "video": "img/videos/DR-ALTHEA1.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA21",
