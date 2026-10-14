@@ -330,7 +330,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Ultra ligero y cómodo, este protector solar con textura refrescante de suero hidrata tu piel y la protege de los rayos UVA y UVB con FPS50+ PA++++. Es indetectable sobre la piel y se absorbe fácilmente, así que no debes preocuparte por residuos blancos o grasosos. Ingredientes claves: Niacinamida, extracto de algodón, extracto de flor y corteza.",
     "imagen": "img/skink/TOCOBO33.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -338,7 +338,7 @@
     ],
     "ficha": "img/fichas/TOCOBO33.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO34",
@@ -385,7 +385,7 @@
     "categoria": "Protección Solar",
     "descripcion": "(Loción solar diaria VITA SOFT) es el aliado perfecto para proteger y cuidar tu piel sensible y propensa al acné. Este antisolar en formato de sérum ha sido especialmente desarrollado para ofrecer una defensa efectiva contra los rayos UV, mientras calma y cuida tu piel. este sérum solar es la elección ideal para las pieles más delicadas. Ingredientes claves: Niacinamida, ácido hialurónico, extracto de centella, extracto de aloe, ácido madecásico.",
     "imagen": "img/skink/TOCOBO36.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -396,7 +396,7 @@
     ],
     "ficha": "img/fichas/TOCOBO36.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO37",
@@ -1985,7 +1985,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Ideal piel seca) SERUM MASK (Mascarilla de PDRN) Ingredientes claves: Colágeno hidrolizado, ácido hialurónico, pantenol, curcuma, ácido cítrico. Mascarillas Una mascarilla en hoja hidratante que ayuda a calmar la piel sensible y protegerla de irritaciones externas. Contiene una hoja de microfibra natural producida con extractos de plantas que se adhiere suavemente al rostro. Ingredientes claves: Extracto de cordata, extracto de fruta, centella asiatica, extracto de flores.",
     "imagen": "img/skink/ANUA21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1995,7 +1995,7 @@
     ],
     "ficha": "img/fichas/ANUA21.jpg",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA22",
@@ -2590,7 +2590,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla facial de hidratación profunda formulada con ingredientes no tóxicos y no irritantes. Está libre de alérgenos y otros 19 ingredientes agresivos y controvertidos. Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol)",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2600,7 +2600,7 @@
     ],
     "ficha": "img/fichas/BIODANCE1.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BIODANCE2",
@@ -2610,7 +2610,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ingredientes claves: Extracto de colágeno, niacinamida, ácido hialurónico, extracto de pera, agua de rosas. BIODANCE, una marca líder de K-Beauty , combina la ciencia de vanguardia con principios de belleza limpios para ofrecer un cuidado de la piel que sea suave y eficaz. Hydro Cera-nol Real Deep Mask (Mascarilla profunda Hydro Cera-nol) Mascarilla de hidrogel para hidratación profunda con ácido hialurónico, colágeno y probióticos para lograr penetrar todas las capas de la piel y así conseguir un efecto porcelana en el rostro. ingredientes de mezcla multivitamínica ayuda a mejorar el tono, la textura y la luminosidad de la piel.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2622,7 +2622,7 @@
     "ficha": "img/fichas/BIODANCE2.png",
     "video": "img/videos/BIODANCE2.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BIODANCE3",
@@ -2632,7 +2632,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2641,7 +2641,7 @@
     ],
     "ficha": "img/fichas/BIODANCE3.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BIODANCE4",
@@ -2651,7 +2651,7 @@
     "categoria": "Mascarillas",
     "descripcion": "(Mixta +15) Ground Rice and Honey Glow Mask (Mascarilla iluminadora de arroz y miel) Bio-collagen real deep mask (mascarilla profunda bio-colágeno) Mascarilla enriquecida con algas marinas revitalizantes. Este tratamiento intensivo purifica e hidrata profundamente, restaurando el brillo y la elasticidad de la piel. Ideal para un cutis fresco y rejuvenecido. Ingredientes claves: extracto de cólageno, algas marinas, péptidos, niacinamida, fermento de levadura.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2661,7 +2661,7 @@
     ],
     "ficha": "img/fichas/BIODANCE4.jpg",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BIODANCE5",
@@ -2709,7 +2709,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Ingredientes claves: Aceite de soja, aceite de jojoba, ácido salicílico, extracto de fruta, extracto de macadamia. Marca coreana líder en cuidado de la piel con respaldo dermatológico. Sus productos están clínicamente probados para tratar imperfecciones, reducir arrugas y mejorar la hidratación. DEEP CLEANSING OIL (Aceite limpiador) Espuma limpiadora profunda con cápsulas de exosomas, lo que permite limpiar en profundidad sin resecar. Ingredientes claves: Ácido cítrico, centella asiatica, extracto de semilla decafé, ácido salicílico.",
     "imagen": "img/skink/MEDICUBE34.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2720,7 +2720,7 @@
     "ficha": "img/fichas/MEDICUBE34.png",
     "video": "img/videos/MEDICUBE34.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE2",
@@ -3497,7 +3497,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla de gel será tu aliado ideal para disminuir visiblemente la apariencia de manchas oscuras e hiperpigmentación, incluyendo las que se encuentran en las capas más profundas de la piel. Ingredientes claves: Niacinamida, curcuma, retinol, ceramida, colágeno.",
     "imagen": "img/skink/MEDICUBE33.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3506,7 +3506,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE33.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE39",
@@ -4011,7 +4011,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Enriquecido con ADN de salmón PDRN y colágeno de bajo peso molecular para una tez jugosa y brillante. PDRN aumenta la hidratación y apoya la producción de colágeno. El colágeno hidrolizado penetra profundamente para hacer que tu piel se vea suave. Ingredientes claves: Pantenol, colágeno, aminoacidos de trigo, ácido hialurónico. Ingredientes claves: Niacinamida, péptidos, colageno, ADN de salmón.",
     "imagen": "img/skink/MEDICUBE16.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4021,7 +4021,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE16.jpg",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE81",
@@ -4549,7 +4549,7 @@
     "categoria": "Parches",
     "descripcion": "Azul : cuidado de los poros y control del sebo Naranja : iluminador Verde : voluminizador Rojo : elasticidad Púrpura : potencia el cuidado de la Los colores de LED para cada modo están preestablecidos y los cambios de color de LED solo se pueden realizar a través de la aplicación AGE-R. Beauty device- age booster pro ex yellow (dispositivo) REF: MEDICUBE74 Parches hidrocoloides para espinillas en forma de estrella, vienen en cinco colores.",
     "imagen": "img/skink/OOTD1.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4559,7 +4559,7 @@
     ],
     "ficha": "img/fichas/OOTD1.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-2",
@@ -6150,7 +6150,7 @@
     "categoria": "Sérum",
     "descripcion": "Ingredientes claves: Pantenol, aceite de soja, jugo de alba, retinol, extracto de flor, lavanda. 15% Niacinamide Purity Serum (Serum de niacinamida) uso diario diseñado para aliviar la irritación, hidratar profundamente y fortalecer la barrera cutánea en un solo paso. Es ideal para pieles sensibles y con tendencia al acné, proporciona hidratación duradera y una sensación de confort. Ingredientes claves: Niacinamida, pantenol, Arbol de té, ácido hialuronico,",
     "imagen": "img/skink/DR-ALTHEA25.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -6161,7 +6161,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA25.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA2",
@@ -7717,7 +7717,7 @@
     "categoria": "Capilar",
     "descripcion": "Collagen Coating Hair Muscle Shampoo Tratamiento para el cabello seco, con ingredientes que son excelentes para las puntas abiertas. Logra transformar un cabello dañado y partido, en uno suave y sedoso. Ayuda a reconstruir el cabello para que se vea suave, brillante y sin frizz. Ingredientes claves: Colágeno, queratina, proteina de trigo, extracto de arroz.",
     "imagen": "img/skink/ELI-08.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7727,7 +7727,7 @@
     ],
     "ficha": "img/fichas/ELI-08.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ELI-09",
@@ -7756,7 +7756,7 @@
     "categoria": "Sérum",
     "descripcion": "Producto capilar (Tratamiento) Producto capilar (Shampoo) Elizavecca la esencia capilar formulada con colágeno, queratina y proteínas de origen vegetal especialmente recomendada para nutrir y suavizar el cabello seco, débil y/o dañado. Con su uso continuado, ayudarás a prevenir el daño, dejando tu pelito más, terso, brillante y lleno de vitalidad. No necesita enjuague. Ingredientes claves: Colágeno, proteina de maiz, extracto de apío.",
     "imagen": "img/skink/ELI-10.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7766,7 +7766,7 @@
     ],
     "ficha": "img/fichas/ELI-10.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ELI-11",
@@ -8501,7 +8501,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "",
     "imagen": "img/skink/CENTELLIAN24-09.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8509,7 +8509,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-09.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "CENTELLIAN24-10",
