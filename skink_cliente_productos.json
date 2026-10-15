@@ -5253,7 +5253,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Sérum solar de textura ligera tipo agua con centella asiática y complejo de ácido hialurónico. Protege, hidrata y calma sin dejar sensación pegajosa ni residuo blanco.",
     "imagen": "img/skink/SKIN1004-49.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Protección Solar",
