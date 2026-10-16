@@ -360,7 +360,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/TOCOBO34.jpg",
+    "ficha": "img/fichas/TOCOBO34.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -2365,6 +2365,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/BEAUTY3.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3222,6 +3223,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
+    "ficha": "img/fichas/MEDICUBE78.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -3416,6 +3418,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/MEDICUBE60.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4697,6 +4700,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/SKIN1004-66.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4754,6 +4758,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-34.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -4926,6 +4931,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-37.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -5605,6 +5611,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
+    "ficha": "img/fichas/SKIN1004-50.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -7512,6 +7519,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
+    "ficha": "img/fichas/CELI-02.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -8222,6 +8230,7 @@
       "Anti-edad",
       "Piel Sensible y Calmante"
     ],
+    "ficha": "img/fichas/KAHI01.png",
     "video": "img/videos/KAHI-01.mp4",
     "mas_vendido": true,
     "preventa": false
