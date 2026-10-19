@@ -1981,7 +1981,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel ultrafina que aporta hidratación y un aspecto más relleno sin dejar residuo pegajoso. Se puede usar a diario o como mascarilla de noche. Ideal para piel seca o mixta. Ingredientes claves: PDRN (ADN de sodio), colágeno hidrolizado, 8 tipos de ácido hialurónico, niacinamida, pantenol, glutatión.",
     "imagen": "img/skink/ANUA20.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -1992,7 +1992,7 @@
     "ficha": "img/fichas/ANUA20.jpg",
     "video": "img/videos/Anua20.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA21",
@@ -2059,7 +2059,7 @@
     "categoria": "Mascarillas",
     "descripcion": "La Mascarilla Calmante de Colágeno Anua Heartleaf 70 está formulada para calmar y aliviar la piel irritada, a la vez que refuerza la barrera de hidratación cutánea. Es una mascarilla hidratante enriquecida con 2000 ppm de extracto de colágeno. Ingredientes claves: agua de flor, hoja y tallo de Houttuynia Cordata y extracto de hoja de Aloe, ácido hialurónico.",
     "imagen": "img/skink/ANUA29.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2070,7 +2070,7 @@
     "ficha": "img/fichas/ANUA29.jpg",
     "video": "img/videos/Anua29.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA30",
@@ -2244,7 +2244,7 @@
     "categoria": "Parches",
     "descripcion": "Parches para granitos ultra delgados, compatibles con el maquillaje, resistentes al agua y al sudor, en dos tamaños (10 mm y 12 mm). Ayudan en todas las etapas del brote y protegen la zona de irritantes. Se dejan de 6 a 8 horas y se retiran cuando se tornan blancos. Ingredientes claves: heartleaf (houttuynia cordata), centella asiática y aceite de árbol de té.",
     "imagen": "img/skink/ABIB4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2254,7 +2254,7 @@
     "ficha": "img/fichas/ABIB4.png",
     "video": "img/videos/Abib4.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ABIB5",
@@ -3008,7 +3008,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema hidratante en cápsulas azules de ácido hialurónico y gel transparente que se mezclan al gusto: más gel para una textura ligera, más cápsulas para hidratación más rica. Hidrata de forma prolongada, apoya la barrera, calma el enrojecimiento y deja la piel jugosa con efecto refrescante. No comedogénica. Ingredientes claves: Ácido hialurónico de bajo peso molecular, ceramidas, pantenol, betaína, alantoína.",
     "imagen": "img/skink/MEDICUBE52.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3020,7 +3020,7 @@
     "ficha": "img/fichas/MEDICUBE52.png",
     "video": "img/videos/Medicube52.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE9",
@@ -3134,7 +3134,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Ofrece un enfoque innovador para el cuidado de los poros, combinando efectos refrescantes y tensores en una potente fórmula. Esta avanzada mascarilla de barro está específicamente diseñada para combatir los puntos negros y el exceso de sebo de forma eficaz y suave. Ingredientes claves: Ácido glicólico, ácido salicílico, arcilla, extracto de caolín.",
     "imagen": "img/skink/MEDICUBE36.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3144,7 +3144,7 @@
     "ficha": "img/fichas/MEDICUBE36.png",
     "video": "img/videos/Medicube36.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE4",
@@ -3469,7 +3469,7 @@
     "categoria": "Hidratación",
     "descripcion": "Es una crema facial de tratamiento diseñada para mejorar el tono desigual, reducir la apariencia de manchas oscuras y revitalizar la piel apagada, con una combinación de ácido kójico, extracto de cúrcuma y antioxidantes estabilizados. Ingredientes claves: Cúrcuma, ácido kójico, raíz japónica, aceite de ricino, extracto de fresa, ácido ascórbico, ceramida.",
     "imagen": "img/skink/MEDICUBE77.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3478,7 +3478,7 @@
     "ficha": "img/fichas/MEDICUBE77.png",
     "video": "img/videos/Medicube77.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE65",
@@ -3977,7 +3977,7 @@
     "categoria": "Sérum",
     "descripcion": "Gel potenciador está formulado con PDRN de salmón que proporciona un efecto calmante y reafirmante. El gel hidratante cuida la piel y hace que la piel exterior brille.",
     "imagen": "img/skink/MEDICUBE8.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3987,7 +3987,7 @@
     "ficha": "img/fichas/MEDICUBE8.png",
     "video": "img/videos/Medicube8.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE15",
@@ -4372,7 +4372,7 @@
     "categoria": "Parches",
     "descripcion": "Parches de hidrogel para el contorno de ojos que se adaptan a la zona y dan sensación refrescante. Ayudan a disimular ojeras y bolsas, a desinflamar y a mejorar la apariencia de firmeza y suavidad. Aptos para todo tipo de piel. Ingredientes claves: PDRN de salmón, cafeína, retinol y colágeno.",
     "imagen": "img/skink/MEDICUBE85.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4380,7 +4380,7 @@
       "Contorno de Ojos"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/MEDICUBE85.png",
     "video": "img/videos/MEDICUBE85.mp4"
   },
@@ -6620,7 +6620,7 @@
     "categoria": "Bruma",
     "descripcion": "Sérum en spray bifásico de base oleosa que hidrata y deja un acabado luminoso. Se puede usar antes o después del maquillaje para ayudar a que no se cuartee. Dermatológicamente probado y no comedogénico. Ingredientes claves: Trufa blanca con vitamina E, mezcla de 8 aceites (aguacate, girasol, soya), niacinamida, ácido hialurónico, adenosina.",
     "imagen": "img/skink/D-ALBA1.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -6628,7 +6628,7 @@
     "ficha": "img/fichas/D-ALBA1.png",
     "video": "img/videos/D-Alba1.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "D-ALBA10",
@@ -7921,7 +7921,7 @@
     "categoria": "Labial",
     "descripcion": "Sérum antiedad que mejora la textura, la hidratación, las arrugas y la luminosidad de la piel. Textura suave de rápida absorción; se usa de noche, aumentando la frecuencia de forma gradual. Hacer prueba de parche y evitar en embarazo o lactancia. Ingredientes claves: retinal liposomado 2%, extracto de ginseng negro, bakuchiol, vitamina C, niacinamida y péptidos.",
     "imagen": "img/skink/KSEC-03.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7932,7 +7932,7 @@
     "ficha": "img/fichas/KSEC-03.png",
     "video": "img/videos/Ksec-03.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "KSEC-04",
@@ -8001,7 +8001,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Un limpiador todo en uno para pieles sensibles que proporciona tres efectos en una sola aplicación: puede ser un limpiador diario, un exfoliante facial y un desmaquillador. Ingredientes claves: Carbón vegetal, almendra dulce, caolín, aceite de limón, ácido de coco.",
     "imagen": "img/skink/AREN-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros",
@@ -8010,7 +8010,7 @@
     "ficha": "img/fichas/AREN-01.png",
     "video": "img/videos/Aren-01.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "AREN-02",
