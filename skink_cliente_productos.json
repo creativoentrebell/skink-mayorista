@@ -12,7 +12,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
-    "ficha": "img/fichas/TOCOBO7.jpg",
+    "ficha": "img/fichas/TOCOBO7.png",
     "video": "img/videos/Tocobo7.mp4",
     "mas_vendido": false,
     "preventa": false
@@ -71,7 +71,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/TOCOBO12.jpg",
+    "ficha": "img/fichas/TOCOBO12.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1352,7 +1352,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/MIXSOON30.jpg",
+    "ficha": "img/fichas/MIXSOON30.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -1589,7 +1589,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "ficha": "img/fichas/ANUA7.jpg",
+    "ficha": "img/fichas/ANUA7.png",
     "video": "img/videos/Anua7.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -1751,7 +1751,7 @@
       "Anti-edad",
       "Hidratación Profunda"
     ],
-    "ficha": "img/fichas/ANUA15.jpg",
+    "ficha": "img/fichas/ANUA15.png",
     "video": "img/videos/Anua15.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -1770,7 +1770,7 @@
       "Hidratación Profunda",
       "Manchas e Hiperpigmentación"
     ],
-    "ficha": "img/fichas/ANUA16.jpg",
+    "ficha": "img/fichas/ANUA16.png",
     "mas_vendido": false,
     "preventa": true
   },
@@ -1789,7 +1789,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/ANUA2.jpg",
+    "ficha": "img/fichas/ANUA2.png",
     "video": "img/videos/Anua2.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -3532,7 +3532,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/MEDICUBE10.jpg",
+    "ficha": "img/fichas/MEDICUBE10.png",
     "video": "img/videos/Medicube10.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -4078,7 +4078,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/MEDICUBE16.jpg",
+    "ficha": "img/fichas/MEDICUBE16.png",
     "video": "img/videos/Medicube16.mp4",
     "mas_vendido": false,
     "preventa": false
@@ -4134,7 +4134,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros"
     ],
-    "ficha": "img/fichas/MEDICUBE26.jpg",
+    "ficha": "img/fichas/MEDICUBE26.png",
     "video": "img/videos/Medicube26.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -4155,7 +4155,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/MEDICUBE27.jpg",
+    "ficha": "img/fichas/MEDICUBE27.png",
     "video": "img/videos/Medicube27.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -5464,7 +5464,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/SKIN1004-5.jpg",
+    "ficha": "img/fichas/SKIN1004-5.png",
     "mas_vendido": false,
     "preventa": false
   },
@@ -6039,7 +6039,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/DR-ALTHEA8.jpg",
+    "ficha": "img/fichas/DR-ALTHEA8.png",
     "video": "img/videos/Dr-Althea8.mp4",
     "mas_vendido": false,
     "preventa": true
@@ -6193,7 +6193,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/DR-ALTHEA15.jpg",
+    "ficha": "img/fichas/DR-ALTHEA15.png",
     "mas_vendido": true,
     "preventa": false
   },
@@ -6451,7 +6451,7 @@
       "Manchas e Hiperpigmentación",
       "Piel Sensible y Calmante"
     ],
-    "ficha": "img/fichas/DR-ALTHEA21.jpg",
+    "ficha": "img/fichas/DR-ALTHEA21.png",
     "video": "img/videos/Dr-Althea21.mp4",
     "mas_vendido": true,
     "preventa": true
