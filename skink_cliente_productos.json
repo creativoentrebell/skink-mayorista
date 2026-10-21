@@ -7438,7 +7438,7 @@
     "categoria": "Vitaminas",
     "descripcion": "Suplemento oral en tabletas (30 tabletas de 500 mg) para el cuidado de la piel desde adentro: apoya una piel con apariencia más joven, luminosa y uniforme, con protección antioxidante. Tomar 1 tableta al día con agua, preferiblemente con una comida. Ingredientes claves: Retinol (vitamina A), vitamina C, vitamina E, zinc, selenio.",
     "imagen": "img/skink/APLB-05.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [],
     "mas_vendido": false,
@@ -9131,7 +9131,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema para cuello con aplicador gua sha integrado, pensada para mandíbula, cuello, clavícula y escote. Ayuda a mejorar la apariencia de líneas finas y líneas horizontales del cuello y a que la piel luzca más firme; textura ligera y no pegajosa para masajear hacia arriba unos cinco minutos al día. Ingredientes claves: Volufiline 5%, PDRN, colágeno, niacinamida, ácido hialurónico y retinol.",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -9139,7 +9139,7 @@
     "ficha": "img/fichas/MEDICUBE100.png",
     "video": "img/videos/MEDICUBE100.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE107",
@@ -9218,7 +9218,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de contorno en tres pasos para mentón y mandíbula, con banda tensora de patrón diamante y ganchos ajustables para las orejas. Ayuda con la papada, la hinchazón de la mandíbula, el tono irregular y la resequedad; se usa de 10 a 20 minutos. Ingredientes claves: PDRN de salmón, niacinamida 5%, NAD+ y cafeína.",
     "imagen": "img/skink/MEDICUBE114.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Anti-edad",
@@ -9236,7 +9236,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de dos capas (gasa + gel tipo jalea) para piel seca, estresada o sensible, que hidrata en profundidad, fortalece la barrera y ayuda a suavizar líneas finas, dejando la piel rellena y luminosa. Se deja de 10 a 15 minutos y se masajea la esencia restante. Ingredientes claves: ácido hialurónico (complejo HyalDeca), PDRN de loto, pantenol y madecasósido.",
     "imagen": "img/skink/DR-ALTHEA30.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Hidratación Profunda",
