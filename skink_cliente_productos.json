@@ -5960,7 +5960,7 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Aceite limpiador ligero que disuelve maquillaje, suciedad, exceso de grasa y protector solar, suave incluso en el contorno de ojos. Su textura tipo agua se emulsiona en leche al contacto con el agua; fórmula no comedogénica. Ingredientes claves: extracto de centella asiática y aceites de bergamota, girasol, oliva, jojoba, geranio y rosa damascena.",
     "imagen": "img/skink/SKIN1004-73.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -9200,7 +9200,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla en tela vegana para piel seca y sensible, empapada en una esencia tipo crema que nutre e hidrata intensamente y se absorbe sin dejar sensación pegajosa, dejando la piel suave y jugosa. Se deja de 10 a 15 minutos. Ingredientes claves: niacinamida, centella asiática, madecasósido, hialuronato, pantenol y ceramida NP.",
     "imagen": "img/skink/DR-ALTHEA29.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Piel Sensible y Calmante",
