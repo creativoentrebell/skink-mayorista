@@ -25,7 +25,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Espuma limpiadora cremosa con microburbujas que limpia los poros en profundidad, absorbe impurezas y exceso de grasa, y mantiene la piel hidratada sin resecarla. Ideal para piel grasa o mixta con poros obstruidos, también apta para piel sensible. Ingredientes claves: Tensioactivos derivados del coco, arcilla rosada y mineral, bentonita, calamina, extracto de jabonera.",
     "imagen": "img/skink/TOCOBO3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
@@ -1745,7 +1745,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum ligero de rápida absorción que hidrata, rellena y deja un acabado jugoso y luminoso, ayudando a mantener la barrera de hidratación. No comedogénico y de baja irritación. Usar mañana y noche antes de la crema, con protector solar en el día. Ingredientes claves: PDRN de salmón, ácido hialurónico, colágeno hidrolizado, niacinamida, glutatión, adenosina.",
     "imagen": "img/skink/ANUA15.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2761,7 +2761,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador facial especialmente diseñado para pieles sensibles y delicadas. Su fórmula de espuma y enriquecida con ingredientes hidratantes asegura una limpieza profunda sin comprometer la barrera protectora de la piel. Ingredientes claves: Extracto de hoja de Aspalathus linearis, extracto de acerola, ácido láurico.",
     "imagen": "img/skink/MEDICUBE2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3524,7 +3524,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con cápsulas de vitamina C, brinda un brillo importante al mismo tiempo que reafirma, hidrata y refina la piel. La fórmula suave pero potente está dermatológicamente probada para ser adecuada para pieles sensibles. Ideal para pieles apagadas, con tez desigual o con manchas pigmentarias, aporta una luminosidad natural. Ingredientes claves: Niacinamida, aceite de soja, Vitamina C.",
     "imagen": "img/skink/MEDICUBE10.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3583,7 +3583,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Gel limpiador con fórmula que limpia profundamente, apoya la regeneración y repara la barrera de la piel, mientras hidrata intensamente, mejora textura y tono, promueve regeneración celular. Ingredientes claves: Extracto de fruta, ácido hialurónico, PDRN de salmón, niacinamida, pantenol.",
     "imagen": "img/skink/MEDICUBE35.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3724,7 +3724,7 @@
     "categoria": "Bruma",
     "descripcion": "Esta innovadora bruma facial 3 en 1 integra la avanzada tecnología coreana para el cuidado de la piel con una selección de potentes ingredientes destinados a mejorar el aspecto general de la piel. Infundido con glutatión para iluminar la piel y tonificarla. Ingredientes claves: ADN de salmón (PDRN), glutatión, niacinamida, adenosina, agua de rosa damascena y péptidos.",
     "imagen": "img/skink/MEDICUBE71.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3761,7 +3761,7 @@
     "categoria": "Sérum",
     "descripcion": "Ampolla antienvejecimiento enriquecida con PDRN de salmón, complejo de colágeno de salmón y péptidos mejora la elasticidad de la piel, atenúa las imperfecciones y reduce la pigmentación de melanina. La ampolla es hipoalergénica y segura para usar en pieles sensibles. Ingredientes claves: Ácido acrílico, extracto de cúrcuma, colágeno hidrolizado, péptidos.",
     "imagen": "img/skink/MEDICUBE18.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3781,7 +3781,7 @@
     "categoria": "Bruma",
     "descripcion": "Sérum en bruma 2 en 1 con textura bifásica de aceite y gelatina que hidrata y aporta un brillo jugoso sin sensación pegajosa. Rociado de cerca se aplica como sérum y a 10-20 cm como bruma ligera. Ingredientes claves: Agua de colágeno (80,9%), PDRN, glutatión, ácido hialurónico, niacinamida, ceramida NP.",
     "imagen": "img/skink/MEDICUBE61.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3898,7 +3898,7 @@
     "categoria": "Hidratación",
     "descripcion": "Una crema enriquecida con cápsulas de colágeno rosa que mejora el tono desigual de la piel y aumenta la luminosidad para pieles apagadas y flácidas. Las cápsulas mantienen los efectos reafirmantes e hidratantes del PDRN hasta que se absorben en la piel, logrando un brillo máximo. Ingredientes claves: Extracto de colágeno, aceite de moringa, extracto de salmón, ceramida.",
     "imagen": "img/skink/MEDICUBE21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4033,7 +4033,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Es una mascarilla nocturna de skincare coreano diseñada para transformar tu piel mientras duermes. Su innovadora textura perlada rosa crea una película ligera que envuelve el rostro, sellando la hidratación y potenciando la reparación cutánea durante toda la noche. Ingredientes claves: Aceite de flor de rosa, ácido ascórbico, cafeína, ácido hialurónico, péptidos.",
     "imagen": "img/skink/MEDICUBE37.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -4321,7 +4321,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema en gel transparente que ayuda a definir el contorno, aportar firmeza y dar un acabado luminoso tipo glass skin, dejando la piel con apariencia más tensa, luminosa y rellena. Ingredientes claves: varios tipos de colágeno, hialuronato, escualano, adenosina, elastina, proteoglicano y vitamina E.",
     "imagen": "img/skink/MEDICUBE3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6443,7 +6443,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiática Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8495,7 +8495,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema reafirmante de textura rica y suave para uso diario, mañana y noche, pensada para piel madura, cansada o con manchas, con un efecto de elasticidad en 360°. Ayuda a reparar signos de daño en la piel y a calmar calor, enrojecimiento e hinchazón. Ingredientes claves: TECA-PDRN (centella asiática estandarizada, PDRN y agua de rosas), PDRN puro, 10 tipos de ácido hialurónico, glutatión y cafeína.",
     "imagen": "img/skink/CENTELLIAN24-05.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -9397,7 +9397,7 @@
     "categoria": "Parches",
     "descripcion": "Parches de hidrogel rosados para el contorno de ojos que ayudan a reducir la apariencia de hinchazón, ojeras, resequedad y líneas finas. Se dejan 15 a 20 minutos; refrigerarlos antes da un efecto más refrescante. También se pueden usar en frente, líneas de expresión y cuello. Ingredientes claves: PDRN de salmón, colágeno, NAD, niacinamida, ácido hialurónico.",
     "imagen": "img/skink/MEDICUBE105.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Anti-edad",
