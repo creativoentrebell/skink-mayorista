@@ -4529,7 +4529,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE96.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
