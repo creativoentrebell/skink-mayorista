@@ -656,7 +656,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema hidratante vegana y sin PEG que hidrata en profundidad, fortalece la barrera de la piel y mejora la elasticidad; ayuda con la resequedad, la falta de luminosidad y la pérdida de firmeza. Textura ligera tipo sorbete que se funde en la piel sin sensación grasosa. Ingredientes claves: ceramidas, escualano, manteca de karité, varios tipos de ácido hialurónico, extracto de chlorella y betaglucano.",
     "imagen": "img/skink/TOCOBO51.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda"
@@ -1401,7 +1401,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarillas de tejido con abundante esencia para diferentes afecciones de la piel que completan la rutina de una semana. Lámina de celulosa suave de origen vegetal con tan solo 0,2 mm de grosor que se adhiere perfectamente a la piel sin dejar espacios para distribuir los ingredientes activos. Superada la prueba de irritación cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, retinol, ceramida.",
     "imagen": "img/skink/MIXSOON22.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -1684,7 +1684,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Espuma limpiadora que contiene BHA y ácido succínico para destapar los poros y regular la producción de sebo. La fórmula con pH equilibrado está enriquecida con ceramida NP y pantenol para mantener la piel hidratada después de la limpieza. Ingredientes claves: Pantenol, ácido salicílico, ceramida, extracto hoja de corazón.",
     "imagen": "img/skink/ANUA5.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1703,7 +1703,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum enriquecido con un 70% de extracto de durazno y niacinamida. Este suero hidratante y aclarante es perfecto para mejorar el tono y la luminosidad de la piel. Ideal para pieles con manchas y sin firmeza. Ingredientes claves: Niacinamida, agua salvado de arroz, pantenol, ceramida, ácido hialurónico.",
     "imagen": "img/skink/ANUA6.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2432,7 +2432,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum iluminador que ayuda a disminuir la apariencia de piel apagada y manchas oscuras, mientras hidrata para un acabado luminoso y jugoso. Con el uso constante la piel luce más brillante. Ingredientes claves: agua de salvado de arroz, alfa-arbutina y niacinamida.",
     "imagen": "img/skink/BEAUTY11.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2617,7 +2617,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, pensada para la deshidratación crónica y la barrera comprometida; ideal para piel seca o sensible. Se vuelve transparente a medida que la piel absorbe la esencia y se deja de 3 a 4 horas o toda la noche. Ingredientes claves: complejo Cera-nol (ceramidas, ácido hialurónico oligo y D-pantenol), agua glaciar y fermentado de galactomyces.",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2638,7 +2638,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, que se adapta al rostro y se vuelve transparente a medida que la piel absorbe la esencia. Ayuda con poros dilatados, pérdida de elasticidad y textura áspera; apta para todo tipo de piel, incluida la sensible. Se deja de 3 a 4 horas o toda la noche. Ingredientes claves: colágeno de ultra bajo peso molecular, ácido hialurónico, filtrado fermentado de galactomyces y probióticos.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2660,7 +2660,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2680,7 +2680,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, que ayuda a equilibrar grasa e hidratación y a calmar la piel. Ideal para piel grasa, con tendencia acneica o enrojecimiento; no comedogénica. Se deja de 3 a 4 horas o toda la noche. Ingredientes claves: algas marinas (kelp) fermentadas 10%, agua de mar profundo y fermentado de galactomyces.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3008,7 +3008,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema hidratante en cápsulas azules de ácido hialurónico y gel transparente que se mezclan al gusto: más gel para una textura ligera, más cápsulas para hidratación más rica. Hidrata de forma prolongada, apoya la barrera, calma el enrojecimiento y deja la piel jugosa con efecto refrescante. No comedogénica. Ingredientes claves: Ácido hialurónico de bajo peso molecular, ceramidas, pantenol, betaína, alantoína.",
     "imagen": "img/skink/MEDICUBE52.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3257,7 +3257,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema antiedad para contorno de ojos y todo el rostro que ayuda con arrugas, líneas finas y pérdida de firmeza, mientras hidrata de forma prolongada. Apta para piel sensible; se aplica como último paso de la rutina, dando toques suaves. Ingredientes claves: complejo de péptidos, 7 tipos de ácido hialurónico, niacinamida, adenosina, pantenol y ceramida NP.",
     "imagen": "img/skink/MEDICUBE12.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3392,7 +3392,7 @@
     "categoria": "Exfoliante",
     "descripcion": "Una dosis diaria de cúrcuma refuerza el sistema inmunitario, mientras que el uso semanal del exfoliante facial de cúrcuma y ácido kójico de Medicube realza la luminosidad de la piel. Esta ampolla exfoliante, elimina las células muertas, mejora la textura de la piel y reduce el exceso de sebo. Ingredientes claves: Cúrcuma, ácido kójico, extracto de naranja, hierbabuena, niacinamida, árbol de té, ceramida.",
     "imagen": "img/skink/MEDICUBE76.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -3524,7 +3524,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con cápsulas de vitamina C, brinda un brillo importante al mismo tiempo que reafirma, hidrata y refina la piel. La fórmula suave pero potente está dermatológicamente probada para ser adecuada para pieles sensibles. Ideal para pieles apagadas, con tez desigual o con manchas pigmentarias, aporta una luminosidad natural. Ingredientes claves: Niacinamida, aceite de soja, Vitamina C.",
     "imagen": "img/skink/MEDICUBE10.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3545,7 +3545,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla de gel será tu aliado ideal para disminuir visiblemente la apariencia de manchas oscuras e hiperpigmentación, incluyendo las que se encuentran en las capas más profundas de la piel. Ingredientes claves: Niacinamida, cúrcuma, retinol, ceramida, colágeno.",
     "imagen": "img/skink/MEDICUBE33.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3977,7 +3977,7 @@
     "categoria": "Sérum",
     "descripcion": "Gel potenciador está formulado con PDRN de salmón que proporciona un efecto calmante y reafirmante. El gel hidratante cuida la piel y hace que la piel exterior brille.",
     "imagen": "img/skink/MEDICUBE8.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4033,7 +4033,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Es una mascarilla nocturna de skincare coreano diseñada para transformar tu piel mientras duermes. Su innovadora textura perlada rosa crea una película ligera que envuelve el rostro, sellando la hidratación y potenciando la reparación cutánea durante toda la noche. Ingredientes claves: Aceite de flor de rosa, ácido ascórbico, cafeína, ácido hialurónico, péptidos.",
     "imagen": "img/skink/MEDICUBE37.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -4356,7 +4356,7 @@
     "categoria": "Capilar",
     "descripcion": "Champú clarificante para cabello fino y débil que limpia, refresca y aporta sensación fría al cuero cabelludo, mientras realza el volumen y el brillo. Apto para todo tipo de cabello y cuero cabelludo sensible, con aroma fresco a menta. Ingredientes claves: romero, PDRN y complejo de 19 aminoácidos.",
     "imagen": "img/skink/MEDICUBE84.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Capilar"
@@ -5712,7 +5712,7 @@
     "categoria": "Tónico",
     "descripcion": "Ampolla formulada con una alta concentración de extracto de Centella Asiática de Madagascar, reconocida por sus propiedades calmantes y curativas que reparan la piel dañada y disminuyen la irritación. Ingredientes claves: Extracto de centella fermentada, ceramidas, pantenol.",
     "imagen": "img/skink/SKIN1004-41.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5925,7 +5925,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con rutina hidratante de 4 pasos: Hyalu-Cica Brightening Toner, Hyalu-Cica Blue Serum, Hyalu-Cica Moisture Cream y Hyalu-Cica Sleeping Pack (30 ml cada uno). Para piel deshidratada o apagada; aporta hidratación profunda, brillo jugoso y apoyo a la barrera.",
     "imagen": "img/skink/SKIN1004-86.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Sensible y Calmante"
@@ -7511,7 +7511,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum en gel de uso nocturno para los primeros signos de pérdida de firmeza y líneas finas, que deja la piel más lisa, uniforme y firme con acabado luminoso. Si es la primera vez con retinol, empezar pocas veces por semana; no usar en embarazo ni lactancia. Ingredientes claves: Retinol (0,1%), péptidos, pantenol, alantoína, adenosina, vitamina E.",
     "imagen": "img/skink/CELI-02.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7799,7 +7799,7 @@
     "categoria": "Capilar",
     "descripcion": "Tratamiento para el cabello seco, con ingredientes que son excelentes para las puntas abiertas. Logra transformar un cabello dañado y partido, en uno suave y sedoso. Ayuda a reconstruir el cabello para que se vea suave, brillante y sin frizz. Ingredientes claves: Colágeno, queratina, proteína de trigo, extracto de arroz.",
     "imagen": "img/skink/ELI-08.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -7840,7 +7840,7 @@
     "categoria": "Sérum",
     "descripcion": "Tratamiento capilar rápido y sencillo, con resultado tipo salón, para cabello encrespado y áspero. Ingredientes claves: colágeno y proteínas.",
     "imagen": "img/skink/ELI-10.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8476,7 +8476,7 @@
     "categoria": "Hidratación",
     "descripcion": "Es una crema antiedad de cuidado intensivo formulada con una alta concentración de activos derivados de Centella Asiática. Patentados en una estructura de 3 capas para una absorción profunda y rápida, mientras una fórmula rica en proteínas ayuda a mejorar elasticidad, firmeza e hidratación de la piel. Ingredientes claves: Pantenol, niacinamida, centella asiática, ácido madecásico, aceite de jojoba, glicerina.",
     "imagen": "img/skink/CENTELLIAN24-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8539,7 +8539,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum para líneas finas, arrugas, falta de firmeza, piel apagada y deshidratada; ideal para piel seca, normal o madura. Ayuda a una piel visiblemente más lisa, hidratada y firme en frente, contorno de ojos, boca y cuello. Contiene retinol: usar de noche, empezando 2 a 3 veces por semana, sin combinar con otros retinoides ni peelings fuertes. Ingredientes claves: Hyper PDRN, Ribbon Collagen, retinol, elastina, niacinamida, ceramida NP y adenosina.",
     "imagen": "img/skink/CENTELLIAN24-07.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8730,7 +8730,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Base cushion hidratante de alta cobertura que disimula imperfecciones y rojeces, con acabado natural y duración de hasta 72 horas, resistente al sudor y a la transferencia. Tono 17N Vanilla. Ingredientes claves: extractos florales (hibisco, rosa, nenúfar), astaxantina y propóleo.",
     "imagen": "img/skink/TIRTIR05.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -8778,7 +8778,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Base cushion hidratante de alta cobertura que disimula imperfecciones y rojeces, con acabado natural y duración de hasta 72 horas, resistente al sudor y a la transferencia. Tono 21N Ivory. Ingredientes claves: extractos florales (hibisco, rosa, nenúfar), astaxantina y propóleo.",
     "imagen": "img/skink/TIRTIR07.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -8858,7 +8858,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Base cushion hidratante de alta cobertura que disimula imperfecciones y rojeces, con acabado natural y duración de hasta 72 horas, resistente al sudor y a la transferencia. Tono 24W Soft Beige. Ingredientes claves: extractos florales (hibisco, rosa, nenúfar), astaxantina y propóleo.",
     "imagen": "img/skink/TIRTIR12.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
@@ -8993,7 +8993,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Crema antiedad para contorno de ojos y cuello, apta para todo tipo de piel, que ayuda a suavizar líneas finas, disminuir ojeras, iluminar y dar una apariencia más firme mientras hidrata. Textura rica pero ligera, de rápida absorción y sin sensación grasosa. Ingredientes claves: retinol, complejo de péptidos, bakuchiol, fermentado de lactobacillus, ácido hialurónico y niacinamida.",
     "imagen": "img/skink/NIDA-02.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Contorno de Ojos",
@@ -9010,7 +9010,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador en espuma que retira impurezas y maquillaje del día, ayuda a despejar los poros y a reducir la apariencia de puntos negros al eliminar suciedad y exceso de grasa. Calma la piel durante la limpieza y mantiene el equilibrio de hidratación, sin dejar sensación de tirantez. Ingrediente clave: centella asiática.",
     "imagen": "img/skink/NIDA-03.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Piel Grasa y Poros"
@@ -9043,7 +9043,7 @@
     "categoria": "Sérum",
     "descripcion": "Muestra del sérum iluminador para piel apagada, pigmentación, imperfecciones y manchas, apto para todo tipo de piel. Textura cremosa ligera de color amarillo que se absorbe rápido sin sensación pegajosa, con aroma cítrico a yuja. Ingredientes claves: niacinamida y ácido tranexámico en proporción 6:4 y extracto de yuja.",
     "imagen": "img/skink/B.LAB-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -9096,7 +9096,7 @@
     "categoria": "Sérum",
     "descripcion": "Sachet del sérum/esencia de arroz, vegano y para todo tipo de piel, que ayuda a mejorar la elasticidad de la piel y aportar luminosidad. Sin etanol, parabenos, colorantes ni fragancia artificial. Ingredientes claves: extracto fermentado de germen de arroz, niacinamida, escualano, pantenol y ácido hialurónico.",
     "imagen": "img/skink/IM.FROM-01.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -9131,7 +9131,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema para cuello con aplicador gua sha integrado, pensada para mandíbula, cuello, clavícula y escote. Ayuda a mejorar la apariencia de líneas finas y líneas horizontales del cuello y a que la piel luzca más firme; textura ligera y no pegajosa para masajear hacia arriba unos cinco minutos al día. Ingredientes claves: Volufiline 5%, PDRN, colágeno, niacinamida, ácido hialurónico y retinol.",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -9149,7 +9149,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum reafirmante para rostro y cuello que ayuda a mejorar la apariencia de arrugas, la pérdida de firmeza, la textura áspera y el tono apagado. Fórmula ligera para uso mañana y noche, no comedogénica y sin colorantes artificiales; apta para todo tipo de piel. Ingredientes claves: NAD+, péptido EGF y colágeno.",
     "imagen": "img/skink/MEDICUBE107.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Anti-edad"
@@ -9417,7 +9417,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE109.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": true,
     "tipos_piel": [
       "Brillo y Luminosidad",
