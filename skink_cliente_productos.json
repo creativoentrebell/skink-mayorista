@@ -4638,7 +4638,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Espuma limpiadora profunda para piel con tendencia al acné que destapa los poros y exfolia suavemente las células muertas, con efecto calmante. Fórmula cremosa con un toque de aroma a árbol de té que forma una espuma densa y suave. Para piel normal, mixta o grasa. Ingredientes claves: Centella asiática, agua de hoja de árbol de té, ácido salicílico (BHA), extracto de hoja de pino.",
     "imagen": "img/skink/SKIN1004-2.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4646,7 +4646,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-13",
@@ -4804,12 +4804,12 @@
   {
     "id": "SKIN1004-8",
     "referencia": "SKIN1004-8",
-    "nombre": "Madagascar Centella Poremizing Cleansing Foam 125ml",
+    "nombre": "Madagascar Centella Tone Brightening Cleansing Gel Foam 125ml",
     "marca": "SKIN 1004",
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador facial todo en uno de exfoliación profunda para piel grasa, mixta y sensible. Su textura en pasta cremosa se convierte en una espuma rica que absorbe impurezas, exceso de sebo y restos de protector solar, con una exfoliación suave. Ingredientes claves: extracto de centella asiática, sal rosa del Himalaya, caolín, papaína y extracto de manzana.",
     "imagen": "img/skink/SKIN1004-8.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4818,7 +4818,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-20",
@@ -4922,7 +4922,7 @@
     "categoria": "Sérum",
     "descripcion": "Protector solar con color durazno SPF50+ PA++++ de filtros híbridos, para usar solo o bajo el maquillaje. Ilumina la piel apagada y ayuda a unificar el tono irregular, las manchas y el enrojecimiento, con un acabado ligero e hidratante. Ingredientes claves: niacinamida, ácido tranexámico, centella asiática, madecasósido y hialuronato de sodio.",
     "imagen": "img/skink/SKIN1004-37.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4933,7 +4933,7 @@
     ],
     "ficha": "img/fichas/SKIN1004-37.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-47",
@@ -4956,18 +4956,18 @@
   {
     "id": "SKIN1004-29",
     "referencia": "SKIN1004-29",
-    "nombre": "Madagascar Centella Hyalu-Cica Hydro Gel 80ml",
+    "nombre": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum 100ml",
     "marca": "SKIN 1004",
     "categoria": "Sérum",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-29.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-40",
@@ -4989,12 +4989,12 @@
   {
     "id": "SKIN1004-14",
     "referencia": "SKIN1004-14",
-    "nombre": "Madagascar Centella Calming Active Toner Miniature 30ml",
+    "nombre": "Madagascar Centella Poremizing Deep Cleansing Foam 125ml",
     "marca": "SKIN 1004",
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-14.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -5002,17 +5002,17 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-6",
     "referencia": "SKIN1004-6",
-    "nombre": "Madagascar Centella Poremizing Cleansing Toner 210ml",
+    "nombre": "Madagascar Centella Poremizing Light Gel Cream 75ml",
     "marca": "SKIN 1004",
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-6.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5021,7 +5021,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-54",
@@ -5068,7 +5068,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ofrece una alta protección SPF50+ PA++++, mientras suaviza visiblemente la textura de la piel gracias al extracto puro de Centella de Madagascar y un complejo de ingredientes que ayudan a minimizar poros y controlar el exceso de sebo. Ingredientes claves: Niacinamida, extracto de centella asiática, extracto de semillas, sal marina, glicerina.",
     "imagen": "img/skink/SKIN1004-75.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5078,7 +5078,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-84",
@@ -5088,7 +5088,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con la rutina de 4 pasos para el cuidado de los poros: Poremizing Deep Cleansing Foam (20 ml), Poremizing Clear Toner (30 ml), Poremizing Fresh Ampoule (30 ml) y Poremizing Light Gel Cream (30 ml). Pensado para poros dilatados, exceso de grasa y textura irregular.",
     "imagen": "img/skink/SKIN1004-84.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5100,17 +5100,17 @@
     ],
     "ficha": "img/fichas/SKIN1004-84.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-28",
     "referencia": "SKIN1004-28",
-    "nombre": "Madagascar Centella Hyalu-Cica Gel Cream 75ml",
+    "nombre": "Madagascar Centella Poremizing Quick Clay Stick Mask 27g",
     "marca": "SKIN 1004",
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-28.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -5122,7 +5122,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-46",
@@ -5301,12 +5301,12 @@
   {
     "id": "SKIN1004-71",
     "referencia": "SKIN1004-71",
-    "nombre": "Madagascar Centella Probio-Cica Watery Sun Gel SPF50+ 50ml",
+    "nombre": "MADAGASCAR CENTELLA HYALU-CICA WATER-FIT SUN SERUM 50ML X 2 (TWIN PACK)",
     "marca": "SKIN 1004",
     "categoria": "Protección Solar",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-71.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5315,7 +5315,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-49",
@@ -5325,7 +5325,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Sérum solar de textura ligera tipo agua con centella asiática y complejo de ácido hialurónico. Protege, hidrata y calma sin dejar sensación pegajosa ni residuo blanco.",
     "imagen": "img/skink/SKIN1004-49.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Protección Solar",
@@ -5334,7 +5334,7 @@
     ],
     "video": "img/videos/SKIN1004-49.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-48",
@@ -5434,12 +5434,12 @@
   {
     "id": "SKIN1004-33",
     "referencia": "SKIN1004-33",
-    "nombre": "Madagascar Centella Hyalu-Cica Watery Cream 75ml",
+    "nombre": "Madagascar Centella Ampoule Foam 125ml",
     "marca": "SKIN 1004",
     "categoria": "Hidratación",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-33.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5448,7 +5448,7 @@
     ],
     "ficha": "img/fichas/SKIN1004-33.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-5",
@@ -5567,7 +5567,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con la rutina completa de la línea Centella en 5 productos de tamaño mini: Centella Light Cleansing Oil, Centella Ampoule Foam, Centella Toning Toner, Centella Ampoule y Centella Soothing Cream. Ideal para viajar o probar la línea.",
     "imagen": "img/skink/SKIN1004-7.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5578,7 +5578,7 @@
     ],
     "ficha": "img/fichas/SKIN1004-7.png",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-24",
@@ -5623,7 +5623,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Set de limpieza que incluye un Madagascar Centella Light Cleansing Oil y una Madagascar Centella Ampoule Foam, ambos de tamaño completo. El aceite limpiador combina aceite MCT derivado del coco y extracto de cica para ofrecer un acabado refrescante. La espuma limpiadora está formulada con bicarbonato de sodio para una limpieza profunda. Ingredientes claves: extracto de centella, aceite de girasol, aceite de oliva, extracto de cacao.",
     "imagen": "img/skink/SKIN1004-57.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -5632,7 +5632,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-58",
@@ -5898,12 +5898,12 @@
   {
     "id": "SKIN1004-83",
     "referencia": "SKIN1004-83",
-    "nombre": "Madagascar Centella Poremizing Travel Kit (linea poros)",
+    "nombre": "Madagascar Centella Even Tone Kit (BOX_EN)",
     "marca": "SKIN 1004",
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con la rutina de 4 pasos para el cuidado de los poros: Poremizing Deep Cleansing Foam (20 ml), Poremizing Clear Toner (30 ml), Poremizing Fresh Ampoule (30 ml) y Poremizing Light Gel Cream (30 ml). Pensado para poros dilatados, exceso de grasa y textura irregular.",
     "imagen": "img/skink/SKIN1004-83.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5915,7 +5915,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-86",
@@ -5942,7 +5942,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con rutina calmante de 4 pasos para piel con imperfecciones: Tea-Trica BHA Foam (20 ml), Tea-Trica Purifying Toner (30 ml), Tea-Trica Relief Ampoule (30 ml) y Tea-Trica B5 Cream (30 ml). Ayuda a equilibrar la grasa, cuidar los poros y calmar la piel.",
     "imagen": "img/skink/SKIN1004-87.jpg",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -5950,7 +5950,7 @@
     ],
     "ficha": "img/fichas/SKIN1004-87.png",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-73",
@@ -5967,6 +5967,42 @@
     ],
     "mas_vendido": false,
     "preventa": false
+  },
+  {
+    "id": "SKIN1004-68",
+    "referencia": "SKIN1004-68",
+    "nombre": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum 15ml",
+    "marca": "SKIN 1004",
+    "categoria": "Protección Solar",
+    "descripcion": "",
+    "imagen": "img/skink/SKIN1004-68.webp",
+    "agotado": false,
+    "nuevo": false,
+    "tipos_piel": [
+      "Protección Solar",
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/SKIN1004-68.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "SKIN1004-101",
+    "referencia": "SKIN1004-101",
+    "nombre": "Madagascar Centella Quick Calming Duo",
+    "marca": "SKIN 1004",
+    "categoria": "Sets y Kits",
+    "descripcion": "",
+    "imagen": "img/skink/SKIN1004-101.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/SKIN1004-101.png",
+    "mas_vendido": false,
+    "preventa": true
   },
   {
     "id": "AXIS-Y1",
