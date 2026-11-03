@@ -33,7 +33,7 @@
     "ficha": "img/fichas/TOCOBO3.jpg",
     "video": "img/videos/Tocobo3.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO8",
@@ -224,7 +224,7 @@
     "ficha": "img/fichas/TOCOBO31.png",
     "video": "img/videos/TOCOBO31.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO32",
@@ -245,7 +245,7 @@
     "ficha": "img/fichas/TOCOBO32.png",
     "video": "img/videos/TOCOBO32.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO39",
@@ -263,7 +263,7 @@
       "Protección Solar"
     ],
     "mas_vendido": true,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/TOCOBO39.png",
     "video": "img/videos/TOCOBO39.mp4"
   },
@@ -286,7 +286,7 @@
     "ficha": "img/fichas/TOCOBO38.png",
     "video": "img/videos/Tocobo38.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO40",
@@ -306,7 +306,7 @@
     "ficha": "img/fichas/TOCOBO40.png",
     "video": "img/videos/Tocobo40.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO56",
@@ -445,7 +445,7 @@
     "ficha": "img/fichas/TOCOBO48.png",
     "video": "img/videos/TOCOBO48.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO49",
@@ -611,7 +611,7 @@
     ],
     "ficha": "img/fichas/TOCOBO35.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO46",
@@ -680,7 +680,7 @@
     ],
     "ficha": "img/fichas/TOCOBO55.png",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "TOCOBO61",
@@ -778,7 +778,7 @@
     "ficha": "img/fichas/TOCOBO67.png",
     "video": "img/videos/Tocobo67.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MIXSOON1",
@@ -1569,7 +1569,7 @@
     "ficha": "img/fichas/ANUA31.jpg",
     "video": "img/videos/Anua31.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA7",
@@ -1592,7 +1592,7 @@
     "ficha": "img/fichas/ANUA7.png",
     "video": "img/videos/Anua7.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA18",
@@ -1612,7 +1612,7 @@
     "ficha": "img/fichas/ANUA18.jpg",
     "video": "img/videos/Anua18.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA3",
@@ -1633,7 +1633,7 @@
     "ficha": "img/fichas/ANUA3.jpg",
     "video": "img/videos/Anua3.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA19",
@@ -1654,7 +1654,7 @@
     "ficha": "img/fichas/ANUA19.jpg",
     "video": "img/videos/Anua19.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA4",
@@ -1674,7 +1674,7 @@
     "ficha": "img/fichas/ANUA4.png",
     "video": "img/videos/Anua4.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA5",
@@ -1754,7 +1754,7 @@
     "ficha": "img/fichas/ANUA15.png",
     "video": "img/videos/Anua15.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA16",
@@ -1772,7 +1772,7 @@
     ],
     "ficha": "img/fichas/ANUA16.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA2",
@@ -1792,7 +1792,7 @@
     "ficha": "img/fichas/ANUA2.png",
     "video": "img/videos/Anua2.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA26",
@@ -1950,7 +1950,7 @@
     "ficha": "img/fichas/ANUA17.jpg",
     "video": "img/videos/Anua17.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA1",
@@ -2144,7 +2144,7 @@
     "ficha": "img/fichas/ANUA35.png",
     "video": "img/videos/Anua35.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "ANUA36",
@@ -2309,7 +2309,7 @@
     "ficha": "img/fichas/ABIB7.png",
     "video": "img/videos/Abib7.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BEAUTY6",
@@ -2329,7 +2329,7 @@
     "ficha": "img/fichas/BEAUTY6.png",
     "video": "img/videos/Beauty6.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BEAUTY14",
@@ -2347,7 +2347,7 @@
     "ficha": "img/fichas/BEAUTY14.png",
     "video": "img/videos/Beauty14.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BEAUTY3",
@@ -2388,7 +2388,7 @@
     "ficha": "img/fichas/BEAUTY5.png",
     "video": "img/videos/Beauty5.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BEAUTY13",
@@ -2538,7 +2538,7 @@
     "ficha": "img/fichas/BEAUTY4.png",
     "video": "img/videos/Beauty4.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "BEAUTY7",
@@ -2730,7 +2730,7 @@
     "ficha": "img/fichas/MEDICUBE45.png",
     "video": "img/videos/Medicube45.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE34",
@@ -2772,7 +2772,7 @@
     "ficha": "img/fichas/MEDICUBE2.png",
     "video": "img/videos/Medicube2.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE57",
@@ -2792,7 +2792,7 @@
     "ficha": "img/fichas/MEDICUBE57.png",
     "video": "img/videos/Medicube57.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE58",
@@ -2813,7 +2813,7 @@
     "ficha": "img/fichas/MEDICUBE58.png",
     "video": "img/videos/Medicube58.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE64",
@@ -2834,7 +2834,7 @@
     "ficha": "img/fichas/MEDICUBE64.png",
     "video": "img/videos/Medicube64.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE73",
@@ -2875,7 +2875,7 @@
     "ficha": "img/fichas/MEDICUBE1.png",
     "video": "img/videos/Medicube1.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE46",
@@ -2998,7 +2998,7 @@
     "ficha": "img/fichas/MEDICUBE49.png",
     "video": "img/videos/Medicube49.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE52",
@@ -3041,7 +3041,7 @@
     "ficha": "img/fichas/MEDICUBE9.png",
     "video": "img/videos/MEDICUBE9.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE44",
@@ -3062,7 +3062,7 @@
     "ficha": "img/fichas/MEDICUBE44.png",
     "video": "img/videos/Medicube44.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE55",
@@ -3083,7 +3083,7 @@
     "ficha": "img/fichas/MEDICUBE55.png",
     "video": "img/videos/Medicube55.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE54",
@@ -3105,7 +3105,7 @@
     "ficha": "img/fichas/MEDICUBE54.png",
     "video": "img/videos/Medicube54.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE30",
@@ -3288,7 +3288,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE69.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE72",
@@ -3308,7 +3308,7 @@
     "ficha": "img/fichas/MEDICUBE72.png",
     "video": "img/videos/Medicube72.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE62",
@@ -3441,7 +3441,7 @@
     "ficha": "img/fichas/MEDICUBE19.png",
     "video": "img/videos/Medicube19.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE75",
@@ -3535,7 +3535,7 @@
     "ficha": "img/fichas/MEDICUBE10.png",
     "video": "img/videos/Medicube10.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE33",
@@ -3593,7 +3593,7 @@
     "ficha": "img/fichas/MEDICUBE35.png",
     "video": "img/videos/Medicube35.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE68",
@@ -3613,7 +3613,7 @@
     "ficha": "img/fichas/MEDICUBE68.png",
     "video": "img/videos/Medicube68.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE79",
@@ -3634,7 +3634,7 @@
     "ficha": "img/fichas/MEDICUBE79.png",
     "video": "img/videos/Medicube79.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE17",
@@ -3674,7 +3674,7 @@
     "ficha": "img/fichas/MEDICUBE22.png",
     "video": "img/videos/Medicube22.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE59",
@@ -3696,7 +3696,7 @@
     "ficha": "img/fichas/MEDICUBE59.png",
     "video": "img/videos/Medicube59.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE108",
@@ -3734,7 +3734,7 @@
     "ficha": "img/fichas/MEDICUBE71.png",
     "video": "img/videos/Medicube71.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE11",
@@ -3771,7 +3771,7 @@
     "ficha": "img/fichas/MEDICUBE18.png",
     "video": "img/videos/MEDICUBE18.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE61",
@@ -3792,7 +3792,7 @@
     "ficha": "img/fichas/MEDICUBE61.png",
     "video": "img/videos/Medicube61.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE63",
@@ -3908,7 +3908,7 @@
     "ficha": "img/fichas/MEDICUBE21.png",
     "video": "img/videos/MEDICUBE21.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE20",
@@ -3949,7 +3949,7 @@
     "ficha": "img/fichas/MEDICUBE25.png",
     "video": "img/videos/Medicube25.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE48",
@@ -4041,7 +4041,7 @@
     "ficha": "img/fichas/MEDICUBE37.png",
     "video": "img/videos/Medicube37.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE14",
@@ -4137,7 +4137,7 @@
     "ficha": "img/fichas/MEDICUBE26.png",
     "video": "img/videos/Medicube26.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE27",
@@ -4158,7 +4158,7 @@
     "ficha": "img/fichas/MEDICUBE27.png",
     "video": "img/videos/Medicube27.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE70",
@@ -4178,7 +4178,7 @@
     "ficha": "img/fichas/MEDICUBE70.png",
     "video": "img/videos/Medicube70.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE80",
@@ -4199,7 +4199,7 @@
     "ficha": "img/fichas/MEDICUBE80.png",
     "video": "img/videos/Medicube80.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE28",
@@ -4330,7 +4330,7 @@
     "ficha": "img/fichas/MEDICUBE3.png",
     "video": "img/videos/Medicube3.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE83",
@@ -4418,7 +4418,7 @@
     "ficha": "img/fichas/MEDICUBE89.png",
     "video": "img/videos/Medicube89.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE90",
@@ -4468,7 +4468,7 @@
     "ficha": "img/fichas/MEDICUBE92.jpg",
     "video": "img/videos/Medicube92.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE93",
@@ -4555,7 +4555,7 @@
     "ficha": "img/fichas/MEDICUBE97.png",
     "video": "img/videos/MEDICUBE97.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE98",
@@ -4590,7 +4590,7 @@
     "ficha": "img/fichas/MEDICUBE99.png",
     "video": "img/videos/Medicube99.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE106",
@@ -6042,7 +6042,7 @@
     "ficha": "img/fichas/DR-ALTHEA8.png",
     "video": "img/videos/Dr-Althea8.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA9",
@@ -6157,7 +6157,7 @@
     "ficha": "img/fichas/DR-ALTHEA14.jpg",
     "video": "img/videos/Dr-Althea14.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA20",
@@ -6339,7 +6339,7 @@
     "ficha": "img/fichas/DR-ALTHEA4.png",
     "video": "img/videos/DR-ALTHEA4.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA26",
@@ -6376,7 +6376,7 @@
     "ficha": "img/fichas/DR-ALTHEA17.jpg",
     "video": "img/videos/Dr-Althea17.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA18",
@@ -6454,7 +6454,7 @@
     "ficha": "img/fichas/DR-ALTHEA21.png",
     "video": "img/videos/Dr-Althea21.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA11",
@@ -6554,7 +6554,7 @@
     "ficha": "img/fichas/D-ALBA3.png",
     "video": "img/videos/D-Alba3.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "D-ALBA4",
@@ -7499,7 +7499,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": true,
+    "preventa": false,
     "ficha": "img/fichas/CELI-01.png",
     "video": "img/videos/CELI-01.mp4"
   },
@@ -7654,7 +7654,7 @@
     "ficha": "img/fichas/CELI-09.png",
     "video": "img/videos/Celi-09.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "CELI-10",
@@ -7911,7 +7911,7 @@
     "ficha": "img/fichas/KSEC-02.png",
     "video": "img/videos/Ksec-02.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "KSEC-03",
@@ -8029,7 +8029,7 @@
     "ficha": "img/fichas/AREN-02.png",
     "video": "img/videos/Aren-02.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "AREN-03",
@@ -8507,7 +8507,7 @@
     "ficha": "img/fichas/CENTELLIAN24-05.png",
     "video": "img/videos/Centellian24-05.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "CENTELLIAN24-06",
@@ -8529,7 +8529,7 @@
     "ficha": "img/fichas/CENTELLIAN24-06.png",
     "video": "img/videos/Centellian24-06.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "CENTELLIAN24-07",
@@ -8621,7 +8621,7 @@
     "ficha": "img/fichas/CENTELLIAN24-10.png",
     "video": "img/videos/Centellian24-10.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "JUMI-04",
@@ -8931,7 +8931,7 @@
     "ficha": "img/fichas/DR-MELAXIN03.png",
     "video": "img/videos/Dr-Melaxin03.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-MELAXIN04",
@@ -8950,7 +8950,7 @@
     "ficha": "img/fichas/DR-MELAXIN04.png",
     "video": "img/videos/Dr-Melaxin04.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "LILYEVE-01",
@@ -9069,7 +9069,7 @@
     "ficha": "img/fichas/DR-ALTHEA27.png",
     "video": "img/videos/DR-ALTHEA27.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "JUMI-07",
@@ -9086,7 +9086,7 @@
     ],
     "ficha": "img/fichas/JUMI-07.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "IM.FROM-01",
@@ -9190,7 +9190,7 @@
     "ficha": "img/fichas/MEDICUBE112.png",
     "video": "img/videos/Medicube112.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA29",
@@ -9298,7 +9298,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-11.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "CENTELLIAN24-12",
@@ -9316,7 +9316,7 @@
     ],
     "ficha": "img/fichas/CENTELLIAN24-12.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA28",
@@ -9336,7 +9336,7 @@
     "ficha": "img/fichas/DR-ALTHEA28.png",
     "video": "img/videos/Dr-Althea28.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-MELAXIN01",
@@ -9355,7 +9355,7 @@
     "ficha": "img/fichas/DR-MELAXIN01.png",
     "video": "img/videos/Dr-Melaxin01.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE111",
@@ -9371,7 +9371,7 @@
     "ficha": "img/fichas/MEDICUBE111.png",
     "video": "img/videos/Medicube111.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE113",
@@ -9407,7 +9407,7 @@
     "ficha": "img/fichas/MEDICUBE105.png",
     "video": "img/videos/Medicube105.mp4",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "MEDICUBE109",
