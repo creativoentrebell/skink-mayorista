@@ -1557,7 +1557,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Rica en niacinamida y melocotón, esta espuma limpiadora purifica los poros e ilumina la piel. Contiene glucósido de glicerilo y ceramida para una limpieza sin sensación de tirantez. Su formulación ligeramente ácida ofrece una limpieza suave pero profunda y es adecuada para pieles grasas y propensas al acné. Ingredientes claves: Niacinamida, extracto de fruta, melocotón, ceramida, Centella asiática.",
     "imagen": "img/skink/ANUA31.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2617,7 +2617,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, pensada para la deshidratación crónica y la barrera comprometida; ideal para piel seca o sensible. Se vuelve transparente a medida que la piel absorbe la esencia y se deja de 3 a 4 horas o toda la noche. Ingredientes claves: complejo Cera-nol (ceramidas, ácido hialurónico oligo y D-pantenol), agua glaciar y fermentado de galactomyces.",
     "imagen": "img/skink/BIODANCE1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2638,7 +2638,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, que se adapta al rostro y se vuelve transparente a medida que la piel absorbe la esencia. Ayuda con poros dilatados, pérdida de elasticidad y textura áspera; apta para todo tipo de piel, incluida la sensible. Se deja de 3 a 4 horas o toda la noche. Ingredientes claves: colágeno de ultra bajo peso molecular, ácido hialurónico, filtrado fermentado de galactomyces y probióticos.",
     "imagen": "img/skink/BIODANCE2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -2660,7 +2660,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel con niacinamida que mejora el tono, la textura y la luminosidad de la piel. Ingredientes claves: niacinamida, agua de piña, ácido hialurónico, extracto de pera, agua de rosas.",
     "imagen": "img/skink/BIODANCE3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -2680,7 +2680,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla de hidrogel hecha de esencia solidificada, sin tela, que ayuda a equilibrar grasa e hidratación y a calmar la piel. Ideal para piel grasa, con tendencia acneica o enrojecimiento; no comedogénica. Se deja de 3 a 4 horas o toda la noche. Ingredientes claves: algas marinas (kelp) fermentadas 10%, agua de mar profundo y fermentado de galactomyces.",
     "imagen": "img/skink/BIODANCE4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3196,7 +3196,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador facial diario que forma una espuma densa para limpiar poros e impurezas sin resecar, dejando la piel suave y fresca. Enfocado en manchas, marcas de acné, tono irregular, exceso de grasa y puntos negros; apto para todo tipo de piel. Ingredientes claves: ácido kójico, cúrcuma y niacinamida.",
     "imagen": "img/skink/MEDICUBE56.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3545,7 +3545,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla de gel será tu aliado ideal para disminuir visiblemente la apariencia de manchas oscuras e hiperpigmentación, incluyendo las que se encuentran en las capas más profundas de la piel. Ingredientes claves: Niacinamida, cúrcuma, retinol, ceramida, colágeno.",
     "imagen": "img/skink/MEDICUBE33.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4168,7 +4168,7 @@
     "categoria": "Sérum",
     "descripcion": "SERUM (Suero refuerzo de retinol) Es un suero facial antiedad diseñado para mejorar la firmeza y elasticidad de la piel, reducir líneas de expresión y unificar el tono. Combina retinol encapsulado y NMN de alta pureza para minimizar la irritación y potenciar los resultados. Ingredientes claves: Retinol, retinal, ceramidas, pantenol, niacinamida, ácido hialurónico, péptidos, vitamina C.",
     "imagen": "img/skink/MEDICUBE70.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4392,7 +4392,7 @@
     "categoria": "Exfoliante",
     "descripcion": "Peeling en gel de enjuague para piel sensible y con tendencia al acné que retira células muertas, ayuda a destapar y afinar poros, suaviza la textura y calma el enrojecimiento. Se deja 1 a 2 minutos sobre la piel seca y se enjuaga; usar solo de noche, 2 a 3 veces por semana, y protector solar en el día. Ingredientes claves: ácido succínico, ácido láctico, ácido glicólico, ácido salicílico, pantenol y alantoína.",
     "imagen": "img/skink/MEDICUBE86.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4409,7 +4409,7 @@
     "categoria": "Tónico",
     "descripcion": "Pads de gel sumergidos en una esencia de PDRN de ADN de salmón, de textura gelatinosa que se adhiere a la piel. Se pueden dejar unos cinco minutos sobre zonas específicas como mascarilla rápida y luego pasarlos por el rostro. Enfocados en resequedad, piel apagada, tono irregular y manchas. Ingredientes claves: PDRN de salmón, colágeno, niacinamida y madecasósido.",
     "imagen": "img/skink/MEDICUBE89.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4750,7 +4750,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Crema antigranos que combate el acné incipiente Infundida con agua de hojas de árbol de té, para calmar intensamente la piel sensible e irritada. La calamina en la fórmula absorbe el exceso de sebo y favorece la limpieza de la piel. La textura en gel se absorbe rápidamente en la piel sin dejar sensación pegajosa. Ingredientes claves: Extracto de centella, hojas de pino, calamina.",
     "imagen": "img/skink/SKIN1004-34.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -6459,7 +6459,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiática Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -7586,7 +7586,7 @@
     "categoria": "Hidratación",
     "descripcion": "Una crema altamente nutritiva con 55% de extracto de noni y 1% de aceite de semilla de noni para calmar e hidratar la piel seca y dañada, disminuye eficazmente la hinchazón de la piel, promoviendo la curación de diversos problemas de la piel. Ingredientes claves: Manteca de karité, niacinamida, extracto de morinda, romero, ácido hialurónico, ceramida.",
     "imagen": "img/skink/CELI-04.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Brillo y Luminosidad",
@@ -9167,7 +9167,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema para cuello con aplicador gua sha integrado, pensada para mandíbula, cuello, clavícula y escote. Ayuda a mejorar la apariencia de líneas finas y líneas horizontales del cuello y a que la piel luzca más firme; textura ligera y no pegajosa para masajear hacia arriba unos cinco minutos al día. Ingredientes claves: Volufiline 5%, PDRN, colágeno, niacinamida, ácido hialurónico y retinol.",
     "imagen": "img/skink/MEDICUBE100.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -9453,7 +9453,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE109.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Brillo y Luminosidad",
