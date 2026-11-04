@@ -4922,7 +4922,7 @@
     "categoria": "Sérum",
     "descripcion": "Protector solar con color durazno SPF50+ PA++++ de filtros híbridos, para usar solo o bajo el maquillaje. Ilumina la piel apagada y ayuda a unificar el tono irregular, las manchas y el enrojecimiento, con un acabado ligero e hidratante. Ingredientes claves: niacinamida, ácido tranexámico, centella asiática, madecasósido y hialuronato de sodio.",
     "imagen": "img/skink/SKIN1004-37.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4933,7 +4933,7 @@
     ],
     "ficha": "img/fichas/SKIN1004-37.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-47",
@@ -5012,7 +5012,7 @@
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-6.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5021,7 +5021,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-54",
@@ -5068,7 +5068,7 @@
     "categoria": "Hidratación",
     "descripcion": "Ofrece una alta protección SPF50+ PA++++, mientras suaviza visiblemente la textura de la piel gracias al extracto puro de Centella de Madagascar y un complejo de ingredientes que ayudan a minimizar poros y controlar el exceso de sebo. Ingredientes claves: Niacinamida, extracto de centella asiática, extracto de semillas, sal marina, glicerina.",
     "imagen": "img/skink/SKIN1004-75.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5078,7 +5078,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-84",
@@ -5306,7 +5306,7 @@
     "categoria": "Protección Solar",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-71.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5315,7 +5315,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-49",
@@ -5995,14 +5995,14 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-101.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": true,
     "tipos_piel": [
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/SKIN1004-101.png",
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "AXIS-Y1",
