@@ -5903,7 +5903,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "Kit de viaje con la rutina de 4 pasos para el cuidado de los poros: Poremizing Deep Cleansing Foam (20 ml), Poremizing Clear Toner (30 ml), Poremizing Fresh Ampoule (30 ml) y Poremizing Light Gel Cream (30 ml). Pensado para poros dilatados, exceso de grasa y textura irregular.",
     "imagen": "img/skink/SKIN1004-83.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -5915,7 +5915,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-86",
