@@ -4581,7 +4581,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum hidratante de textura acuosa y rápida absorción, ideal para piel grasa a mixta, clima cálido y uso bajo el maquillaje. Ayuda con la deshidratación, el tono irregular y la piel apagada; fórmula de baja irritación sin fragancia ni colorantes artificiales. Ingredientes claves: PDRN de salmón, ácido hialurónico, niacinamida y vitamina B12.",
     "imagen": "img/skink/MEDICUBE99.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6203,7 +6203,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Sérum para el contorno de ojos con aplicador rodillo tipo gua sha que ayuda a reducir la apariencia de líneas finas, ojeras, hinchazón y flacidez, con efecto tensor temporal, mientras hidrata y calma. Evitar el contacto directo con los ojos. Ingredientes claves: Retinol (1.000 ppm), bakuchiol, ácido hialurónico, centella asiática, péptidos, ceramida NP, pantenol.",
     "imagen": "img/skink/DR-ALTHEA20.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6364,7 +6364,7 @@
     "categoria": "Hidratación",
     "descripcion": "La Crema 147 Barrier es un tratamiento avanzado de cuidado de la piel diseñado para fortalecer la barrera cutánea, proporcionar nutrición y garantizar una hidratación profunda. Su formulación está enriquecida con ingredientes que refuerzan la función protectora de la piel. Ingredientes claves: Niacinamida, ceramidas, centella asiática, aceite de macadamia, ácido hialurónico. 147 Barrier Cream (Crema protectora 147)",
     "imagen": "img/skink/DR-ALTHEA4.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
