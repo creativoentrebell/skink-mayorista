@@ -127,7 +127,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false,
+    "preventa": true,
     "ficha": "img/fichas/TOCOBO52.png",
     "video": "img/videos/TOCOBO52.mp4"
   },
@@ -176,7 +176,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Presentación mini (10 ml) del protector solar en sérum SPF50+ PA++++ de la línea Cica Calming. Textura ligera y húmeda de rápida absorción, sin residuo pegajoso, que además calma y refresca la piel irritada por el sol. No comedogénico, vegano, apto para piel sensible o con tendencia al acné. Ingredientes claves: Complejo de centella fermentada, 10 tipos de ácido hialurónico, aloe vera, niacinamida.",
     "imagen": "img/skink/TOCOBO42.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -186,7 +186,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO41",
@@ -262,7 +262,7 @@
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false,
     "ficha": "img/fichas/TOCOBO39.png",
     "video": "img/videos/TOCOBO39.mp4"
@@ -361,7 +361,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO34.png",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -679,7 +679,7 @@
       "Protección Solar"
     ],
     "ficha": "img/fichas/TOCOBO55.png",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -711,7 +711,7 @@
     "tipos_piel": [
       "Universal"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -777,7 +777,7 @@
     ],
     "ficha": "img/fichas/TOCOBO67.png",
     "video": "img/videos/Tocobo67.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -788,14 +788,14 @@
     "categoria": "Primera Limpieza",
     "descripcion": "Aceite limpiador ligero que retira maquillaje, protector solar e impurezas sin dejar película grasosa ni resecar. Apto para todo tipo de piel, apoya la barrera y aporta antioxidantes de sus extractos fermentados. Ingredientes claves: soya, granada, cebada y pera fermentadas, y aceites de soya, jojoba y girasol.",
     "imagen": "img/skink/MIXSOON1.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
     "ficha": "img/fichas/MIXSOON1.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MIXSOON31",
@@ -1070,7 +1070,7 @@
       "Brillo y Luminosidad"
     ],
     "ficha": "img/fichas/MIXSOON12.jpg",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -1674,7 +1674,7 @@
     "ficha": "img/fichas/ANUA4.png",
     "video": "img/videos/Anua4.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ANUA5",
@@ -1771,7 +1771,7 @@
       "Manchas e Hiperpigmentación"
     ],
     "ficha": "img/fichas/ANUA16.png",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -1791,7 +1791,7 @@
     ],
     "ficha": "img/fichas/ANUA2.png",
     "video": "img/videos/Anua2.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -2281,14 +2281,14 @@
     "categoria": "Protección Solar",
     "descripcion": "Esta barra solar orgánica defiende fácilmente los rayos UV mientras calma y fortalece la piel. La fórmula resistente al agua. Diseño curvo que se adhiere perfectamente a la cara para una mejor aplicación. Formulado con ingredientes naturales para hidratar y calmar tu piel para una tez suave. Ingredientes claves: Aceite vegetal, semilla de camelia, semilla de girasol.",
     "imagen": "img/skink/ABIB6.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Piel Sensible y Calmante",
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "ABIB7",
@@ -2874,7 +2874,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE1.png",
     "video": "img/videos/Medicube1.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -3040,7 +3040,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE9.png",
     "video": "img/videos/MEDICUBE9.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -3554,7 +3554,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE33.png",
     "video": "img/videos/Medicube33.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -3673,7 +3673,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE22.png",
     "video": "img/videos/Medicube22.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -3770,7 +3770,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE18.png",
     "video": "img/videos/MEDICUBE18.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -3907,7 +3907,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE21.png",
     "video": "img/videos/MEDICUBE21.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -4080,7 +4080,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE16.png",
     "video": "img/videos/Medicube16.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -4136,7 +4136,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE26.png",
     "video": "img/videos/Medicube26.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -4157,7 +4157,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE27.png",
     "video": "img/videos/Medicube27.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -5205,12 +5205,12 @@
   {
     "id": "SKIN1004-9",
     "referencia": "SKIN1004-9",
-    "nombre": "Madagascar Centella Calming Spot Serum 22ml",
+    "nombre": "Madagascar Centella Hyalu-Cica First Ampoule 100ml",
     "marca": "SKIN 1004",
     "categoria": "Sérum",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-9.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -5219,7 +5219,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-19",
@@ -5264,12 +5264,12 @@
   {
     "id": "SKIN1004-52",
     "referencia": "SKIN1004-52",
-    "nombre": "Madagascar Centella Calming Active Skin Booster Mini 75ml",
+    "nombre": "Madagascar Centella Hyalu-Cica Silky-Fit Sun Stick 7g",
     "marca": "SKIN 1004",
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-52.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5277,7 +5277,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-38",
@@ -5577,7 +5577,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/SKIN1004-7.png",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": true
   },
   {
@@ -5665,7 +5665,7 @@
       "Hidratación Profunda",
       "Piel Sensible y Calmante"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -6230,7 +6230,7 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/DR-ALTHEA15.png",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -6459,7 +6459,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiática Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA1.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -6469,7 +6469,7 @@
     "ficha": "img/fichas/DR-ALTHEA1.png",
     "video": "img/videos/DR-ALTHEA1.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA21",
@@ -6479,7 +6479,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiática Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6490,7 +6490,7 @@
     "ficha": "img/fichas/DR-ALTHEA21.png",
     "video": "img/videos/Dr-Althea21.mp4",
     "mas_vendido": true,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA11",
@@ -6551,7 +6551,7 @@
       "Piel Sensible y Calmante"
     ],
     "video": "img/videos/DR-ALTHEA22.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -7534,7 +7534,7 @@
       "Piel Grasa y Poros",
       "Piel Sensible y Calmante"
     ],
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false,
     "ficha": "img/fichas/CELI-01.png",
     "video": "img/videos/CELI-01.mp4"
@@ -8268,7 +8268,7 @@
     ],
     "ficha": "img/fichas/KAHI01.png",
     "video": "img/videos/KAHI-01.mp4",
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -9035,7 +9035,7 @@
       "Contorno de Ojos",
       "Anti-edad"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -9051,7 +9051,7 @@
     "tipos_piel": [
       "Piel Grasa y Poros"
     ],
-    "mas_vendido": true,
+    "mas_vendido": false,
     "preventa": false
   },
   {
@@ -9104,8 +9104,8 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA27.png",
     "video": "img/videos/DR-ALTHEA27.mp4",
-    "mas_vendido": false,
-    "preventa": false
+    "mas_vendido": true,
+    "preventa": true
   },
   {
     "id": "JUMI-07",
@@ -9390,7 +9390,7 @@
     ],
     "ficha": "img/fichas/DR-MELAXIN01.png",
     "video": "img/videos/Dr-Melaxin01.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -9442,7 +9442,7 @@
     ],
     "ficha": "img/fichas/MEDICUBE105.png",
     "video": "img/videos/Medicube105.mp4",
-    "mas_vendido": false,
+    "mas_vendido": true,
     "preventa": false
   },
   {
@@ -9463,5 +9463,134 @@
     "video": "img/videos/Medicube109.mp4",
     "mas_vendido": false,
     "preventa": false
+  },
+  {
+    "id": "MEDICUBE133",
+    "referencia": "MEDICUBE133",
+    "nombre": "[Renew] Hypochlorous Acid Daily Facial Spray 125ml",
+    "marca": "MEDICUBE",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné",
+      "Anti-edad",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/MEDICUBE133.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "NIDA-05",
+    "referencia": "NIDA-05",
+    "nombre": "Centella Hydrating Serum 50ml",
+    "marca": "NIDA",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/NIDA-05.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA23",
+    "referencia": "DR-ALTHEA23",
+    "nombre": "147 Barrier Cream 15ml",
+    "marca": "DR-ALTHEA",
+    "categoria": "Hidratación",
+    "descripcion": "La Crema 147 Barrier es un tratamiento avanzado de cuidado de la piel diseñado para fortalecer la barrera cutánea, proporcionar nutrición y garantizar una hidratación profunda. Su formulación está enriquecida con ingredientes que refuerzan la función protectora de la piel. Ingredientes claves: Niacinamida, ceramidas, centella asiática, aceite de macadamia, ácido hialurónico. 147 Barrier Cream (Crema protectora 147)",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Manchas e Hiperpigmentación",
+      "Piel Sensible y Calmante",
+      "Protección Solar"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA23.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "CENTELLIAN24-13",
+    "referencia": "CENTELLIAN24-13",
+    "nombre": "Madeca Cream Time Reverse Set Merry Winter Edition",
+    "marca": "CENTELLIAN24",
+    "categoria": "Sets y Kits",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Anti-edad",
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/CENTELLIAN24-13.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "ANUA46",
+    "referencia": "ANUA46",
+    "nombre": "Barrier Reboot Daily Moisturizer 100ml",
+    "marca": "ANUA",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/ANUA46.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "ANUA45",
+    "referencia": "ANUA45",
+    "nombre": "Barrier Reboot Watery Gel Cream 100ml",
+    "marca": "ANUA",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Grasa y Poros"
+    ],
+    "ficha": "img/fichas/ANUA45.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "ANUA44",
+    "referencia": "ANUA44",
+    "nombre": "Barrier Reboot Intensive Cream 100ml",
+    "marca": "ANUA",
+    "categoria": "Hidratación",
+    "descripcion": "",
+    "imagen": "",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/ANUA44.png",
+    "mas_vendido": false,
+    "preventa": true
   }
 ]
