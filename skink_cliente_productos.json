@@ -1622,7 +1622,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Espuma limpiadora de textura rica que elimina impurezas y exceso de grasa, exfolia suavemente la zona de la nariz y las mejillas, y calma la piel estresada dejándola hidratada. No comedogénica y de baja irritación. Ingredientes claves: Agua y polvo de hoja de corazón, quercetina, ácido hialurónico, betaína salicilato, glicerina.",
     "imagen": "img/skink/ANUA3.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -1782,7 +1782,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum ligero, no grasoso y no comedogénico que ayuda a atenuar las manchas que dejan las imperfecciones, suaviza la textura, calma la irritación, equilibra el exceso de grasa y previene los poros obstruidos, mientras hidrata. Para piel grasa, sensible o con tendencia al acné. Ingredientes claves: Ácido azelaico (10%), hialuronato de sodio, niacinamida, centella asiática, pantenol, escualano.",
     "imagen": "img/skink/ANUA2.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -2298,7 +2298,7 @@
     "categoria": "Parches",
     "descripcion": "Parches de hidrogel refrescantes para ojos (30 pares) que ayudan a desinflamar, iluminar la apariencia de las ojeras y suavizar líneas finas mientras apoyan la barrera. Su superficie texturizada se adhiere sin deslizarse; también se pueden usar en patas de gallo, líneas de expresión, frente o cuello. Se dejan de 10 a 15 minutos. Ingredientes claves: PDRN vegano, retinal, colágeno, cafeína, niacinamida y centella asiática.",
     "imagen": "img/skink/ABIB7.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -2863,7 +2863,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum ligero de rápida absorción para piel grasa o mixta que ayuda a minimizar la apariencia de los poros, mejorar la textura irregular y equilibrar el exceso de grasa sin deshidratar. Uso mañana y noche. Ingredientes claves: niacinamida, extracto de flor de camelia y extractos botánicos.",
     "imagen": "img/skink/MEDICUBE1.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3003,12 +3003,12 @@
   {
     "id": "MEDICUBE52",
     "referencia": "MEDICUBE52",
-    "nombre": "Hyaluronic Moisturizing Capsule Cream 50ml",
+    "nombre": "Hyaluronic Moisturizing Capsule Cream 55g",
     "marca": "MEDICUBE",
     "categoria": "Hidratación",
     "descripcion": "Crema hidratante en cápsulas azules de ácido hialurónico y gel transparente que se mezclan al gusto: más gel para una textura ligera, más cápsulas para hidratación más rica. Hidrata de forma prolongada, apoya la barrera, calma el enrojecimiento y deja la piel jugosa con efecto refrescante. No comedogénica. Ingredientes claves: Ácido hialurónico de bajo peso molecular, ceramidas, pantenol, betaína, alantoína.",
     "imagen": "img/skink/MEDICUBE52.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3030,7 +3030,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema hidratante para el cuidado de los poros que ayuda a afinar su apariencia y a mejorar la textura con una exfoliación suave. Si no se está acostumbrado a los ácidos, introducirla poco a poco. Ingredientes claves: Ácido glicólico, ácido hialurónico, vitamina E, pantenol, alantoína.",
     "imagen": "img/skink/MEDICUBE9.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3072,7 +3072,7 @@
     "categoria": "Protección Solar",
     "descripcion": "Con un factor de protección FPS 50+ PA++++, esta fórmula avanzada defiende la piel de los rayos UVA y UVB sin dejar residuos blancos ni sensación grasosa. Enriquecido con un 99% de PDRN, revitaliza la piel desde el interior, mejorando su firmeza, elasticidad y luminosidad natural. Ingredientes claves: Niacinamida, ácido hialurónico, Ácido esteárico, extracto de colágeno.",
     "imagen": "img/skink/MEDICUBE55.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3298,7 +3298,7 @@
     "categoria": "Tónico",
     "descripcion": "Tónico alisador para rostro y cuerpo con aplicador de boquilla que ayuda a mejorar el tono desigual, las zonas oscuras y la textura áspera, con exfoliación suave. Se puede usar también en axilas, codos y rodillas. Textura ligera y no pegajosa. Ingredientes claves: Ácido kójico, cúrcuma, niacinamida, ácido glicólico.",
     "imagen": "img/skink/MEDICUBE72.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3411,7 +3411,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum iluminador con microcápsulas que liberan escualano y ácido tióctico al masajearlo sobre la piel. Enfocado en manchas, hiperpigmentación, piel apagada y tono irregular; también calma la irritación, refina la textura y apoya la barrera de hidratación. Ingredientes claves: ácido kójico, cúrcuma, niacinamida y vitamina E.",
     "imagen": "img/skink/MEDICUBE60.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -3519,12 +3519,12 @@
   {
     "id": "MEDICUBE10",
     "referencia": "MEDICUBE10",
-    "nombre": "Deep Vita C Capsule Cream 55ml",
+    "nombre": "Deep Vita C Capsule Cream 55g",
     "marca": "MEDICUBE",
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con cápsulas de vitamina C, brinda un brillo importante al mismo tiempo que reafirma, hidrata y refina la piel. La fórmula suave pero potente está dermatológicamente probada para ser adecuada para pieles sensibles. Ideal para pieles apagadas, con tez desigual o con manchas pigmentarias, aporta una luminosidad natural. Ingredientes claves: Niacinamida, aceite de soja, Vitamina C.",
     "imagen": "img/skink/MEDICUBE10.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3565,7 +3565,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Esta mascarilla nocturna premium combina ingredientes de alto rendimiento, para transformar tu piel mientras duermes. La cúrcuma y el ácido kójico ayudan a reducir manchas y unificar el tono, aporta hidratación profunda, dejando la piel suave, luminosa y renovada. Ingredientes claves: Cúrcuma, ácido kójico, retinol, colágeno, niacinamida, Vitamina C, aceite de soja.",
     "imagen": "img/skink/MEDICUBE39.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3663,7 +3663,7 @@
     "categoria": "Contorno de Ojos",
     "descripcion": "Esta crema para ojos está formulada con niacinamida, péptidos, retinol y PDRN de salmón que ayudan a reducir la apariencia de las áreas oscurecidas y mejoran las áreas opacas de los ojos con una hidratación intensiva. Ingredientes claves: Niacinamida, retinol, extracto de café, ácido hialurónico, péptidos.",
     "imagen": "img/skink/MEDICUBE22.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -3977,7 +3977,7 @@
     "categoria": "Sérum",
     "descripcion": "Gel potenciador está formulado con PDRN de salmón que proporciona un efecto calmante y reafirmante. El gel hidratante cuida la piel y hace que la piel exterior brille.",
     "imagen": "img/skink/MEDICUBE8.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4033,7 +4033,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Es una mascarilla nocturna de skincare coreano diseñada para transformar tu piel mientras duermes. Su innovadora textura perlada rosa crea una película ligera que envuelve el rostro, sellando la hidratación y potenciando la reparación cutánea durante toda la noche. Ingredientes claves: Aceite de flor de rosa, ácido ascórbico, cafeína, ácido hialurónico, péptidos.",
     "imagen": "img/skink/MEDICUBE37.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -4126,7 +4126,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum diario ligero, de baja irritación y sin fragancia para tono irregular, manchas, marcas de acné y piel con brotes; apto para piel mixta, seca, grasa y sensible. Ayuda a calmar la piel mientras la hidrata. Ingredientes claves: ácido tranexámico 5%, niacinamida 10%, arbutina, pantenol y 10 tipos de ácido hialurónico.",
     "imagen": "img/skink/MEDICUBE26.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -4147,7 +4147,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema iluminadora con ácido tranexámico, niacinamida, alpha-arbutina y glutatión. Unifica el tono, hidrata y mejora la textura desde el primer uso. No comedogénica y apta para piel sensible o con tendencia acneica. Ingredientes claves: Niacinamida, ácido tranexámico, pantenol, extracto de fresa, ceramida.",
     "imagen": "img/skink/MEDICUBE27.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4428,7 +4428,7 @@
     "categoria": "Segunda Limpieza",
     "descripcion": "Limpiador en espuma de uso diario para una limpieza profunda y control del exceso de sebo, indicado para piel mixta, seca, grasa y sensible. Su espuma rica y de burbujas finas retira maquillaje ligero y grasa sin resecar ni irritar, y ayuda a manejar puntos negros y blancos. Ingredientes claves: ácido salicílico 0,45% y extracto de raíz de Sophora angustifolia.",
     "imagen": "img/skink/MEDICUBE90.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Piel Grasa y Poros"
@@ -8212,7 +8212,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Innovador stick que combina la hidratación de una crema lifting con la cobertura de una base de maquillaje, adaptándose al tono de tu piel. Su práctico diseño incluye una brocha de alta calidad para una aplicación fácil y precisa.",
     "imagen": "img/skink/ELROEL-02.jpg",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad"
@@ -8798,7 +8798,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Base cushion hidratante de alta cobertura que disimula imperfecciones y rojeces, con acabado natural y duración de hasta 72 horas, resistente al sudor y a la transferencia. Tono 21C Cool Ivory. Ingredientes claves: extractos florales (hibisco, rosa, nenúfar), astaxantina y propóleo.",
     "imagen": "img/skink/TIRTIR24.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
