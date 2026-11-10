@@ -728,7 +728,7 @@
       "Capilar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "TOCOBO65",
@@ -3115,7 +3115,7 @@
     "categoria": "Mascarillas",
     "descripcion": "Mascarilla en tela de la línea Zero Pore enfocada en el cuidado de los poros. Su ingrediente refrescante sin alcohol calma y baja la temperatura de la piel sin irritarla, y su lámina de Cupra Tencel aporta hidratación. Ingredientes claves: niacinamida, adenosina, palmitoil tripéptido-5, alantoína y rutina.",
     "imagen": "img/skink/MEDICUBE30.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -3124,7 +3124,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE36",
@@ -4731,7 +4731,7 @@
     "categoria": "Sérum",
     "descripcion": "Madagascar Centella tea-trica soothing sun milk (leche solar calmante té y centella). Ingredientes claves: Extracto de centella, hojas de pino, calamina.",
     "imagen": "img/skink/SKIN1004-36.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4740,7 +4740,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-34",
@@ -4790,7 +4790,7 @@
     "categoria": "Hidratación",
     "descripcion": "Un gel exfoliante que ofrece un cuidado exfoliante suave para eliminar puntos negros, puntos blancos y células muertas de la piel. La hoja de árbol de té y la celulosa proporcionan un doble efecto peeling para eliminar las impurezas de la piel. Ingredientes claves: Extracto de té verde, agua hoja de té, pantenol, ácido salicílico.",
     "imagen": "img/skink/SKIN1004-74.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -4799,7 +4799,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-8",
@@ -5127,12 +5127,12 @@
   {
     "id": "SKIN1004-46",
     "referencia": "SKIN1004-46",
-    "nombre": "Madagascar Centella Tone Bridging Sun Serum SPF50+ 50ml",
+    "nombre": "Madagascar Centella Poremizing Clarifying Mask 23ml",
     "marca": "SKIN 1004",
-    "categoria": "Protección Solar",
+    "categoria": "Mascarillas",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-46.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Acné",
@@ -5140,11 +5140,10 @@
       "Brillo y Luminosidad",
       "Manchas e Hiperpigmentación",
       "Piel Grasa y Poros",
-      "Piel Sensible y Calmante",
-      "Protección Solar"
+      "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-45",
@@ -5396,12 +5395,12 @@
   {
     "id": "SKIN1004-32",
     "referencia": "SKIN1004-32",
-    "nombre": "Madagascar Centella Amposcure Toner 210ml",
+    "nombre": "Madagascar Centella Light Cleansing Oil 200ml",
     "marca": "SKIN 1004",
-    "categoria": "Tónico",
+    "categoria": "Primera Limpieza",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-32.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -5409,7 +5408,7 @@
       "Piel Sensible y Calmante"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-1",
@@ -5512,7 +5511,7 @@
     "categoria": "Tónico",
     "descripcion": "Protector solar físico de uso diario SPF30 PA++++ a base de óxido de zinc no nano, pensado para piel sensible. Su fórmula ligera se extiende sin dejar rastro blanco y calma la piel mientras apoya su barrera protectora. Ingredientes claves: óxido de zinc y extracto de centella asiática.",
     "imagen": "img/skink/SKIN1004-35.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Manchas e Hiperpigmentación",
@@ -5520,7 +5519,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "SKIN1004-18",
@@ -6241,7 +6240,7 @@
     "categoria": "Sérum",
     "descripcion": "Sérum de alta concentración de niacinamida y zinc que unifica e ilumina la piel apagada o irregular, ayuda a reducir manchas, refinar la textura, regular el sebo y calmar la irritación. Textura ligera de rápida absorción, apta para todo tipo de piel, incluida la sensible. Ingredientes claves: niacinamida 15%, zinc PCA y complejo Melacut.",
     "imagen": "img/skink/DR-ALTHEA16.webp",
-    "agotado": true,
+    "agotado": false,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6251,7 +6250,7 @@
     ],
     "ficha": "img/fichas/DR-ALTHEA16.jpg",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "DR-ALTHEA25",
@@ -9149,7 +9148,7 @@
     "categoria": "Sets y Kits",
     "descripcion": "",
     "imagen": "img/skink/MEDICUBE104.png",
-    "agotado": true,
+    "agotado": false,
     "nuevo": true,
     "tipos_piel": [
       "Universal"
@@ -9157,7 +9156,7 @@
     "ficha": "img/fichas/MEDICUBE104.png",
     "video": "img/videos/MEDICUBE104.mp4",
     "mas_vendido": false,
-    "preventa": false
+    "preventa": true
   },
   {
     "id": "MEDICUBE100",
@@ -9590,6 +9589,285 @@
       "Piel Sensible y Calmante"
     ],
     "ficha": "img/fichas/ANUA44.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE130",
+    "referencia": "MEDICUBE130",
+    "nombre": "Zero Pore Pad Mild (70 unidades)",
+    "marca": "MEDICUBE",
+    "categoria": "Tónico",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE130.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Piel Grasa y Poros",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/MEDICUBE130.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE117",
+    "referencia": "MEDICUBE117",
+    "nombre": "Zero Pore Pad 2.0 (70 unidades)",
+    "marca": "MEDICUBE",
+    "categoria": "Tónico",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE117.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Piel Grasa y Poros",
+      "Acné"
+    ],
+    "ficha": "img/fichas/MEDICUBE117.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA33",
+    "referencia": "DR-ALTHEA33",
+    "nombre": "2% Salicylic Acid Clear Pad",
+    "marca": "DR-ALTHEA",
+    "categoria": "Tónico",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA33.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné",
+      "Piel Grasa y Poros"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA33.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA31",
+    "referencia": "DR-ALTHEA31",
+    "nombre": "345 Relief Spot Powder",
+    "marca": "DR-ALTHEA",
+    "categoria": "Sérum",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA31.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné",
+      "Piel Sensible y Calmante"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA31.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA32",
+    "referencia": "DR-ALTHEA32",
+    "nombre": "Rapid Mild Acid Rescue Pore Pad",
+    "marca": "DR-ALTHEA",
+    "categoria": "Tónico",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA32.png",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Piel Grasa y Poros",
+      "Acné"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA32.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE129",
+    "referencia": "MEDICUBE129",
+    "nombre": "Red Succinic Acid Peeling Pad (70 unidades)",
+    "marca": "MEDICUBE",
+    "categoria": "Exfoliante",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE129.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné",
+      "Piel Grasa y Poros"
+    ],
+    "ficha": "img/fichas/MEDICUBE129.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "ANUA47",
+    "referencia": "ANUA47",
+    "nombre": "Ultra-Thin Spot Cover Patch 28 unidades",
+    "marca": "ANUA",
+    "categoria": "Parches",
+    "descripcion": "",
+    "imagen": "img/skink/ANUA47.png",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Acné"
+    ],
+    "ficha": "img/fichas/ANUA47.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "DR-ALTHEA34",
+    "referencia": "DR-ALTHEA34",
+    "nombre": "Soft Melting Fresh Lip Balm",
+    "marca": "DR-ALTHEA",
+    "categoria": "Labial",
+    "descripcion": "",
+    "imagen": "img/skink/DR-ALTHEA34.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/DR-ALTHEA34.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "Dr Reju-01",
+    "referencia": "Dr Reju-01",
+    "nombre": "Advanced PDRN Rejuvenating Lip Serum 10ml",
+    "marca": "DR. REJU",
+    "categoria": "Labial",
+    "descripcion": "",
+    "imagen": "img/skink/Dr Reju-01.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda",
+      "Anti-edad"
+    ],
+    "ficha": "img/fichas/Dr Reju-01.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE134",
+    "referencia": "MEDICUBE134",
+    "nombre": "[Renew] PDRN Peptide Glossy Lip Balm 10g",
+    "marca": "MEDICUBE",
+    "categoria": "Labial",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE134.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Hidratación Profunda"
+    ],
+    "ficha": "img/fichas/MEDICUBE134.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "TOCOBO69",
+    "referencia": "TOCOBO69",
+    "nombre": "Heat Proof Hair Mist 01 Lowkey Famous",
+    "marca": "TOCOBO",
+    "categoria": "Capilar",
+    "descripcion": "",
+    "imagen": "img/skink/TOCOBO69.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Capilar"
+    ],
+    "ficha": "img/fichas/TOCOBO69.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE101",
+    "referencia": "MEDICUBE101",
+    "nombre": "Fresh That Lasts Deodorant Stick Vanilla & Pistachio",
+    "marca": "MEDICUBE",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE101.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Universal"
+    ],
+    "ficha": "img/fichas/MEDICUBE101.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MEDICUBE120",
+    "referencia": "MEDICUBE120",
+    "nombre": "Rosemary PDRN Silk Hair Oil 100ml",
+    "marca": "MEDICUBE",
+    "categoria": "Capilar",
+    "descripcion": "",
+    "imagen": "img/skink/MEDICUBE120.png",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Capilar"
+    ],
+    "ficha": "img/fichas/MEDICUBE120.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "MOEV-07",
+    "referencia": "MOEV-07",
+    "nombre": "Hair Steamer Pro Oil Cartridges",
+    "marca": "MOEV",
+    "categoria": "Capilar",
+    "descripcion": "",
+    "imagen": "img/skink/MOEV-07.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Capilar"
+    ],
+    "ficha": "img/fichas/MOEV-07.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "BAREN-01",
+    "referencia": "BAREN-01",
+    "nombre": "[Renew] Dual Effect Nail and Cuticle Care Essence Oil Pen 2ml",
+    "marca": "BAREN",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/BAREN-01.jpg",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Universal"
+    ],
+    "ficha": "img/fichas/BAREN-01.png",
+    "mas_vendido": false,
+    "preventa": true
+  },
+  {
+    "id": "BAREN-02",
+    "referencia": "BAREN-02",
+    "nombre": "[Renew] Nail and Cuticle Care Essence Oil Pen 2ml",
+    "marca": "BAREN",
+    "categoria": "Accesorios",
+    "descripcion": "",
+    "imagen": "img/skink/BAREN-02.webp",
+    "agotado": false,
+    "nuevo": true,
+    "tipos_piel": [
+      "Universal"
+    ],
+    "ficha": "img/fichas/BAREN-02.png",
     "mas_vendido": false,
     "preventa": true
   }
