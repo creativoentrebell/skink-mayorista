@@ -5268,7 +5268,7 @@
     "categoria": "Tónico",
     "descripcion": "",
     "imagen": "img/skink/SKIN1004-52.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Hidratación Profunda",
@@ -5276,7 +5276,7 @@
       "Protección Solar"
     ],
     "mas_vendido": false,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "SKIN1004-38",
@@ -6478,7 +6478,7 @@
     "categoria": "Hidratación",
     "descripcion": "Crema calmante vegana ideal para hidratar y proteger la piel sensible. Formulada con ingredientes naturales como Centella Asiática Extract, esta crema ofrece un alivio efectivo para irritaciones y ayuda a restaurar la barrera cutánea. Ingredientes claves: Niacinamida, pantenol, ácido hialurónico, extracto de centella asiática. 345 Relief Cream (Crema de alivio 345)",
     "imagen": "img/skink/DR-ALTHEA21.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -6489,7 +6489,7 @@
     "ficha": "img/fichas/DR-ALTHEA21.png",
     "video": "img/videos/Dr-Althea21.mp4",
     "mas_vendido": true,
-    "preventa": true
+    "preventa": false
   },
   {
     "id": "DR-ALTHEA11",
@@ -7934,7 +7934,7 @@
     "categoria": "Labial",
     "descripcion": "Crema de ojos de noche con retinal liposomado que ayuda a suavizar líneas finas y patas de gallo, atenuar ojeras y pigmentación y dar firmeza, con menos irritación que los retinoides tradicionales. Textura sedosa, no grasosa y de rápida absorción; empezar 2 a 3 veces por semana y usar protector solar al día siguiente. Ingredientes claves: retinal liposomado 4%, extracto de soya fermentada, bakuchiol, vitamina C, vitamina E y péptidos.",
     "imagen": "img/skink/KSEC-02.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Anti-edad",
@@ -8749,7 +8749,7 @@
     "categoria": "Maquillaje",
     "descripcion": "Base cushion hidratante de alta cobertura que disimula imperfecciones y rojeces, con acabado natural y duración de hasta 72 horas, resistente al sudor y a la transferencia. Tono 17C Porcelain. Ingredientes claves: extractos florales (hibisco, rosa, nenúfar), astaxantina y propóleo.",
     "imagen": "img/skink/TIRTIR23.webp",
-    "agotado": false,
+    "agotado": true,
     "nuevo": false,
     "tipos_piel": [
       "Universal"
